@@ -1,0 +1,198 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html, body, #main {
+	background-color: hsl(216deg 14% 5%);;
+	color: #818181;
+	font-family: nunito;
+}
+
+#main {
+/*	overflow-x: hidden;*/
+/*	background-color: coral !important;*/
+}
+
+.topIcons {
+	display: flex;
+	flex-direction: row;
+	gap: 1rem;
+	margin-top: 2rem;
+	margin-left: 1rem;
+}
+
+.me {
+
+}
+
+.topIcon {
+	border: 1px solid #B5B5B5;
+	width: 1.2rem;
+	height: 1.2rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 0.2rem;
+	font-size: 0.8rem;
+}
+
+.question {
+/*	border: 3px solid coral;*/
+	margin: 1.2rem 1rem;
+	color: #eee;
+	display: flex;
+	flex-direction: column;
+/*	background-color: coral;*/
+	height: 70vh;
+}
+
+.answer {
+	border: 1px solid #999;
+/*	background-color: #020202;*/
+	margin-top: 0.4rem;
+	border-radius: 5px;
+	padding: 0.2rem;
+}
+.answers{
+	margin-top: auto;
+	overflow-y: scroll;
+}
+
+.swapButtons{
+	display: flex;
+	position: fixed;
+	right: 1rem;
+	bottom: 4rem;
+	width: 5rem;
+/*	background-color: coral;*/
+}
+
+.swapButton {
+	transition: 200ms;
+	border: 1px solid #eee;
+	flex: 1;	
+	color: #eeeeee;
+	backdrop-filter: blur(14px);
+	background-color: #00000000;
+}
+
+.swapButton.prev{
+	border-radius: 0.4rem 0 0 0.4rem;
+	text-align: left;
+}
+
+.swapButton.next{
+	border-radius: 0 0.4rem 0.4rem 0;
+	text-align: right;
+}
+
+.swapButton:hover {
+	z-index: 999;
+}
+
+.swapButton {
+	box-shadow: 0 0 0 #eee;
+}
+.swapButton.next:hover {
+	box-shadow: 10px 0 8px #0000;
+	background-color: #333;
+}
+.swapButton.prev:hover {
+	box-shadow: -10px 0 8px #0000;
+	background-color: #333;
+}
+.swapButton:active {
+	background-color: #aaa !important;
+	box-shadow: 0 0 5px #eee !important;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #00000000;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 1rem;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #eee;
+}
+
+@keyframes fromRight{
+	0%{
+		opacity: 0;
+		transform: translateX(0);
+	}
+	1%{	
+		transform: translateX(-50%);
+	}
+	100%{
+		transform: translateX(0);
+		opacity: 1;
+	}
+}
+@keyframes fromLeft{
+	0%{
+		opacity: 0;
+		transform: translateX(0);
+	}
+	1%{	
+		transform: translateX(50%);
+	}
+	100%{
+		transform: translateX(0);
+		opacity: 1;
+	}
+}
+
+.question{
+	position: absolute;
+	transform: translateX(0);
+	opacity: 1;
+	transition: 600ms;
+	animation-timing-function: ease-out;
+}
+.question.fromRight{
+	animation: fromRight 200ms forwards;
+}
+.question.fromLeft{
+	animation: fromLeft 200ms forwards;
+}
+
+@keyframes fadeLeft{
+	from{
+		transform: translateX(0);
+		opacity: 1;
+	}
+	to{
+		transform: translateX(-80%);
+/*		opacity: 0;*/
+	}
+}
+
+.fadeLeft {
+/*	animation: fadeLeft 400ms;*/
+/*	animation-fill-mode: forwards;*/
+	transform: translateX(-80%) scaleX(0);
+	transform-origin: center;
+/*	opacity: 0;*/
+
+}
+.fadeRight {
+/*	animation: fadeLeft 400ms;*/
+/*	animation-fill-mode: forwards;*/
+	transform: translateX(+80%) scaleX(0);
+/*	opacity: 0;*/
+
+}
