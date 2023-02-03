@@ -80,6 +80,8 @@ $.question.replaceWith(lastQuestion)
 		q.classList.add('fromRight')
 
 		lastQuestion.after(q)
+		setTimeout(()=>lastQuestion.classList.remove('fromRight'), 40)
+
 		lastQuestion.classList.add('fadeLeft')
 		lastQuestion.removeAfter(300)
 		lastQuestion = q
@@ -90,9 +92,11 @@ $.question.replaceWith(lastQuestion)
 		lastQuestion.after(q)
 
 		q.classList.add('fromLeft')
+		lastQuestion.classList.add('fadeRight')
 
 		lastQuestion.after(q)
-		lastQuestion.classList.add('fadeRight')
+		setTimeout(()=>lastQuestion.classList.remove('fromLeft'), 40)
+
 		lastQuestion.removeAfter(300)
 		lastQuestion = q
 

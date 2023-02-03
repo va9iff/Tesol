@@ -1,10 +1,4 @@
 00825_Az_Q23_Əyani_Ara imtahan 1 testinin sualları Fənn : 00825 Zərərverici proqram təminatı və bərpa mühəndisliyi
-# 
--
-
--
-
--
 İdentifikasiya nədir?
 İstifadəçiyə (və ya müəyyən şəxsin adından fəaliyyət göstərən prosesə) qeyri qanuni girişə imkan verir
 İstifadəçinin viruslu proqramlara girişini asanlaşdırır
@@ -420,15 +414,8 @@ istifadəsi:
 - Nuker 
 - Botnet
 + Packer
-#
-#
-#
-# 
--
 
--
-
-- Düzgün birləşdirilməmiş və ya təhlükəsizlik divarı olmayan Windows əsaslı əməliyyat sistemlərinə görülən kiber hücum:
+# Düzgün birləşdirilməmiş və ya təhlükəsizlik divarı olmayan Windows əsaslı əməliyyat sistemlərinə görülən kiber hücum:
 Botnet
 Binder
 Packer
@@ -661,13 +648,8 @@ səhifəyə daxil olmaq) yaşanır.
 - Heç bir fərq yoxdur. 
 - Təhlükəsizlik pozuntusu və kiberhücum terminləri eyni hadisəyə istinad etmək üçün istifadə olunur. + Kiberhücum həmişə müvəffəqiyyətlə nəticələnməsə də, təhlükəsizlik pozuntusu uğurlu kiberhücum kimi qiymətləndirilə bilər. 
 - Kiberhücum üçün zəmin hazırlamaq üçün təhlükəsizlik pozuntusu istifadə olunur. Aşağıdakılardan hansı fişinq hücumu üçün istifadə edilən üsullardan biri deyil?
-# 
--
 
--
-
-- Şəxs üçün maraqlı ola biləcək e-poçt məzmununun hazırlanması
-Özünü bankın və ya hər hansısa bir rəsmi qurumun nümayəndəsi kimi təqdim edib,şəxsi məlumatlarını istəmək
+# Özünü bankın və ya hər hansısa bir rəsmi qurumun nümayəndəsi kimi təqdim edib,şəxsi məlumatlarını istəmək
 İnsanı maraqlandıra biləcək reklam məzmununun hazırlanması
 +
 
@@ -807,8 +789,7 @@ Web Scam
 
 - Virus və qurdlara görə daha az rast gəlinir 
 - Özü-özünə çoxala bilən zərərli proqramdır
-# 
-- Qurdlar kimi digər kompüterlərə yayılmaq üçün şəbəkə imkanlarından istifadə etmələrinə ehtiyacları yoxdur. 
+#  Qurdlar kimi digər kompüterlərə yayılmaq üçün şəbəkə imkanlarından istifadə etmələrinə ehtiyacları yoxdur. 
 - Çox tez çoxala bilirlər
 Söhbət hansı zərərverici proqram təminatından gedir?
 
