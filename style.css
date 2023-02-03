@@ -45,7 +45,7 @@ html, body, #main {
 	display: flex;
 	flex-direction: column;
 /*	background-color: coral;*/
-	height: 70vh;
+	height: 80vh;
 }
 
 .answer {
@@ -66,6 +66,7 @@ html, body, #main {
 	right: 1rem;
 	bottom: 4rem;
 	width: 5rem;
+	z-index: 9999;
 /*	background-color: coral;*/
 }
 
@@ -129,7 +130,15 @@ html, body, #main {
   background: #eee;
 }
 
-@keyframes fromRight{
+.question{
+	position: absolute;
+	transform: translateX(0);
+	opacity: 1;
+	transition: 600ms;
+	animation-timing-function: ease-out;
+}
+
+@keyframes fromLeft{
 	0%{
 		opacity: 0;
 		transform: translateX(0);
@@ -142,7 +151,8 @@ html, body, #main {
 		opacity: 1;
 	}
 }
-@keyframes fromLeft{
+
+@keyframes fromRight{
 	0%{
 		opacity: 0;
 		transform: translateX(0);
@@ -155,44 +165,21 @@ html, body, #main {
 		opacity: 1;
 	}
 }
-
-.question{
-	position: absolute;
-	transform: translateX(0);
-	opacity: 1;
-	transition: 600ms;
-	animation-timing-function: ease-out;
-}
 .question.fromRight{
-	animation: fromRight 200ms forwards;
+	animation: fromRight 200ms;
 }
+
 .question.fromLeft{
-	animation: fromLeft 200ms forwards;
+	animation: fromLeft 200ms;
 }
 
-@keyframes fadeLeft{
-	from{
-		transform: translateX(0);
-		opacity: 1;
-	}
-	to{
-		transform: translateX(-80%);
-/*		opacity: 0;*/
-	}
+.question.fadeLeft {
+	transition: 200ms;
+	transform: translateX(-80%);
+	opacity: 0;
 }
-
-.fadeLeft {
-/*	animation: fadeLeft 400ms;*/
-/*	animation-fill-mode: forwards;*/
-	transform: translateX(-80%) scaleX(0);
-	transform-origin: center;
-/*	opacity: 0;*/
-
-}
-.fadeRight {
-/*	animation: fadeLeft 400ms;*/
-/*	animation-fill-mode: forwards;*/
-	transform: translateX(+80%) scaleX(0);
-/*	opacity: 0;*/
-
+.question.fadeRight {
+	transition: 200ms;
+	transform: translateX(+80%);
+	opacity: 0;
 }

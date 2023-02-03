@@ -1,3 +1,4 @@
+let unique = ((a=0)=>()=>a++)()
 import {$} from '/query.js'
 import {el} from '/el.js'
 let main = $.main
@@ -38,7 +39,7 @@ let prev = ()=>{
 
 function createQuestion(question) {
 	let q = el('div.question')
-	console.log(q)
+	q.setAttribute('s',unique())
 	q.innerHTML = `
 		<div class="asking">
 			${current}/${question.asking}
@@ -47,33 +48,54 @@ function createQuestion(question) {
 			${question.answers.map(answer=>`<div class="answer">${answer}</div>`).join('')}
 		</div>
 	`
+	// console.log(q)
+	q.removeAfter = t=> setTimeout(()=>{
+		// console.log(q)
+		q.remove()
+	}, t)
 	return q
 }
 
-let lastQuestion = $.question
+let lastQuestion = 	createQuestion(
+		{
+			asking: `Suallarınızı rahatlıqla işləyə biləcəyiniz, və gözlərinizin hüzur tapacağı bir proje.`,
+			answers: [
+				`Cavablar isə aşağıda`,,
+				`Əl çatan`,
+				`Və ya barmaq çatan?`,
+				`nəysə söhbət çox uzanmasın.`,
+				`Uğurlar!`,
+				],
+			correct: 2}
+		)
 
-function removeAfter(el, t) {
-	setTimeout(()=>el.remove(), t)
-}
+$.question.replaceWith(lastQuestion)
+
 ;(async ()=>{
 	questions = await getQuestions()
 	$.next.onclick = e=>{
 		next()
 		let q = createQuestion(questions[current])
-		q.classList.add('fromLeft')
+
+		q.classList.add('fromRight')
+
 		lastQuestion.after(q)
-		// lastQuestion.classList.add('fadeLeft')
-		lastQuestion.remove()
+		lastQuestion.classList.add('fadeLeft')
+		lastQuestion.removeAfter(300)
 		lastQuestion = q
 	}
 	$.prev.onclick = e=>{
 		prev()
 		let q = createQuestion(questions[current])
 		lastQuestion.after(q)
-		q.classList.add('fromRight')
-		// lastQuestion.classList.add('fadeRight')
-		lastQuestion.remove()
+
+		q.classList.add('fromLeft')
+
+		lastQuestion.after(q)
+		lastQuestion.classList.add('fadeRight')
+		lastQuestion.removeAfter(300)
 		lastQuestion = q
+
 	}
 })()
 
