@@ -52,6 +52,8 @@ html, body {
 	display: flex;
 	flex-direction:	 row;
 /*	background-color: coral;*/
+	pointer-events:none;
+
 /*	background: radial-gradient(ellipse at 50% 100%, #ffffff22, #0000, #0000);*/
 	gap: 1rem;
 	margin-top: 2rem;
@@ -62,9 +64,13 @@ html, body {
 	padding-left: 1rem;
 	width: 100%;
 	padding-right: 2rem;
-	padding-bottom: 1rem;
-	padding-top: 1rem;
+/*	padding-bottom: 1rem;*/
+/*	padding-top: 1rem;*/
 /*	overflow: visible;*/
+}
+
+.topIcons *{
+	pointer-events:auto;
 }
 
 .me {
