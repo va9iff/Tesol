@@ -24,7 +24,8 @@ async function getQuestions() {
 	let questionsRaw = questionsText.split(/(?=#)/)
 	let questions = questionsRaw.map(questionRaw => {
 		let question = { asking: "~va9iff", answers: [], correctId: 0 }
-		let components = questionRaw.split(/(?=[#\+\-])/)
+		let components = questionRaw.split(/(?=(?:\n#)|(?:\n\+)|(?:\n-))/)
+		console.log(components)
 		for (let [i, component] of components.entries()) {
 			component = component.trim().replace("\r\n", "<br>")
 			if (component[0] == "#") {

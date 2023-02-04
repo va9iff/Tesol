@@ -46,10 +46,13 @@ html, body {
 .topIcons {
 	z-index: 99999;
 	position: fixed;
+/*	bottom: 3rem;*/
+/*	top:	90vh;*/
 	bottom: 3rem;
 	display: flex;
 	flex-direction:	 row;
 /*	background-color: coral;*/
+/*	background: radial-gradient(ellipse at 50% 100%, #ffffff22, #0000, #0000);*/
 	gap: 1rem;
 	margin-top: 2rem;
 /*	justify-self: center;*/
@@ -111,11 +114,13 @@ html, body {
 
 .topIcon.pull{
 	transition: 800ms;
-	rotate: 0deg;
+/*	transform: scaleY(-1.0);*/
+	box-shadow: 0 0 #eee3 inset;
 }
 
 .topIcon.pull.pulled{
-	rotate: 360deg;
+/*	transform: scaleY(1.0);*/
+	box-shadow: 0 -4px #fffe inset;
 /*	border-radius: 50%;*/
 }
 .answers{
