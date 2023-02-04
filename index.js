@@ -54,16 +54,26 @@ function createQuestion(question) {
 	for (const [i, answer] of question.answers.entries()) {
 		let answerElement = el(`div.answer`)
 		question.answerElements.push(answerElement)
-		if (question.selected == i) answerElement.classList.add('selected')
+		if (question.selected == i) {
+			answerElement.classList.add('selected')
+			if (question.correct == i )
+				answerElement.classList.add('correct')
+		}
 		answerElement.innerText = answer
 		answerElement.onclick = e => {
 			question.answerElements.forEach(ans=>ans.classList.remove('selected'))
 			if (question.correct == i) answerElement.classList.add('correct')
-			answerElement.classList.add('selected')
-			question.selected = i
+			if (question.selected == i ) {
+				answerElement.classList.remove('selected')
+				delete question.selected
+			} else {
+				answerElement.classList.add('selected')
+				question.selected = i
+
+			}
 		}
 		q.querySelector(".answers").appendChild(answerElement)
-		console.log(question)
+		// console.log(question)
 	}
 	// console.log(q)
 	q.removeAfter = t =>
@@ -90,6 +100,7 @@ $.question.replaceWith(lastQuestion)
 ;(async () => {
 	questions = await getQuestions()
 	$.next.onclick = e => {
+		if (current == questions.length - 1) return	
 		next()
 		let question = questions[current]
 		let q = createQuestion(question)
@@ -104,6 +115,7 @@ $.question.replaceWith(lastQuestion)
 		lastQuestion = q
 	}
 	$.prev.onclick = e => {
+		if (current == 0) return	
 		prev()
 		let q = createQuestion(questions[current])
 		lastQuestion.after(q)
@@ -120,7 +132,15 @@ $.question.replaceWith(lastQuestion)
 })()
 
 
-$.eye.onclick = ()=>{
+$.eye.onclick = e=>{
 	console.log(main)
+	e.target.classList.toggle('highlight')
 	main.classList.toggle('eyeOpen')
 }
+
+$.pull.onclick = e=>{
+	main.classList.toggle('pulled')
+	e.target.classList.toggle('pulled')
+}
+
+$.fullScreen.onclick = e => document.body.requestFullscreen()

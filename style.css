@@ -2,10 +2,25 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-/*	user-select: none;*/
+	user-select: none;
 }
 
-html, body, #main {
+.eye{
+	transition: 2400ms;
+	padding: 0.2512rem !important;
+}
+
+.pull.highlight,
+.eye.highlight {
+	transition: 600ms;
+	background-color: #ddd;
+	color: #222;
+	border-radius: 50% !important;
+	counter-reset: #ddd;
+	border: 1px solid #fff !important;
+}
+
+html, body {
 	background-color: hsl(216deg 14% 5%);;
 	color: #818181;
 	font-family: nunito;
@@ -14,27 +29,39 @@ html, body, #main {
 #main {
 	position: relative;
 	overflow-x: hidden;
-	padding-left: 8000000000rem;
-	padding: 1rem;
-	height: 90vh;
+/*	padding-left: 8000000000rem;*/
+/*	padding: 1rem;*/
+	height: 100vh;
+	height: 100svh;
 	display: flex;
 /*	background-color: coral !important;*/
 }
 
 #main::-webkit-scrollbar-thumb {
-  background: #888;
+/*  background: #888;*/
   border-radius: 1rem;
 }
 
 
 .topIcons {
+	z-index: 99999;
+	position: fixed;
+	bottom: 3rem;
 	display: flex;
-	flex-direction: row;
+	flex-direction:	 row;
+/*	background-color: coral;*/
 	gap: 1rem;
 	margin-top: 2rem;
 /*	justify-self: center;*/
 	align-items: center;
-	margin-left: 1rem;
+/*	margin-left: 1rem;*/
+	left: 0;
+	padding-left: 1rem;
+	width: 100%;
+	padding-right: 2rem;
+	padding-bottom: 1rem;
+	padding-top: 1rem;
+/*	overflow: visible;*/
 }
 
 .me {
@@ -57,13 +84,17 @@ html, body, #main {
 .question {
 
 /*	border: 3px solid coral;*/
-	margin: 1.2rem 1rem;
-	width: calc(100% - 2 * 1.2rem);
+	margin: 1.2rem 0/*0.2rem*/;
+	padding-left:  10px;
+/*	width: calc(100% - 2 * 1.2rem);*/
+	width: 100%;
 	color: #eee;
 	display: flex;
 	flex-direction: column;
 /*	background-color: coral;*/
-	height: 80vh;
+	height: 90vh;
+	height: 90svh;
+
 }
 
 .answer {
@@ -72,9 +103,33 @@ html, body, #main {
 	margin-top: 0.4rem;
 	border-radius: 5px;
 	padding: 0.2rem;
+	padding-left: 0.3rem;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+
+.topIcon.pull{
+	transition: 800ms;
+	rotate: 0deg;
+}
+
+.topIcon.pull.pulled{
+	rotate: 360deg;
+/*	border-radius: 50%;*/
 }
 .answers{
+	transform: translateY(0);
+	transition: 150ms;
+}
+.main.pulled .answers{
+	transform: translateY(1rem);
+	transition-timing-function: ease-out;
 	margin-top: auto;
+}
+.answers{
+	margin-top: 0.5rem;
+/*	flex: 1;*/
 	overflow-y: scroll;
 	padding-bottom: 10vh;
 /*	background-color: coral;*/
@@ -85,8 +140,10 @@ html, body, #main {
 }
 
 .swapButtons{
+	margin-left: auto;
+	gap: 0.5px;
 	display: flex;
-	position: fixed;
+/*	position: fixed;*/
 	flex-direction: row-reverse;
 	right: 1rem;
 	bottom: 4rem;
@@ -99,8 +156,8 @@ html, body, #main {
 	border: 1px solid #eee;
 	flex: 1;	
 	color: #eeeeee;
-	backdrop-filter: blur(14px);
-	padding: 1rem;
+	backdrop-filter: blur(7px);
+	padding: 0.7rem;
 	background-color: #00000000;
 }
 
@@ -130,7 +187,7 @@ html, body, #main {
 	background-color: #333;
 }
 .swapButton:active {
-	background-color: #aaa !important;
+	background-color: #fff9 !important;
 	box-shadow: 0 0 5px #eee !important;
 }
 
@@ -160,23 +217,25 @@ html, body, #main {
 }
 .question.fromRight{
 	opacity: 0;
-	transform: translateX(50%);
+	transform: translateX(10%);
 }
 
 .question.fromLeft{
 	opacity: 0;
-	transform: translateX(-50%);
+	transform: translateX(-10%);
+}
+
+.question.fadeLeft, .question.fadeRight{
+	transition: 160ms;
+	opacity: 0;
+
 }
 
 .question.fadeLeft {
-	transition: 200ms;
-	transform: translateX(-80%);
-	opacity: 0;
+	transform: translateX(-100%);
 }
 .question.fadeRight {
-	transition: 200ms;
-	transform: translateX(+80%);
-	opacity: 0;
+	transform: translateX(+100%);
 }
 
 
@@ -185,16 +244,50 @@ html, body, #main {
 }
 
 .selected {
-	background-color: #222;
+	background-color: #ffffff22;
+/*	box-shadow: 0 -40px 4px #fff7 inset;*/
+/*	padding-left: 2rem !important;*/
+	transform: 
+	scaleX(1) 
+/*	scaleX(0.98) */
+/*	translateY(-0.2rem);*/
+/*	box-shadow: 0.2rem 0 #fffa inset;*/
+}
+
+.answer::before{
+	position: absolute;
+	content: "";
+	top: 20%;
+	left: -0.5rem;
+	opacity: 0;
+/*	border-radius: 0.05rem;*/
+	border-radius: 5rem;
+	height: 60%;
+	width: 0;
+	transition: 200ms;
+	transform: 
+		scale(0) 
+		translateX(-10px);
+}
+
+.selected::before{
+	opacity: 1;
+	transform: 
+		scale(1) 
+		translateX(0);
+	width: 0.2rem;
+/*	width: ;*/
+	background-color: #fffd;
+/*	color: #0000;*/
 }
 
 .eyeOpen .selected{
-	background-color: #f66 !important; 
+	background-color: #f77 !important; 
 
 }
 
 .eyeOpen .selected.correct{
-	background-color: #66f !important; 
+	background-color: #77f !important; 
 }
 
 
