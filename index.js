@@ -1,5 +1,6 @@
 let unique = ((a = 0) => () => a++)()
 const $ = new Proxy({}, { get: (_, c) => document.querySelector(`.${c}`) })
+const status = $.status
 const el = str =>{
 	const strs = str.split('.')
 	let el = document.createElement(strs.shift())
@@ -14,7 +15,11 @@ let current = -1
 let questions = []
 
 async function getQuestions() {
+	status.classList.add("fetching")
+	status.innerText = "suallar alınır"
 	let questionsText = await (await fetch("./questions.txt")).text()
+	status.classList.add("fetchingDone")
+
 	let questionsRaw = questionsText.split(/(?=#)/)
 	let questions = questionsRaw.map(questionRaw => {
 		let question = { asking: "~va9iff", answers: [], correctId: 0 }
@@ -261,4 +266,7 @@ document.addEventListener('touchend', e => {
 
 })
 
+
 // norm()
+status.classList.add("hideStatus")
+setTimeout(()=>status.remove(),300)
