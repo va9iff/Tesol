@@ -205,8 +205,10 @@ gotoNum.onchange = e => {
 
 // swipes
 let touchstartX = 0
+let touchstartY = 0
 let touchendX = 0
 let justSwiped = false
+let justSwipedVertical = false
 function checkDirection() {
 	if (Math.abs(touchendX - touchstartX) < 30) return
 	if (touchendX < touchstartX) next()
@@ -216,9 +218,25 @@ function checkDirection() {
 document.addEventListener('touchstart', e => {
 	justSwiped = false	
 	touchstartX = e.changedTouches[0].screenX
+	touchstartY = e.changedTouches[0].screenY
 })
 
-// document.addEventListener('touchmove', e => {
+document.addEventListener('touchmove', e => {
+	// if (justSwipedVertical) return
+	let y = e.changedTouches[0].screenY
+	let diff = touchstartY - y 
+	// $.main.innerText = diff
+	if (diff < -50) {
+		main.classList.add('pulled')
+		// justSwipedVertical = false
+	}
+	if (diff > 50) {
+		main.classList.remove('pulled')
+		// justSwipedVertical = false
+	}
+	// alert('sl')
+	// if (touchstartY - y < -50) $.pull.click()
+}) 
 // 	if (justSwiped) return
 // 	let x = e.changedTouches[0].screenX
 // 	let diff = x - touchstartX
@@ -231,9 +249,10 @@ document.addEventListener('touchstart', e => {
 // 		next()
 // 		justSwiped = true
 // 	}
-// }) // will also work if you want to scroll answers so, disable it
+	// will also work if you want to scroll answers so, disable it
 
 document.addEventListener('touchend', e => {
+	// justSwipedVertical = false
 	if (justSwiped) return
 
 	touchendX = e.changedTouches[0].screenX
