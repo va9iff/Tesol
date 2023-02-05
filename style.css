@@ -16,24 +16,6 @@ html{
 	transform: translate(-50%, -50%);
 }
 
-.eye{
-	transition: 2400ms;
-	padding: 0.2512rem !important;
-}
-
-.eye.highlight >img {
-	filter: invert(20%);
-}
-.eye.highlight {
-.pull.highlight,
-	transition: 600ms;
-	background-color: #ddd;
-	color: #222;
-	border-radius: 50% !important;
-	counter-reset: #ddd;
-	border: 1px solid #fff !important;
-}
-
 html, body {
 	background-color: hsl(216deg 14% 5%);;
 	color: #818181;
@@ -119,6 +101,26 @@ html, body {
 	transform-origin: right;
 }
 
+/*.eye{*/
+/*	transition: 2400ms;*/
+/*	padding: 0.2512rem !important;*/
+/*}*/
+
+.eye.highlight >img {
+	filter: invert(20%);
+}
+.eye.highlight {
+.pull.highlight,
+	transition: 600ms;
+	background-color: #ddd;
+	color: #222;
+	border-radius: 50% !important;
+	counter-reset: #ddd;
+	border: 1px solid #fff !important;
+}
+
+
+
 @keyframes expand{
 	from{
 		opacity: 0.6;
@@ -133,7 +135,7 @@ html, body {
 
 
 .topIcon {
-	transition: 120ms !important;
+	transition: 120ms;
 	background-color: #eee0;
 }
 .topIcon:active {
@@ -169,6 +171,7 @@ html, body {
 /*	background: linear-gradient(292.9deg, rgb(254, 105, 241) 28.8%, rgb(182, 44, 248) 70.4%);*/
 background: linear-gradient(90deg, rgb(36, 31, 98, 0.7), rgba(121, 45, 129, 0));
 }
+
 
 
 .question {
@@ -396,12 +399,12 @@ background: linear-gradient(90deg, rgb(36, 31, 98, 0.7), rgba(121, 45, 129, 0));
 }
 
 .eyeOpen .selected{
-	background-color: #f77 !important; 
+	background-color: #f77 ; 
 
 }
 
 .eyeOpen .selected.correct{
-	background-color: #77f !important; 
+	background-color: #77f; 
 }
 
 input {
@@ -414,15 +417,12 @@ input {
 }
 
 *.hidden{
-/*	width: 0 !important;*/
-/*	overflow: hidden !important;*/
-/*	padding: 0 !important;*/
-/*	border: none !important;*/
-/*	margin: 0;*/
-	display: none 	!important;
+	display: none !important;
 	background-color: red;
 }
 
 :fullscreen .fullScreen {
 	display: none;
 }
+
+
