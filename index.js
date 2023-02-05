@@ -21,13 +21,14 @@ async function getQuestions() {
 		let components = questionRaw.split(/(?=(?:\n#)|(?:\n\+)|(?:\n-))/)
 		// console.log(components)
 		for (let [i, component] of components.entries()) {
-			component = component.trim().replace("\r\n", "<br>")
+			component = component.trim()/*.replace("\r\n", "<br>")*/
+			component = component + ''
 			if (component[0] == "#") {
-				question.asking = component.substr(1)
+				question.asking = component.substr(1).trim()
 			} else if (component[0] == "-") {
-				question.answers.push(component.substr(1))
+				question.answers.push(component.substr(1).trim())
 			} else if (component[0] == "+") {
-				question.answers.push(component.substr(1))
+				question.answers.push(component.substr(1).trim())
 				question.correct = question.answers.length - 1
 			}
 		}

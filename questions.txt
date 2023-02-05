@@ -40,6 +40,22 @@
 - Cəmiyyətin siyasi şüur və mədəniyyət səviyyəsinin tədqiqi
 - Cəmiyyətin ictimai fəallığının tədqiqi
 - Cəmiyyətin sosial və siyasi strukturunun tədqiq edilməsi
+# Siyasi sistemin funksiyalarına aiddir
+-
+Ümumi siyasi yönüm,cəmiyyətin siyasi-hakimiyyət inteqrasiyası, cəmiyyətdəki sosial-siyasi fəaliyyət reciminin nizamlanması, içtimai
+proseslərin ümumi idarəedilməsi
+-
+Ümumi siyasi yönüm, cəmiyyətin siyasi,cəmiyyətin siyasi-hakimiyyət inteqrasiyası, cəmiyyətdəki sosial-siyasi fəaliyyət reciminin
+nizamlanması
++
+Ümumi siyasi yönüm, cəmiyyətin siyasi,cəmiyyətin siyasi-hakimiyyət inteqrasiyası, cəmiyyətdəki sosial-siyasi fəaliyyət reciminin
+nizamlanması, içtimai proseslərin ümumi idarəedilməsi
+-
+Cəmiyyətin siyasi,cəmiyyətin siyasi-hakimiyyət inteqrasiyası, cəmiyyətdəki sosial-siyasi fəaliyyət reciminin nizamlanması, içtimai
+proseslərin ümumi idarəedilməsi
+-
+Ümumi siyasi yönüm, cəmiyyətin siyasi, cəmiyyətdəki sosial-siyasi fəaliyyət reciminin nizamlanması, içtimai proseslərin ümumi
+idarəedilməsi
 # Siyasət xalqın oyanan ruhunu, dəyişikliyə olan istəyini boğmaq vasitəsidir -fikri kimə məxsusdur?
 + N.Makivelli
 - T.Mor
@@ -1061,22 +1077,6 @@ subyekt kimdir
 - xıx əsrin ikinci yarısı M.Veber
 - XXəsrin 20-ci illərində L.fon.Bertalanfi
 - xx əsrin əvvələrində M.Veber
-# Siyasi sistemin funksiyalarına aiddir
--
-Ümumi siyasi yönüm,cəmiyyətin siyasi-hakimiyyət inteqrasiyası, cəmiyyətdəki sosial-siyasi fəaliyyət reciminin nizamlanması, içtimai
-proseslərin ümumi idarəedilməsi
--
-Ümumi siyasi yönüm, cəmiyyətin siyasi,cəmiyyətin siyasi-hakimiyyət inteqrasiyası, cəmiyyətdəki sosial-siyasi fəaliyyət reciminin
-nizamlanması
-+
-Ümumi siyasi yönüm, cəmiyyətin siyasi,cəmiyyətin siyasi-hakimiyyət inteqrasiyası, cəmiyyətdəki sosial-siyasi fəaliyyət reciminin
-nizamlanması, içtimai proseslərin ümumi idarəedilməsi
--
-Cəmiyyətin siyasi,cəmiyyətin siyasi-hakimiyyət inteqrasiyası, cəmiyyətdəki sosial-siyasi fəaliyyət reciminin nizamlanması, içtimai
-proseslərin ümumi idarəedilməsi
--
-Ümumi siyasi yönüm, cəmiyyətin siyasi, cəmiyyətdəki sosial-siyasi fəaliyyət reciminin nizamlanması, içtimai proseslərin ümumi
-idarəedilməsi
 # Siyasi sistemin tərkibində hansı elementləri fərqləndirmək olar
 - Siyasi təşkilatlar, siyasi-hüquqi normlar, siyasi münasibətlər, siyasi şüur və mədəniyyət
 - Siyasi struktur və siyasi təşkilatlar, siyasi-hüquqi normlar, siyasi münasibətlər, siyasi şüur
