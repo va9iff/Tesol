@@ -39,6 +39,7 @@ async function getQuestions() {
 
 
 function goTo(num, direction = null /*true for next, flase for prev*/) {
+	console.log(num)
 	// console.log(num, current)
 	direction ??= num > current
 	console.log(num)
@@ -64,9 +65,10 @@ function createQuestion(question) {
 	let q = el("div.question")
 	q.setAttribute("s", unique())
 	console.log(question)
+	question.num ??= current
 	q.innerHTML = `
 		<div class="asking">
-			<i>${question.num ? +question.num+1 : current+1}.</i> ${question.asking}
+			<i>${+question.num+1}.</i> ${question.asking}
 		</div>
 		<div class="answers"></div>
 	`
@@ -189,7 +191,12 @@ $.goto.onclick = e=> {
 	gotoNum.classList.add('hidden')
 	norm()
 }
-gotoNum.onchange = $.goto.onclick
+gotoNum.onchange = e => {
+	if (gotoNum.value > questions.length) gotoNum.value = questions.length
+	if (gotoNum.value < 1 ) gotoNum.value = 1
+	console.log(gotoNum)
+	$.goto.onclick()
+}
 
 
 
