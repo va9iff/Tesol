@@ -149,9 +149,9 @@ function prev() {
 })()
 
 
+let closeIcon = $.close
 let norms = [$.fullScreen, $.eye, $.pull, $.goto]
-let hides = [$.gotoNum]
-
+let hides = [$.gotoNum, closeIcon]
 function norm() {
 	norms.forEach(a=>a.classList.remove('hidden'))
 	hides.forEach(hide=>{
@@ -159,9 +159,10 @@ function norm() {
 		hide.visible = false
 	})
 }
+closeIcon.onclick = norm
 function spec(...specs) {
 	[...norms, ...hides].forEach(a=>a.classList.add('hidden'))
-	;[...specs].forEach(spec=>{
+	;[...specs, closeIcon].forEach(spec=>{
 		spec.classList.remove('hidden')
 		spec.visible = true
 	})
@@ -215,20 +216,20 @@ document.addEventListener('touchstart', e => {
 	touchstartX = e.changedTouches[0].screenX
 })
 
-document.addEventListener('touchmove', e => {
-	if (justSwiped) return
-	let x = e.changedTouches[0].screenX
-	let diff = x - touchstartX
-	// $.main.innerHTML = diff
-	if (diff > 44) {
-		prev()
-		justSwiped = true
-	}
-	if (diff < -44) {
-		next()
-		justSwiped = true
-	}
-})
+// document.addEventListener('touchmove', e => {
+// 	if (justSwiped) return
+// 	let x = e.changedTouches[0].screenX
+// 	let diff = x - touchstartX
+// 	// $.main.innerHTML = diff
+// 	if (diff > 44) {
+// 		prev()
+// 		justSwiped = true
+// 	}
+// 	if (diff < -44) {
+// 		next()
+// 		justSwiped = true
+// 	}
+// }) // will also work if you want to scroll answers so, disable it
 
 document.addEventListener('touchend', e => {
 	if (justSwiped) return
@@ -238,3 +239,5 @@ document.addEventListener('touchend', e => {
 	// justSwiped = false
 
 })
+
+// norm()

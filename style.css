@@ -105,7 +105,37 @@ html, body {
 	display: none;
 }
 
+@keyframes bringSwipe{
+	from{
+		transform: scaleX(0);
+	}
+	to{
+		transform: scaleX(1);
+	}
+}
+
+.gotoNum{
+	animation: bringSwipe 150ms cubic-bezier(0.37, 0.21, 0.22, 1.28);
+	transform-origin: right;
+}
+
+@keyframes expand{
+	from{
+		transform: scale(0);
+	}
+	to{
+		transform: scale(1);
+	}
+}
+
+
+
 .topIcon {
+/*	animation: expand 400ms linear;*/
+/*	animation-name: expand;*/
+/*	animation-duration: 400ms;*/
+/*	animation-timing-function: linear;*/
+	animation: expand 400ms cubic-bezier(0.37, 0.21, 0.22, 1.28);
 	background-color: #2220;
 	backdrop-filter: blur(7px);
 
