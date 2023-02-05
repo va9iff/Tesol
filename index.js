@@ -37,7 +37,9 @@ async function getQuestions() {
 }
 
 
-function goTo(num, direction = true /*true for next, flase for prev*/) {
+function goTo(num, direction = null /*true for next, flase for prev*/) {
+	// console.log(num, current)
+	direction ??= num > current
 	console.log(num)
 	num = +num
 	let question = questions[num]
@@ -52,6 +54,7 @@ function goTo(num, direction = true /*true for next, flase for prev*/) {
 	lastQuestion.removeAfter(300)
 	lastQuestion = q
 	current = num
+	norm()
 }
 
 // setTimeout(()=>goTo(9),500)
@@ -117,25 +120,29 @@ let lastQuestion = createQuestion({
 
 $.question.replaceWith(lastQuestion)
 
+function next() {
+	if (current >= questions.length - 1) {
+		current = questions.length - 1
+		return
+	} else
+		current ++
+	goTo(current, true)
+}
+
+function prev() {
+	if (current <=  0) {
+		current = 0
+		return
+	} else
+		current--
+	goTo(current, false)
+}
+
 ;(async () => {
 	questions = await getQuestions()
 	gotoNum.max = +questions.length	
-	$.next.onclick = e => {
-		if (current >= questions.length - 1) {
-			current = questions.length - 1
-			return
-		} else
-			current ++
-		goTo(current)
-	}
-	$.prev.onclick = e => {
-		if (current <=  0) {
-			current = 0
-			return
-		} else
-			current--
-		goTo(current, false)
-	}
+	$.next.onclick = e => next()
+	$.prev.onclick = e => prev()
 })()
 
 
@@ -182,3 +189,44 @@ $.goto.onclick = e=> {
 	norm()
 }
 gotoNum.onchange = $.goto.onclick
+
+
+
+// swipes
+let touchstartX = 0
+let touchendX = 0
+let justSwiped = false
+function checkDirection() {
+	if (Math.abs(touchendX - touchstartX) < 30) return
+	if (touchendX < touchstartX) next()
+	if (touchendX > touchstartX) prev()
+}
+
+document.addEventListener('touchstart', e => {
+	justSwiped = false	
+	touchstartX = e.changedTouches[0].screenX
+})
+
+document.addEventListener('touchmove', e => {
+	if (justSwiped) return
+	let x = e.changedTouches[0].screenX
+	let diff = x - touchstartX
+	// $.main.innerHTML = diff
+	if (diff > 44) {
+		prev()
+		justSwiped = true
+	}
+	if (diff < -44) {
+		next()
+		justSwiped = true
+	}
+})
+
+document.addEventListener('touchend', e => {
+	if (justSwiped) return
+
+	touchendX = e.changedTouches[0].screenX
+	checkDirection()
+	// justSwiped = false
+
+})

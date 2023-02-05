@@ -1,8 +1,19 @@
+html{
+	font-size: 1.05rem;
+}
+
 *{
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
 	user-select: none;
+}
+
+.me {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
 }
 
 .eye{
@@ -104,7 +115,7 @@ html, body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	border-radius: 0.2rem;
+	border-radius: 0.5rem;
 /*	font-size: 0.8rem;*/
 }
 
@@ -127,6 +138,8 @@ html, body {
 .answer {
 	border: 1px solid #999;
 /*	background-color: #020202;*/
+
+	background-color: hsl(216deg 14% 5%);;
 	margin-top: 0.4rem;
 	border-radius: 5px;
 	padding: 0.2rem;
@@ -164,6 +177,10 @@ html, body {
 /*	background-color: coral;*/
 }
 
+.asking{
+/*	background-color: coral;*/
+	background-color: hsl(216deg 14% 5%);;
+}
 .asking>i{
 	opacity: 0.7;
 }
@@ -218,6 +235,14 @@ html, body {
 .swapButton:active {
 	background-color: #fff9 !important;
 	box-shadow: 0 0 0/*5px*/ #eee !important;
+}
+.swapButton.prev:active {
+	padding-right: 5rem;
+	transition: 120ms;
+}
+.swapButton.next:active {
+	padding-left: 5rem;
+	transition: 120ms;
 }
 
 ::-webkit-scrollbar {
@@ -320,7 +345,12 @@ html, body {
 }
 
 input {
-	padding: 0.2rem;
+	padding: 0.5rem;
+/*	background-color: #222;*/
+	background-color: hsl(216deg 14% 5%);;
+	color: #eee;
+	border: 2px solid #eee7;
+	border-radius: 0.5rem;
 }
 
 *.hidden{
