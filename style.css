@@ -237,12 +237,20 @@ html, body {
 	box-shadow: 0 0 0/*5px*/ #eee !important;
 }
 .swapButton.prev:active {
-	padding-right: 5rem;
-	transition: 120ms;
+/*	padding-right: 5rem;*/
+/*	width: 7.8rem;*/
+/*	flex: 0.8;*/
+	transform: translateX(-10px) /*scale(1.06)*/;
+	transition: 140ms !important;
+/*	transition-timing-function: ease-out;*/
 }
 .swapButton.next:active {
-	padding-left: 5rem;
-	transition: 120ms;
+/*	padding-left: 5rem;*/
+/*	width: 7.8rem;*/
+/*	flex: 0.8;*/
+	transform: translateX(10px) /*scale(1.06)*/;
+	transition: 140ms !important;
+/*	transition-timing-function: ease-out;*/
 }
 
 ::-webkit-scrollbar {
