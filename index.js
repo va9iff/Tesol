@@ -112,20 +112,23 @@ function createQuestion(question) {
 let lastQuestion = createQuestion({
 	asking: `Suallarınızı rahatlıqla işləyə biləcəyiniz, və gözlərinizin hüzur tapacağı bir proje.`,
 	answers: [
-		`Cavablar isə aşağıda`,
-		`Əl çatan`,
-		`Və ya barmaq çatan?`,
-		`nəysə söhbət çox uzanmasın.`,
+		`Sağa və ya sola çəkərək növbəti və ya əvvəlki suala keçid edin`,
+		`Tam ekranda hüzurlu bir şəkildə istifadə edin`,
+		`Cavablarınızın doğruluğunu yoxlayın`,
+		`İstənilən nömrəli suala çevirin`,
+		`Cavabları aşağı çəkib daha əl çatan edin`,
 		`Uğurlar!`,
 	],
 	correct: 2,
 })
 
+lastQuestion.classList.add('initial')
+
 $.question.replaceWith(lastQuestion)
 
 function next() {
 	if (current >= questions.length - 1) {
-		current = questions.length - 1
+		goTo(questions.length - 1)
 		return
 	} else
 		current ++
@@ -134,8 +137,7 @@ function next() {
 
 function prev() {
 	if (current <=  0) {
-		current = 0
-		return
+		goTo(0)
 	} else
 		current--
 	goTo(current, false)
