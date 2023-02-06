@@ -14,10 +14,16 @@ let main = $.main
 let current = -1
 let questions = []
 
+async function getQuestionsText(){
+	let res = await fetch("./questions.txt")
+	let text = await res.text()
+	return text
+}
+
 async function getQuestions() {
 	status.classList.add("fetching")
 	status.innerText = "suallar alınır"
-	let questionsText = await (await fetch("./questions.txt")).text()
+	let questionsText = await getQuestionsText()
 	status.classList.add("fetchingDone")
 
 	let questionsRaw = questionsText.split(/(?=#)/)
