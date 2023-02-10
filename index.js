@@ -13,18 +13,39 @@ let current = 0
 let questions = []
 let lastQuestion = document.createElement('div')
 
-let quizes = []
+let quizes = (await (await fetch("./quizes.txt")).text()).split('\n')
 
-for (let quiz of quizes){}
+let quizesEl = $.quizes
+for (let quizName of quizes){
+	let quiz = document.createElement("div")
+	quiz.innerText = quizName
+	quiz.className = ('quiz')
+	quizesEl.appendChild(quiz)
+	quiz.onclick = e=>{
+		questionAdress = `./quizes/${quizName}.txt`
+		startFreshQuestions()
+	}
+	document.body.classList.add("running")
+}
 
+let questionAdress = "./questions.txt"
 
 async function getQuestionsText(){
-	let res = await fetch("./questions.txt")
+	console.log(`fetching for quiz: ${questionAdress}`)
+	let res = await fetch(questionAdress)
 	let text = await res.text()
 	return text
 }
 
+function hideui() {
+	document.body.classList.add('hideui')
+	document.body.classList.remove("running")
+
+}
+
 async function startFreshQuestions(){
+	document.body.classList.remove('hideui')
+	document.body.classList.add('running')
 	main.innerHTML = ''
 	current = 0
 	questions = []
@@ -145,19 +166,21 @@ function createQuestion(question) {
 
 function next() {
 	if (current >= questions.length - 1) {
-		goTo(questions.length - 1)
+		current = questions.length-1
 		return
-	} else
+	} else {
 		current ++
-	goTo(current, true)
+		goTo(current, true)
+	}
 }
 
 function prev() {
 	if (current <=  0) {
-		goTo(0)
-	} else
+		current = 0
+	} else {
 		current--
-	goTo(current, false)
+		goTo(current, false)
+	}
 }
 
 	
@@ -221,8 +244,7 @@ gotoNum.onchange = e => {
 let touchstartX = 0
 let touchstartY = 0
 let touchendX = 0
-let justSwiped = false
-let justSwipedVertical = false
+// let justSwiped = false
 	
 	
 	
@@ -235,7 +257,7 @@ const firstFuller = e=>{
 // document.addEventListener("touchend", firstFuller)
 
 function startSwipe(e) {
-	justSwiped = false	
+	// justSwiped = false	
 	touchstartX = e.changedTouches[0].screenX
 	touchstartY = e.changedTouches[0].screenY
 }
@@ -244,20 +266,32 @@ document.addEventListener('touchstart', e => {
 	startSwipe(e)
 })
 
-let pulled = false
+let pullSwipe = false
+window.pullPrevState =
+// let pullPrevState = 
+1
+window.pullCurrentState = 1
+let pullCurrentState = 1
+let pullChange = false
+
+let pullDiff = 70
 function checkPull(e) {
 	let y = e.changedTouches[0].screenY
 	let diff = touchstartY - y 
 	// $.main.innerText = diff
-	if (diff < -50) {
+	if (diff < -pullDiff) {
 		main.classList.add('pulled')
-		pulled = true
-		// justSwipedVertical = false
+		pullCurrentState = 1
+		if (pullPrevState == 1) pullChange = false
+			else pullChange = true
+		pullSwipe = true
 	}
-	if (diff > 50) {
-		pulled = true
+	if (diff > pullDiff) {
+		pullCurrentState = 0
+		if (pullPrevState == 0) pullChange = false
+			else pullChange = true
+		pullSwipe = true
 		main.classList.remove('pulled')
-		// justSwipedVertical = false
 	}
 }
 document.addEventListener('touchmove', e => {
@@ -265,8 +299,8 @@ document.addEventListener('touchmove', e => {
 }) 
 
 function checkSwipe(e) {
-	if (justSwiped) return
-	if (pulled) return
+	// if (justSwiped) return
+	if (pullSwipe && pullChange) return
 
 	if (Math.abs(touchendX - touchstartX) < 30) return
 
@@ -278,7 +312,8 @@ function checkSwipe(e) {
 
 document.addEventListener('touchend', e => {
 	checkSwipe(e)
-	pulled = false
+	pullPrevState = pullCurrentState
+	pullSwipe = false
 })
 
 
@@ -286,4 +321,5 @@ document.addEventListener('touchend', e => {
 status.classList.add("hideStatus")
 setTimeout(()=>status.remove(),300)
 
-startFreshQuestions()
+// startFreshQuestions()
+hideui()

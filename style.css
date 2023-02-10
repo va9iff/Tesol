@@ -291,7 +291,7 @@ background: linear-gradient(90deg, rgb(36, 31, 98, 0.7), rgba(121, 45, 129, 0));
 	background-color: #333;
 }
 .swapButton.prev:hover {
-	box-shadow: -10px 0 8px #0000;
+	box-shadow: -10px 0 0/*8px*/ #0000;
 	background-color: #333;
 }
 .swapButton:active {
@@ -477,6 +477,10 @@ input {
 	transform: scaleY(0) !important;
 }
 
+.running .quizes {
+	display: none;
+}
+
 .quizes {
 	padding: 0.7rem;
 }
@@ -486,9 +490,11 @@ input {
 	border: 2px solid #ddd;
 	color: #ddd;
 	border-radius: 0.5rem;
+	margin-top: 1rem;
 }
 
 body.hideui .topIcons, 
+body.hideui #main, 
 body.hideui .swapButtons {
 /*	opacity: 0;*/
 /*	pointer-events: none;*/
