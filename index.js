@@ -8,16 +8,37 @@ const el = str =>{
 	return el
 }
 
-el('div.wrapper.hidden')
 let main = $.main
-
-let current = -1
+let current = 0
 let questions = []
+let lastQuestion = document.createElement('div')
+
+let quizes = []
+
+for (let quiz of quizes){}
+
 
 async function getQuestionsText(){
 	let res = await fetch("./questions.txt")
 	let text = await res.text()
 	return text
+}
+
+async function startFreshQuestions(){
+	main.innerHTML = ''
+	current = 0
+	questions = []
+
+
+
+	questions = await getQuestions()
+
+	lastQuestion = createQuestion(questions[0])
+	main.appendChild(lastQuestion)
+	lastQuestion.classList.add('initial')
+	lastQuestion.addEventListener("click",e=>lastQuestion.classList.remove('initial'))
+	gotoNum.max = +questions.length	
+
 }
 
 async function getQuestions() {
@@ -61,7 +82,7 @@ function goTo(num, direction = null /*true for next, flase for prev*/) {
 
 	q.classList.add(direction ? "fromRight" : "fromLeft")
 
-	lastQuestion.after(q)
+	main.appendChild(q)
 		setTimeout(() => lastQuestion.classList.remove(direction ? "fromRight" : "fromLeft"), 40)
 		lastQuestion.classList.add(direction ? "fadeLeft" : "fadeRight")
 	lastQuestion.removeAfter(300)
@@ -120,22 +141,7 @@ function createQuestion(question) {
 	return q
 }
 
-let lastQuestion = createQuestion({
-	asking: `Suallarınızı rahatlıqla işləyə biləcəyiniz, və gözlərinizin hüzur tapacağı bir proje.`,
-	answers: [
-		`Sağa və ya sola çəkərək növbəti və ya əvvəlki suala keçid edin`,
-		`Tam ekranda hüzurlu bir şəkildə istifadə edin`,
-		`Cavablarınızın doğruluğunu yoxlayın`,
-		`İstənilən nömrəli suala çevirin`,
-		`Cavabları aşağı çəkib daha əl çatan edin`,
-		`Uğurlar!`,
-	],
-	correct: 2,
-})
 
-lastQuestion.classList.add('initial')
-
-$.question.replaceWith(lastQuestion)
 
 function next() {
 	if (current >= questions.length - 1) {
@@ -154,12 +160,9 @@ function prev() {
 	goTo(current, false)
 }
 
-;(async () => {
-	questions = await getQuestions()
-	gotoNum.max = +questions.length	
-	$.next.onclick = e => next()
-	$.prev.onclick = e => prev()
-})()
+	
+$.next.onclick = e => next()
+$.prev.onclick = e => prev()
 
 
 let closeIcon = $.close
@@ -220,59 +223,67 @@ let touchstartY = 0
 let touchendX = 0
 let justSwiped = false
 let justSwipedVertical = false
-function checkDirection() {
-	if (Math.abs(touchendX - touchstartX) < 30) return
-	if (touchendX < touchstartX) next()
-	if (touchendX > touchstartX) prev()
-}
+	
+	
+	
 
-document.addEventListener('touchstart', e => {
+let fulledFirst = false
+const firstFuller = e=>{
+	document.removeEventListener("touchend", firstFuller)
+	document.body.requestFullscreen().then(()=>{}).catch((err)=>{})
+}
+// document.addEventListener("touchend", firstFuller)
+
+function startSwipe(e) {
 	justSwiped = false	
 	touchstartX = e.changedTouches[0].screenX
 	touchstartY = e.changedTouches[0].screenY
+}
+
+document.addEventListener('touchstart', e => {
+	startSwipe(e)
 })
 
-document.addEventListener('touchmove', e => {
-	// if (justSwipedVertical) return
+let pulled = false
+function checkPull(e) {
 	let y = e.changedTouches[0].screenY
 	let diff = touchstartY - y 
 	// $.main.innerText = diff
 	if (diff < -50) {
 		main.classList.add('pulled')
+		pulled = true
 		// justSwipedVertical = false
 	}
 	if (diff > 50) {
+		pulled = true
 		main.classList.remove('pulled')
 		// justSwipedVertical = false
 	}
-	// alert('sl')
-	// if (touchstartY - y < -50) $.pull.click()
+}
+document.addEventListener('touchmove', e => {
+	checkPull(e)
 }) 
-// 	if (justSwiped) return
-// 	let x = e.changedTouches[0].screenX
-// 	let diff = x - touchstartX
-// 	// $.main.innerHTML = diff
-// 	if (diff > 44) {
-// 		prev()
-// 		justSwiped = true
-// 	}
-// 	if (diff < -44) {
-// 		next()
-// 		justSwiped = true
-// 	}
-	// will also work if you want to scroll answers so, disable it
+
+function checkSwipe(e) {
+	if (justSwiped) return
+	if (pulled) return
+
+	if (Math.abs(touchendX - touchstartX) < 30) return
+
+	touchendX = e.changedTouches[0].screenX	
+	
+	if (touchendX < touchstartX) next()
+	if (touchendX > touchstartX) prev()
+}
 
 document.addEventListener('touchend', e => {
-	// justSwipedVertical = false
-	if (justSwiped) return
-
-	touchendX = e.changedTouches[0].screenX
-	checkDirection()
-	// justSwiped = false
-
+	checkSwipe(e)
+	pulled = false
 })
 
 
 // norm()
 status.classList.add("hideStatus")
 setTimeout(()=>status.remove(),300)
+
+startFreshQuestions()
