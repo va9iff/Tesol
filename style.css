@@ -56,7 +56,7 @@ html, body {
 	gap: 1rem;
 	margin-top: 2rem;
 /*	justify-self: center;*/
-	align-items: center;
+	align-items: flex-end;
 /*	margin-left: 1rem;*/
 	left: 0;
 	padding-left: 1rem;
@@ -317,6 +317,7 @@ background: linear-gradient(90deg, rgb(36, 31, 98, 0.7), rgba(121, 45, 129, 0));
 
 ::-webkit-scrollbar {
   width: 10px;
+  height: 10px;
 }
 
 ::-webkit-scrollbar-track {
@@ -502,3 +503,71 @@ body.hideui .swapButtons {
 /*	transform: translateX(-50px);*/
 }
 
+.more > .topIcon{
+/*	opacity: 0;*/
+/*	margin-left: 0rem;*/
+/*	pointer-events: none;*/
+	display: none;
+}
+
+
+.topIcons.moreOpened > .topIcon{
+	display: none;
+}
+.topIcons.moreOpened > .topIcon.more{
+	display: flex;
+}
+
+.more{
+	font-size: 1.5rem;
+	display: flex;
+/*	gap: 1rem;*/
+/*	flex-wrap: wrap;*/
+	flex-wrap: nowrap;
+
+}
+.more.opened{
+	font-size: 1rem;
+/*	padding: 5rem;*/
+	flex: 1;
+	align-items: flex-start;
+	justify-content: flex-start;
+	overflow-x: scroll;
+	gap: 1rem;
+	padding: 1rem 1.2rem;
+	padding-top: calc(1rem + 10px);
+/*	border: none;*/
+}
+.more.opened> img{
+	transform: scale(1.0);
+	display: none;
+}
+.more> img{
+	pointer-events: all !important;
+/*	background-color: red;*/
+}
+.more.opened> img{
+	margin-right: 0.5rem;
+}
+.more.opened> .topIcon{
+/*	opacity: 1;*/
+	display: flex;
+/*	margin-right: 0.6rem;*/
+	pointer-events: all;
+/*	border: none;*/
+}
+.more > span{
+/*	margin-left: 0.6rem;*/
+/*	margin-right: 1rem;*/
+	display: none;
+}
+.more.opened > span{
+	display: inline;
+}
+
+.more.opened:active{
+/*	background-color: #0000;*/
+	background-color: #eee1;
+
+	transform: scale(1.0);
+}

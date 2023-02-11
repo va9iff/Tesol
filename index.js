@@ -188,9 +188,8 @@ $.next.onclick = e => next()
 $.prev.onclick = e => prev()
 
 
-let closeIcon = $.close
 let norms = [$.fullScreen, $.eye, $.pull, $.goto]
-let hides = [$.gotoNum, closeIcon]
+let hides = [$.gotoNum]
 function norm() {
 	norms.forEach(a=>a.classList.remove('hidden'))
 	hides.forEach(hide=>{
@@ -198,10 +197,9 @@ function norm() {
 		hide.visible = false
 	})
 }
-closeIcon.onclick = norm
 function spec(...specs) {
 	[...norms, ...hides].forEach(a=>a.classList.add('hidden'))
-	;[...specs, closeIcon].forEach(spec=>{
+	;[...specs].forEach(spec=>{
 		spec.classList.remove('hidden')
 		spec.visible = true
 	})
@@ -240,6 +238,26 @@ gotoNum.onchange = e => {
 
 
 
+let moreOpened = false
+
+$.more.onclick = e => {
+	moreOpened = true
+	$.topIcons.classList.add('moreOpened')
+	$.more.classList.add('opened')
+}
+$.opt1.onclick = e => {
+	console.log(moreOpened)
+	if (moreOpened){
+		e.stopPropagation()
+		$.topIcons.classList.remove('moreOpened')
+		$.more.classList.remove('opened')
+	}
+	moreOpened = false
+	norm()
+}
+
+
+
 // swipes
 let touchstartX = 0
 let touchstartY = 0
@@ -274,19 +292,22 @@ window.pullCurrentState = 1
 let pullCurrentState = 1
 let pullChange = false
 
-let pullDiff = 70
+let pullDiff = 300
 function checkPull(e) {
 	let y = e.changedTouches[0].screenY
-	let diff = touchstartY - y 
-	// $.main.innerText = diff
-	if (diff < -pullDiff) {
+	let x = e.changedTouches[0].screenX
+	let diffX = touchstartX - x
+	let diffY = touchstartY - y 
+	// $.main.innerText = diffY
+	if (Math.abs(diffX) > pullDiff * 1.2){}
+	else if (diffY < -pullDiff) {
 		main.classList.add('pulled')
 		pullCurrentState = 1
 		if (pullPrevState == 1) pullChange = false
 			else pullChange = true
 		pullSwipe = true
 	}
-	if (diff > pullDiff) {
+	else if (diffY > pullDiff) {
 		pullCurrentState = 0
 		if (pullPrevState == 0) pullChange = false
 			else pullChange = true
@@ -296,15 +317,15 @@ function checkPull(e) {
 }
 document.addEventListener('touchmove', e => {
 	checkPull(e)
-}) 
+}, {passive: true}) 
 
+const swipeMinDiff = 70
 function checkSwipe(e) {
-	// if (justSwiped) return
-	if (pullSwipe && pullChange) return
-
-	if (Math.abs(touchendX - touchstartX) < 30) return
-
 	touchendX = e.changedTouches[0].screenX	
+	let diffX = touchendX - touchstartX
+
+	if (pullSwipe && pullChange) return
+	if (Math.abs(diffX) < swipeMinDiff) return
 	
 	if (touchendX < touchstartX) next()
 	if (touchendX > touchstartX) prev()
@@ -316,6 +337,11 @@ document.addEventListener('touchend', e => {
 	pullSwipe = false
 })
 
+$.more.addEventListener("touchend", e=>{
+	e.stopPropagation()
+})
+
+$.quizesIcon.onclick = e => hideui()
 
 // norm()
 status.classList.add("hideStatus")
@@ -323,3 +349,5 @@ setTimeout(()=>status.remove(),300)
 
 // startFreshQuestions()
 hideui()
+
+$.quiz.click()
