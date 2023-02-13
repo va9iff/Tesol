@@ -13,26 +13,26 @@ let current = 0
 let questions = []
 let lastQuestion = document.createElement('div')
 
-let quizes = (await (await fetch("./quizes.txt")).text()).split('\n')
+let quizesData = (await (await fetch("./quizes.txt")).text()).split('\n').map(couple => couple.split('@'))
 
 let quizesEl = $.quizes
-for (let quizName of quizes){
+for (let [quizName, quizUrl] of quizesData){
 	let quiz = document.createElement("div")
 	quiz.innerText = quizName
 	quiz.className = ('quiz')
 	quizesEl.appendChild(quiz)
 	quiz.onclick = e=>{
-		questionAdress = `./quizes/${quizName}.txt`
-		startFreshQuestions()
+		// questionAdress = `./quizes/${quizName}.txt`
+		startFreshQuestions(quizUrl)
 	}
 	document.body.classList.add("running")
 }
 
-let questionAdress = "./questions.txt"
+// let questionAdress = "./questions.txt"
 
-async function getQuestionsText(){
-	console.log(`fetching for quiz: ${questionAdress}`)
-	let res = await fetch(questionAdress)
+async function getQuestionsText(url){
+	console.log(`fetching for quiz: ${url}`)
+	let res = await fetch(url)
 	let text = await res.text()
 	return text
 }
@@ -43,7 +43,7 @@ function hideui() {
 
 }
 
-async function startFreshQuestions(){
+async function startFreshQuestions(url){
 	document.body.classList.remove('hideui')
 	document.body.classList.add('running')
 	main.innerHTML = ''
@@ -52,7 +52,7 @@ async function startFreshQuestions(){
 
 
 
-	questions = await getQuestions()
+	questions = await getQuestions(url)
 
 	lastQuestion = createQuestion(questions[0])
 	main.appendChild(lastQuestion)
@@ -62,10 +62,10 @@ async function startFreshQuestions(){
 
 }
 
-async function getQuestions() {
+async function getQuestions(url) {
 	status.classList.add("fetching")
 	status.innerText = "suallar alınır"
-	let questionsText = await getQuestionsText()
+	let questionsText = await getQuestionsText(url)
 	status.classList.add("fetchingDone")
 
 	let questionsRaw = questionsText.split(/(?=#)/)
@@ -350,4 +350,4 @@ setTimeout(()=>status.remove(),300)
 // startFreshQuestions()
 hideui()
 
-$.quiz.click()
+// $.quiz.click()

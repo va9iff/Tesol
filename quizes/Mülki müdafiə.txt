@@ -1,0 +1,1576 @@
+# FH-ların təsiri nəticəsində tələf olunanların sayına görə necə xarakterizə olunur?
+- Yüngül, ağır, katostrafik, böhranlı,meşə ətraflı, əvəzolunmaz.
+- Yüngül, ağır, katostrafık, kənd daxili, şəhər daxili, respublika miqyaslı;
+- Yüngül, əvəzolunmaz, böhranlı, regional, dəhşətli, ölkə miqyaslı;
++ Yüngül, orta ağırlıqlı, ağır, cox ağır katastrofik, böhranlı, əvəzolunmaz;
+- Orta ağırlıqlı, katostrafık, böhranlı, şəhər daxili, regional və katastrofik;
+# Mülki müdafiənin məqsədi nədən ibarətdir ?
+- Qüvvə və vasitələri toplamaq;
+- Obyektlərdə fəhlə və qulluqçularla təlim keçmək;
+- Əhali ilə məşqlər keçmək;
+- Şirkətlərin rəhbərləri ilə əlaqə saxlamaq;
++
+Profilaktik tədbirlər həyata keçirmək, ziyan və itkilərin həcmini maksimum azaltmaq, hadisələrin və onların nəticələrini aradan
+qaldırmaqdan;
+# Obyektdə (orta və ali təhsil sistemində) mülki müdafiənin təşkil edilməsi və fəaliyyəti üçün kim məsuliyyət daşıyır?
+-
+Obyektdə(məktəblərdə, universitetlərdə) mülki müdafiənin təşkil edilməsi və vəziyyəti üçün bu obyektin yanğn təhükəsizliyi xidməti
+məsuliyyət daşıyır.
+-
+Obyektdə(məktəblərdə, universitetlərdə) mülki müdafiənin təşkil edilməsi və vəziyyəti üçün bu obyektin baş mühəndisi məsuliyyət
+daşıyır.
+- Obyektdə(məktəblərdə, universitetlərdə) mülki müdafiənin təşkil edilməsi və vəziyyəti üçün bu obyektin mexaniki məsuliyyət daşıyır.
+-
+Obyektdə(məktəblərdə, universitetlərdə) mülki müdafiənin təşkil edilməsi və vəziyyəti üçün bu obyektin mühafizəçisi məsuliyyət
+daşıyır.
++ Obyektdə (təhsil sistemlərində) mülki müdafiənin təşkil edilməsi və onun fəaliyyətinə obyektin rəhbəri məsuliyyət daşıyır.
+# Fövqəladə hadisələrdən zərər çəkmiş əhalinin sosial müdafiəsi üçün lazımi tədbirlər həyata keçirmək kimin səlahiyyətinə daxildir?
+- Daxili İşlər Nazirliyi;
+- Dövlət Təhlükəsizliyi Xidməti.
+- Maliyyə Nazirliyi
+- Müdafiə Nazirliyi;
++ Dövlətin;
+# İnsanların həyatı və sağlamlığı üçün təhlükə yarada biləcək fövqəladə hadisələr barəsində əhalini kimlər xəbərdar edir?
+- Polis rəisinə
+- Obyekt rəhbərlərinə;
+- İdarə və təşkilatlara;
+- Rayonun icra hakimiyyətinə;
++ Dövlət hakimiyyət orqanları;
+# Sülh dövründə atom təhlükəli obyektlərin ətrafında yaşayan əhalinin aldığı təhlükəsiz şüalanma dozası 1 ildə nə qədərdir?
+- 15 rentgen
+- 5 rentgen
+- 50 rentgen
++ 0,5 rentgen
+- 2 rentgen
+# Radioaktiv zəhərlənmiş texnika və avadanlıq təlimdə hansı təmizləmə təsirinə məruz qalmalıdır?
+- Deratizasiya;
++ Dezaktivasiya;
+- Sanitariya təmizliyi.
+- Dezinseksiya;
+- Dezinfeksiya;
+# Zarinin deqazasiyasi üçün hansı deqazasiya məhlulundan istifadə olunur?
+- Xlor məhlulu
++ 2 aş N 1
+- DT-2 və DT-6
+- DTS-QK
+- 2 bş N 1
+# Son dezinfeksiya tədbiri nəyi nəzərdə tutur?
+- Xəstə başqa otağa köçürüldükdə yoluxmanın qarşısının alınmasını
++ Xəstə təcrid ediləndən sonra əvvəlki yerdə yoluxmanın qarşısının alınmasını
+- Xəstə ilə təmasda olanların dezinfeksiya edilməsini
+- Xəstənin özünü dezinfeksiya edilməsini
+- Xəstə öləndən sonra otaqda yoluxmanın qarşısının alınmasını
+# Məişətdə işlədilən səthi aktiv maddələrin aşağıda göstərilənlərdən hansından istifadə edirsiniz?
+- SF-2
++ Ariyel
+- Xlor
+- SF-2li
+- Ammonyak
+# Sanitar təmizləmə, deqazasiya, dezaktivasiya və dezinfeksiya tədbirlərində tədbiq edilən yuyucu vasitələrin rolu nədir?
+- “Yumuşaldılmış” suyun bütün məsamələrə girmə qabiliyyətinin artırılması
++ Suyun səthi gərilmə əmsalını azaltmaqla yuyuculuğu artırmaq
+- Səthi aktiv maddələrin tədbiqi ilə məhlulun yuyuculuq qabiliyyətini artırmaq
+- Səthi gərilmənin təsirini azalteaqla yuyuculuq qabiliyyətini artırılması
+- Səthi aktiv maddələrin təsirindən suyun “yumuşaldılması”
+# Radiasiyanın hansı səviyyəsində açıq ərazidə və açıq mühafizə qurğularında qida qəbuluna icazə verilir ?
+- 1 r/s qədər
++ 5 r/s qədər
+- 8 r/s qədər
+- 3 r/s qədər
+- 7 r/s qədər
+# Deratizasiya nədir ?
+- yolxucu xəstəlikləri yayan həşaratların məhv edilməsi;
++ yolxucu xəstəlikləri yayan gəmiricilərin məhv edilməsi;
+- ZM- lə insanların və heyvanların zəhərlənməsinin qarşısını almaq üçün zərərsizləşdirmə üsulları;
+- radioaktiv maddələrdən insanların zəhərlənməməsi üçün ərazidən təmizlənməsi;
+- insan və heyvanların bakterioloji vasitələrdən mühafizəsi üçün aparılan üsuldur.
+# Dezinseksiya nədir ?
+- bu, yolxucu xəstəlik törədicilərinin kimyəvi üsulla məhv edilməsi;
++ həşaratların, kənd təsərrüfatı ziyanvericilərinin fiziki, kimyəvi və bioloji üsullarla məhv edilməsi;
+- bu, yolxucu xəstəliki yayan gəmiricilərin bioloji üsulla məhv edilməsi;
+- bu, yolxucu xəstəlik törödicilərinin fiziki üsulla məhv edilməsi;
+- bu, yolxucu xəstəlik mənbəyi olan həşaratların məhv edilməsi;
+# Deqazasiya hansı üsullarla aparılır ?
+- mexaniki, fiziki və radioaktiv;
++ mexaniki, fiziki və kimyəvi;
+- fiziki, kimyəvi və bakterioloji;
+- mexaniki, fiziki və adi üsulla;
+- mexaniki, fiziki və toksikoloji;
+# Deqazasiya nədir ?
+- güclü təsirli zəhərləyici maddələrin insanlara, heyvanlara, bitkilərə və ətraf mühitə zəhərləyici təsiri;
++
+ərzaq malları, su, texnika, nəqliyyat, müxtəlif əşya və obyektlərin səthindən zəhərləyici maddələrin təmizlənməsi, yaxud
+zərərsizləşdirilməsi;
+- ZM-in dayanıqlığı, yəni insanlara və heyvanlara göstərdiyi zəhərləyici təsirin müddəti;
+- ərazinin və obyektin zəhərlənmə dərəcəsi oraya düşən zəhərləyici maddələrin miqdarından asılıdır.
+- davamsız zəhərləyici maddələrin yol verilməyən səthlərdən ayrılması;
+# Dezaktivasiya nədir ?
+- zəhərlənmə yerlərində texnikadan istifadə edilməsi və zəhərsizləşdirilməsi.
++ zəhərlənmiş ərazidə obyektlərdən, paltarlardan, su, ərzaq mallarından, texnikadan radiaktiv maddələrin (RM) təmizlənməsi;
+- zəhərlənmiş əşyaların zəhərlərdən təmizlənməsi və parçalanmasıdır;
+- zəhərlənmiş yerlərdə iş aparan MM dəstələrinin paltarlarının zəhərsizləşdirilməsi;
+- zəhərlənmənin sürətlə baş verməsi və zəhərlənmənin ağır olması;
+# Zədəli insanlara jqut qoyularkən hansı məlumatlar qeyd edilib, qoyulması vacibdir ?
+- yaralının vəziyyəti haqqında.
++ vaxt, tarix və həkimin soyadı;
+- zədələdiyi yer;
+- zədəsinin ağırlıq dərəcəsi;
+- zədəlinin adı, soyadı və atasının adı;
+# İlk tibbi yardım kimlərə göstərilir ?
+- yorğun halında olan insanlara;
++ arteryal qanaxması olan zədələnmişlərə;
+- şokda olmuş insanlara;
+- kontuziya olmuş insanlara;
+- təşfişə düşmüş insanlara.
+# Dezinfeksiya nəyə deyilir ?
+- zəhərləyici və bakterial zəhərlənmə ocaqlarının deqazasiyası və məhv edilməsi.
+- xəstə heyvanlar arasında yayılmış batulizm və vəba xəstəliklərin məhv edilməsi;
++ müxtəlif yolxucu xəstəlikləri yayan bakteriyaların, virusların və həşarətlərin məhv edilməsi;
+- taun və vəba tipli yolxucu xəstəlik yaymış mikroblarış dezinfeksiya olunması və məhv edilməsi;
+- gəmricilər tərəfindən yayılmış müxtəlif yolxucu xəstəliklərin məhv edilməsi;
+# Apteçkanın ağ rəngli panelində neçə həbb yerləşir?
++ 15
+- 7
+- 10
+- 5
+- 12
+# Radiasiyanın hansı səviyyəsində açıq ərazidə qidanın hazırlanmasına icazə verilir ?
+- 4 r/s –qədər
++ 1 r/s –qədər
+- 3 r/s –qədər
+- 2 r/s –qədər
+- 5 r/s –qədər
+# Tektonik zəlzələ əsasən harada baş verir?
+- Mantiyada baş verən hadisədir
+- Nüvədə baş verən hadisədir;
+- Nüvə ilə mantiya qatı arasında,
++ Yer qabığının dərinliklərdə litosfer tavalarda;
+- Yer qabığının üst qatında biosferdə;
+# Məişət xarakterli fövqəladə hadisələri hansılardır?
+- İlan sancması, əqrəb sancması, qaz partlaması, yanğın
+- Elektrik cərəyanın təsirindən qəza, sunami
+- Suda batma-boğulma, vulkan püsgürməsi
++ Qaz partlaması, yanğın, qazdan boğulma, zəhərlənmə
+- Qazdan boğulma, zəhərlənmə, zəlzələ
+# Münaqişəsiz fövqəladə hadisələri hansılardır?
+- Texnogen hadisə, qəzalar, ildırım
+- Müharibələr, subasmalar, uçqunlar
+- Ekoloji xarakterli hadisələr, epidemiya
+- Məişət xarakterli hadisələr
++ Təbii, texnogen, ekolojı
+# Münaqişəli fövqəladə hadisələr hansılardır?
+- Sosial partlayışlar, sosial durğunluq
+- Ekstremist siyasi mübarizə, sosial ədalət
+- Milli və dini münaqişələr və siyasi dözümlük
+- Hərbi toqquşmalar, tətil
++ Terrorizm, tugyan edən cinayətkarlıq
+# Fövqaladə hadisələri cəm halında hansı növlərə bölmək olar?
+- Texnogen, məişət, ekoloji.
+- Münaqişəli, təbii;
+- Münaqişəsiz, texnoloji;
+- Məişət, hərbi, siyasi;
++ Münaqişəli və münaqişəsiz;
+# Baş vermə sahələrinə görə FH-lar necə təsnif olunur?
+- Şəhərdə, qəsəbədə, kənddə, rayonda, idarədə;
+- Gəmidə, dənizdə, havada, evdə, kosmosda;
+- Metroda, avtomobillərdə, təyyarədə, gəmilərdə;
++ Tikintidə, nəqliyyatda, məişətdə, istehsalatda;
+- Meşədə, dağda, tarlada, kənddə.
+# Fövqladə hallar nəyə deyilir?
+- Güclü yanğınlar nəticəsində yaranmış vəziyyətə deyilir;
+- Kütləvi qırğın silahlarının tətbiqi zamanı yaranmış vəziyyətə deyilir;
+- Təbii fəlakətlər nəticəsində yaranmış vəziyyətə deyilir;
++ Təbii fəlakətlər, texnogen qəzalar, sosial-siyasi, hərbi, iqtisadi, siyasi xususiyyətli amillər nəticəsində yaranmış vəziyyətə deyilir;
+- Sənaye və texnogen qəzaları zamanı yaranan zədəocaqlarına deyilir.
+# Təbii fəlakətlər hansılardır?
+- Sel axınları, radioaktiv zəhərlənmələr, zəlzələlər, quraqlıq;
+- Sel axınları, kimyəvi zəhərlənmələr, zəlzələlər;
+- Sel axınları, partlayışlar, zəlzələ, vulkanlar;
++ Su hadisələri, zəlzələ, qasırğalar, vulkanlar, quraqlıq, leysan, yağışlar;
+- Sel axınları, radioaktiv və kimyəvi zəhərlənmələr.
+# Hərbi xarakterli münaqişənin yaranmasında əsas səbəb nədir?
+- Güclünün gücsüzə təcavüzə;
+- Yeni silah növünün sınaqdan çıxarılması;
++ Daxili böhran, siyasi hegemonluq və ona imkanın olması;
+- Siyasətdə ikili münasibətlərin təsiri ilə ədalətsiz olmaq.
+- Ərazi hərisliyi, qəsbkarlıq, aclıq;
+# Sosial xarakterli FH necə baş verə bilər?
+-
+insanlar arası münasibətlərdə psixoloji gərginlik yaranır, istehsal rejimi pozulduqda istehsaldan gələn gəlir işçilər arasında düzgün
+bölünməlidir;
+- əhalinin istehsal gücü tükənir, istehsal yüksəlmir və təminat artmayanda;
+- insanlarin işə müinasibəti dəyişir, nümayışa çıxır, iqtisadi tələblər irəli sürüldüldükdə;
++ əhalinin istehsal gücü tükənir, insanlar arası münasibətlərdə qayda-qanunlara riayət edilmədikdə;
+- istehsal yüksəlmir, durğunluq baş verir, yaşayış həddi qane etməyəndə.
+# Sülh dövründəki FH-lar hansılardır?
+- nüvə silahın, adi qırğın silahların tətbiqi, su basma, təbii, sənaye, metroloji nəqliyyat;
+- hidrosferin vəziyyətinə dəyişməsi, nüvə silahının tətbiqi, yer sürüşməsi, zəlzələ, su basma.
+- arqometroloji, kiməvi silahın tətbiqi, təbii, bakterioloji, texnoloji, hərbi, sənaye,
+- metroloji, bioloji, silahların tətbiqi, sənaye, nəqliyyat, təbii, ekoloji, hərbi-siyasi;
++ metrolojı, arqometroloji, nəqliyyat, sənaye, təbii, ekoloji, sosial, siyasi, iqtisadi;
+# Zədələnmə ocaqları hansı formada olur?
+- Dairəvi zolaq, silindr formal;
+- Zolaq, qeyri-müəyyən, üç bucaq formal;
+- Dairəvi dörd bucaq, zolaq, silindr formal.
++ Dairəvi zolaq, qeyri-müəyyən;
+- Dairəvi, dörd bucaq, qeyri-müəyyən formal;
+# Hidroloji quraqlıq necə yaranır?
+- Zəlzələ baş verməsi nəticəsində
+- Torpaq sürüşməsi nəticəsində.
+- Vulkan püsgürməsi nəticəsində.
++ Çayların, göllərin, bulaqların, çeşmələrin quruması nəticəsində.
+- Meşə yanğınları nəticəsində.
+# Quraqlıq hansı səbəbdən əmələ gəlir?
+- Anormal istilərin baş verməsi səbəbindən.
+- Fəsillərin dəyişməsi səbəbindən.
+- İntensiv yağıntıların yağmaması səbəbindən.
++ Havanın yüksək hərarətinin və rütubətinin aşağı səviyyəsi uzun müddətli yağışın yağmaması nəticəsində.
+- Güclü qar yağması səbəbindən.
+# Təbii hadisələr nədir?
+-
+İnsanların xəsarət almasına, binaların və qurğuların qəflətən uçmasına, heyvanlar infeksion xəstəliklərə tutulmasına gətirib çıxardan
+təbiətin yaratdığı fövqəladə hadisələrdir.
+-
+Torpağın vəziyyətinin dəyişməsinə, torpaq sürüşməsinə, torpağın uçmasına, əkin sahələrinin sıradan çıxarılmasına səbəb olan təbiətin
+yaratdığı fövqəladə hadisələrdir.
++ Külli miqdarda maddi vəsaitlərin məhvi, insanların xəsarəti və həlak olması ilə nəticələnən fövqəladə hallardır.
+-
+Torpağın vəziyyətinin dəyişməsinə, güclü qarın yaqmasına, torpaq sürüşməsinə, təbiətdəki yanğınlara gətirib çıxaran təbiətin yaratdığı
+fövqəladə hadisələrdir.
+-
+Atom elektrik stansiyalarında partlayışların və yanğınların baş verməsinə, su qovşaqlarında, bəndlərdə, qaz borularında qəzaların əmələ
+gəlməsinə səbəb olmuş təbiətin yaratdığı fövqəladə hadisələrdir.
+# FH-da hansı dağıntı dərəcələri mövcüddur?
+- Tam, orta, zəif, çox güclü;
+- Tam, cox güclü, güclü, zəif, orta.
+- Tam, cox güclü, zəif, az;
++ Tam, güclü, orta, zəif;
+- Güclü, orta, zəif, daha zəif;
+# Obyektin zədələnmə ocaqları nədir?
+- Obyektdə qəza zamanı insanların məhv olduğu və digər dağıntı ərazisidir;
+- Hər hansı bir qəza zamanı ərazidə yerləşən zədələnməyə məruz qalmış insanların
+- Hər hansı bir fəlakət zamanı, zədələnməyə məruz qalan yerlərdə obyektlərin dağıldığı ərazidir;
+- Obyektdə qəzanın baş verdiyi və onun təsir ərazisidir;
++ Qəza nəticəsində, zədələnməyə məruz qalan insanların və obyektlərin yerləşdiyi ərazidir;
+# Zədələnmə ocaqlarında dağıntılar xarakterinə görə neçə qrupa bölünür?
+- 3
+- 5
+- 2
++ 4
+- 6
+# Sosial xarakterli hadisələrə hansılar aiddir?
+- Sosial yardımların gecikdirilməsi və ya verilməməsi;
+- İqtisadi qanunların düzgün tədbiq edilməməsi;
+- Əhalinin banklarda qalan əmanətin verilməməsi;
++ Sosial narazılıqların gərginləşməsi;
+- İqtisadi böhranların sosial həyata təsirinin kəskinləşməsi və s.
+# Güclü və tam dağıntılar ərazisində hansı növ yanğın əmələ gəlir ?
+- közərmə və tüstülənmə
+- yerli- hissə- hissə
++ yanğın əmələ gəlmir
+- bütöv yanğın
+- hissə-hissə- tək
+# İşiq şüalanmasının təsirini qatı duman, yağış və qar neçə dəfə zəiflədir?
+- 40-50
++ 10-20
+- 20-40
+- 15-50
+- 55-70
+# İşıq şüalanması zamanı bədənin açıq hissəsində neçə dərəcəli yanıq yaranır?
+- 6
++ 4
+- 2
+- 5
+- 3
+# İşıq şüalanması zamanı ərazi neçə zonaya bölünür?
+- 4
++ 3
+- 5
+- 1
+- 2
+# İşiq şüalanmasının gözlərə təsiri necədir?
+- müvəqqəti korluq (gündüz 5dəq, axşam 30dəq) göz qapağının yanması və göz ağının əriməsi.
++ müvəqqəti korluq (gündüz 5dəq, axşam 30dəq) göz dibinin yanması, göz qapağının və ağının yanması;
+- göz qapağının, göz dibinin yanması ilə görmə qabiliyyətinin artması;
+- Göz dibinin yanması, göz qapağının yanması ilə bəbəyin məhv olması;
+- müvəqqəti korluq (gündüz 5dəq, axşam 30dəq) göz dibinin yanması ilə tam korluq;
+# Dördüncü dərəcəli yanıqda dəridə nə baş verir?
+- Dəridə suluqların deşilməsi
++ Dərinin bütün dərinliyi üzrə tam yanması
+- Dəridə bütün dərinliyində toxumaların ölməsi
+- Dərinin bütün hissəsinin göynəməsi
+- Dəridə qızartı və qaralmaların əmələ gəlməsi
+# Üçüncü dərəcəli yanıqda dəridə nə baş verir?
+- Dərinin hüceyrələrində suluqların deşilməsi
++ Dərinin hüceyrələrinin tam ölməsi
+- Dərinin hüceyrələrində hissiyatın ölməsi
+- Dəridə toxumaların tam yanması
+- Dəridə toxumaların tam qaralması
+# Materialın növündən və xarakterindən asılı olaraq γ – və neytronların azalması necə adlanır?
+- Tam azaltma qatı
++ Yarım azaltma qatı
+- Qismən azaltma qatı
+- Orta azaltma qatı
+- Yüngül azaltma qatı
+# 300-500 rentgen doza hansı dərəcəli şüa xəstəliyi törədır?
+- Dönməz xarakterli yüngül dərəcəli
++ Ağır dərəcəli, dönməz xarakterli
+- Simptomları bilinəcək dərəcəli
+- Dönməz xarakterli orta dərəcəli
+- Cizli təsir müddəti olan dönməz xarakterli
+# 200-300 rentgen doza hansı dərəcəli şüa xəstəliyi yaradır?
+- Simptomları bilinəcək dərəcəli
++ Orta dərəcəli
+- Təsiri nəzərə alınan dərəcəlir
+- Yüngül dərəcəli
+- Cizli təsir müddəti olan ağır dərəcəli
+# 100-200 rentgen doza hansı dərəcəli şüa xəstəliyi törədə bilir?
+- Cizli təsir müddəti olan ağır dərəcəli
++ Yüngül dərəcəli
+- Orta dərəcəli
+- Təsiri nəzərə alınmır
+- Simptomları bilinəcək dərəcəli
+# İşıq şüalanması zamanı ərazinin yanğın zonaları necə olur?
+- Tək-bir yanğınlar, yeraltı yanğınlar;
++ Ucqunlarda közərmə və tüstüləmə, əhatəli yanğınlar, tək-tək yanğınlar;
+- Tam yanğınlar, tək-bir yanğınlar.
+- Ərazi yanğınları, tək-bir yanğınlar;
+- Ucqunlarda közərmə və tüstüləmə, başdan-başa yanğınlar;
+# Zəif çirklənmə zonasında zamandan asılı olaraq radiasiya səviyyəsi nə qədər edir?
+- D∞=30-200 r, Ps=4-40 r/s, Ps=0,40 r/s
++ D∞=40-400 r, Ps= 8-80 r/s, Ps=0,5 r/s
+- D∞=40-200 r, Ps=7-70 r/s, Ps=0,32 r/s
+- D∞=30-180 r, Ps= 5-50 r/s, Ps=0,44 r/s
+- D∞=20-200 r, Ps= 6-60 r/s, Ps=0,42 r/s
+# Güclü cirklənmə zonasında zamandan asılı olaraq radiasiya səviyyəsi nə qədər edir?
+- D∞=300-1000 r, Ps=50-200 r/s, Ps=2 r/saat
++ D∞=400-1200 r, Ps=80-240 r/s, Ps=5 r/saat
+- D∞=200-1100 r, Ps=40-220 r/s, Ps=3 r/saat
+- D∞=240-800 r, Ps=60-180 r/s, Ps=1 r/saat
+- D∞=290-950 r, Ps=30-210 r/s, Ps=4 r/saat
+# γ - şüaları üçün udulan dozanın olçü vahidi nədir?
+- Zibert, bэr, qrey
++ Qrey, rentgen və rad
+- Rad, zibert və qrey
+- Rentgen/saat /sm2, rad
+- Rentgen/saat, mr/s
+# Radioaktiv zəhərlənmənin digər amillərdən fərqləndirən cəhət hansıdır?
+- Çətin aşkar edilməsi ilə parçalanma
++ Radioaktiv maddələrin fasiləsiz parçalanması
+- Qeyri-sabit xarakterli parçalanma
+- Uzun müddət təsir göstərməsi
+- Radioaktiv maddələrin rəngsiz, iysiz olması
+# Yandırıcı silahların insanlara təsiri nədən asılıdır?
+- Ağciyər zədələnməsi və ağız boşluğunun iltihabı
++ Yüksək yandırma və istilik törətmə
+- Şok vəziyyətə salmaq
+- Tənəffüs yollarında yanıqların əmələ gəlməsi
+- Orqanizmin ümumi yanğınlara məruz qalması
+# Lazer-silahı başqa döyüş silahlarından hansı xassələrinə görə fərqlənir?
+- düz xətt boyunca yayılması
++ yüksək sürətliliyi
+- od-tüstü səsin olmaması
+- yüksək dəqiqlik
+- görünməzliyi
+# Alışma ehtimalına görə inşaat materialları hansı qruplara bölünür ?
+- çətin alışan, alışmayan və ya əriyən;
++ alışan, çətin alışan və alışmayan;
+- alışmayan, alovlanan və oda davamlı;
+- alışan, alışmayan və əriyən;
+- alışmayan, əriyəş və alışan;
+# Nüvə silahının hədəfə çatdırmaq üçün hansı vasitələrdən istifadə olunur?
+- Raketlərdən, təyyarələrdən, avtomobillərdən və tanklardan;
++ Raketlərdən, təyyarələrdən, sualtı qayıqlardan, gəmilərdən, peyklərdən;
+- Raketlərdən, artilleriya toplarından, avtomobillərdən, fuqaslardan;
+- Raketlərdən və tanklardan, tüfəng və tapançalardan.
+- Raketlərdən, gəmilərdən, avtomobillərdən, avtomatlardan
+# Bioloji zədələnmə ocağının yaranmasına hansı bakterioloji vasitələr səbəb ola bilər?
+- Göbələklər və Bi-zat qazları
+- Viruslar və sianit turşusu
++ Bakteriya, viruslar, göbələklər, mikroblar
+- Mikroblar, rikketsilər və zoman
+- Bakterioloji və kimyəvi vasitələr
+# Bioloji zədələnmə ocağı nədir?
+- Bioloji silahın tətbiqi nəticəsində bioloji, kimyəvi zəhərlənmə baş verən ərazidir;
+- Bioloji silah tətbiq olunan dağıntılar olan, yanğınlar baş verən ərazidir;
+- Güclü dağıntılar yanğınlar, partlayışlar baş verən yer bioloji maddələrlə zəhərlənən ərazidir;
+- Dağıntılar baş verən insan, heyvan və bitki tələfatıolan, yer bioloji və kimyəvi zəhərlənməyə məruz qalan ərazidir.
++ Bioloji silahın tətbiqi nəticəsində külli miqdarda insan, heyvan və bitki təlafatı baş versin, yoluxan xəstəliklər yayılan ərazi;
+# Siniriflicedici ZM-lər hansılardır?
+- İprit, zoman, Bi-zet
+- Zoman, fosgen, difosgen
+- Zarin, iprit, zoman
++ Vx-qaz, zarin, zoman
+- Forgen, sianid turşusu
+# Fosgen və sianid turşusu hansı tip kimyəvi növünə aiddir?
+- Dözümlü
+- Gec məhv olan
+- Davamlı
+- Tez məhv olan
++ Davamsız
+# İnsan orqanizminə təsirinə görə zəhərləyici maddələr neçə qrupa bölünür?
+- 3
++ 7
+- 6
+- 5
+- 4
+# Davamlığına görə zəhərləyici maddələr neçə növ olur?
+- 5
+- 6
+- 4
++ 2
+- 3
+# Bakterioloji silahın təsirindən yaranmış zədələnmə ocağında hansı xəstəliklər yayıla bilər?
+- Ağciyər iltihabı, mədə xorası, qaraciyər iltihabı
+- Tif, şəkər xəstəliyi, zob, dabbaq
+- Astma, vəba, tif, göbələk xəstəliyi
++ Taun, vəba,tif, tulyaramiya, ku-lexoradka
+- Bronxit, angina, tif, ku-lexoradka
+# Ümumzəhərləyici maddələr hansılardır?
+- Vx-qaz, zarin
++ Sianid turşusu, xlorsian
+- Zoman, fosgen
+- Iprit, luyuzit
+- Zarin, iprit
+# Güclü təsir edici zəhərləyici maddə(GTZM) hansıdır?
+- Bi-zet
+- Si-ES
+- Zarin
+- İprit
++ Xlor
+# Dəridə yara əmələ gətirən ZM hansılardır?
+- Forgen, sianid turşusu
+- Zarin, iprit
+- Vx-qaz, zarin
++ İprit, luyuzit
+- Zoman, fosgen
+# Kimyəvi zədələnmə ocağında iprit, lyusit və azotlu iprit necə təsir göstərir?
+- Ərazidə canlılar arasında psixo-mimotiq təsirli xəstəliklər yayılır
+- Ərazidə canlılar arasında tülyamiya xəstəliyi yayılır
+- Ərazidə canlıların sinir sistemini iflic edir
+- Ərazidə canlılar arasında göbələk xəstəliyi yayılır
++ Dəri-zöhrəvi, dəridə yaralar əmələ gətirir
+# Kimyəvi zədələnmə ocağında zarin, zoman, Vx - qazları necə təsir göstərir?
+- Ərazidə canlılar arasında xolera xəstəliyi yayılır
+- Ərazidə canlılar arasında tif xəstəliyi yayılır
++ Ərazidə canlıların sinir sistemini iflic edir
+- Ərazidə canlılar arasında bakterioloji xəstəliklər yayılır
+- Ərazidə canlılar arasında dəri-zöhrəvi yaralar əmələ gətirir
+# Bakterioloji silahın təsirindən kənd təsərrüfatı bitgilərində hansı xəstəliklər yayıla bilər?
+- Paslanma törəməsi, vəba, tif
+- Fitoftoroza –qripp, sibir göbələyi
+- Dabbaq, ku-lexoradka, ağciyər iltihabı
++ Fitoftoroza (kartofeldə), paslanma törəməsi, kanada lixoradkası (qarağac ağacında)
+- Kanada lixoradkası, donuz qripi
+# Bioloji silahın tətbiqi zamanı əraziyə nə yayılır?
+- Bakterial vasitələr, radioaktiv və kimyəvi zəhərli maddələr.
+- Radioaktiv və bakterial vasitələr, göbələklər;
+- Bakterial və kimyəvi vasitələr, virus;
++ Bakteriya, virus, göbələk, mikrob;
+- Kimyəvi və radioaktiv vasitələr, rikketsilər;
+# Kimyəvi silah tətbiq olunan ərazi neçə zonaya bölünür?
+- 4
+- 3
+- 6
++ 2
+- 5
+# Kimyəvi zədələnmə ocağında davamlılığına görə fosgen və difosgen hansı təsirə malikdir?
+- Müddətli-qeyrimüəyyən
+- Qeyrimüəyyən – naməlum
++ Davamsız-qısa müddətli
+- Davamlı-uzun müddətli
+- Müddətsiz-naməlum
+# Kimyəvi zədələnmə ocağında davamlılığına görə zoman və zarin hansı təsirə malikdir?
+- Qeyrimüəyyən – naməlum
+- Davamsız-qısa müddətsiz
+- Müddətsiz-naməlum
++ Davamı-uzunmüddətli
+- Müddətli-qeyrimüəyyən
+# Kimyəvi zədələnmə ocağında Si-ES qazı necə təsir göstərir?
+- Ərazidə canlılarda dəri-zöhrəvi yaralar əmələ gətirir;
+- Ərazidə canlılar arasında rikketsii-nin yayılması güclənir.
+- Ərazidə canlılarda boğucu təsir güclənir;
++ Ərazidə canlılara qıcıqlandırıcı təsir güclənir;
+- Ərazidə canlıların sinir sisteminin iflicini gücləndirir;
+# Kimyəvi zədələnmə ocağının yaranmasına bi-zet necə təsir göstərir?
+- Ərazidə canlılar arasında qripp xəstəliyi güclənir.
++ Ərazidə canlılara psixo-mimotiq təsir güclənir;
+- Ərazidə canlılarda dəri-zöhrəvi yaralar əmələ gətirir;
+- Ərazidə canlılar arasında sinir sisteminin iflici güclənir;
+- Ərazidə canlılar arasında boğulmalar güclənir;
+# Bakterioloji silahın təsirindən heyvanlar arasında hansı xəstəliklər yayıla bilər?
+- Sibir xorası, dabbaq, şəkər xəstəliyi
+- Sibir xorası, vəba və qripp
+- Quş qripi, zob, mədə xorası
+- Donuz qripi, tif, dabbaq
++ Quş qripi, donuz qripi, sibir xorası, vəba
+# Respublikamızın iqtisad obyektlərində mülki müdafiə hansı prinsip əsasında yaradılır?
+- Sahə-axtarış.
+- Ərazi-iqtisadiyyat.
+- Elmi-istehsalat.
++ Ərazi-istehsalat.
+- Region-ixtisas.
+# Mülki müdafiənin ərazi təşkili prisipi nəyi nəzərdə tutur?
+- Mülki müdafiə tədbirlərinin istehsalat strukturunun bütün ərazilərtində təşkil edilməsini.
+- Mülki müdafiə tədbirlərinin dağıntı zonasının bütün ərazilərtində təşkil edilməsini.
+- Mülki müdafiə tədbirlərinin regionunn bütün ərazilərtində təşkil edilməsini.
++ Mülki müdafiə tədbirlərinin Respublikanın bütün ərazilərtində təşkil edilməsini.
+- Mülki müdafiə tədbirlərinin obyektin bütün ərazilərtində təşkil edilməsini.
+# Beynəlxalq MM günü hansı tarixdə qeyd olunur ?
+- 1iyun;
+- 1 may;
+- 1 aprel;
++ 1 mart;
+- 1iyul.
+# Mülki müdafiənin neçə təşkili prinsipləri vardır ?
+- 3
+- 4
+- 5
+- 7
++ + 6
+# Ərazi prinsipi nə deməkdir?
+- Ayrı –ayrı bölgələrdə təşkil edilməsi;
+- Kənd yerlərində təşkil edilməsi;
++ MM tədbirlərinin respublikanın bütün ərazisində təşkil edilməsi;
+- Şəhərlərdə təşkil edilməsi;
+- Obyektlərdə təşkil edilməsi;
+# Fərqli və kompleks yanaşma prinsipi nə deməkdir ?
+- Obyektlərin xüsusiyyətləri nəzərə alınmaqla əlaqələndirilmiş şəkildə həyata keçirilməsi;
+- Təkcə bölgələr xüsusiyyətləri nəzərə alınmaqla əlaqələndirilmiş şəkildə həyata keçirilməsi;
+- Ümumiyyətlə xüsusiyyətlər nəzərə alınmadan əlaqələndirilmiş şəkildə həyata keçirilməsi;
+- Şəhərlərin xüsusiyyətləri nəzərə alınmaqla əlaqələndirilmiş şəkildə həyata keçirilməsi;
++ Mülki müdafiə tədbirlərinin obyektlərin, şəhər və bölgələrin hərbi-strateji, iqtisadi və digər xüsusiyyətləri nəzərə alınmaqla
+əlaqələndirilmiş şəkildə həyata keçirilməsi;
+# Kütləvilik və məcburilik prinsipi nə deməkdir ?
+- Mülki müdafiə tədbirlərinin obyektlərdə fəhlə və qulluqçuları əhatə etməsi və məcburi xarakter daşıması;
+- Mülki müdafiə tədbirlərinin bölgələrin əhalisini əhatə etməsi və məcburi xarakter daşıması;
++ Mülki müdafiə tədbirlərinin Azərbaycan Respublikasının bütün əhalisini əhatə etməsi və məcburi xarakter daşıması;
+- Mülki müdafiə tədbirlərinin şəhərlərin əhalisini əhatə etməsi və məcburi xarakter daşıması;
+- Mülki müdafiə tədbirlərinin şəhərlərin və bölgələrin əhalisini əhatə etmədən və məcburi xarakter daşıması;
+# Daimi hazırlıq prinsipi nə deməkdir?
+- Daxili qoşunların fövqəladə hadisələr zamanı dərhal və səmərəli fəaliyyətə başlamağa hazır vəziyyətdə olması;
+- Ümumqoşun hissələrinin fövqəladə hadisələr zamanı dərhal və səmərəli fəaliyyətə başlamağa hazır vəziyyətdə olması;
++ Mülki müdafiə sisteminin fövqəladə hadisələr zamanı dərhal və səmərəli fəaliyyətə başlamağa hazır vəziyyətdə olması;
+- Xilasedicilərin fövqəladə hadisələr zamanı dərhal və səmərəli fəaliyyətə başlamağa hazır vəziyyətdə olması;
+- Əhalinin fövqəladə hadisələr zamanı dərhal və səmərəli fəaliyyətə başlamağa hazır vəziyyətdə olması;
+# Dərhal xəbərdarlıq prinsipi nə deməkdir ?
+- Baş verə biləcək və ya baş vermiş fövqəladə hadisələr haqqında obyektlərdə fəhlə və qulluqçulara dərhal məlumat verilməsi;
+- Baş verə biləcək və ya baş vermiş fövqəladə hadisələr haqqında şəhər əhalisinə dərhal məlumat verilməsi;
+- Baş verə biləcək və ya baş vermiş fövqəladə hadisələr haqqında idarə və təşkilatlara dərhal məlumat verilməsi;
+- Baş verə biləcək və ya baş vermiş fövqəladə hadisələr haqqında dövlət hakimiyyət orqanlarına dərhal məlumat verilməsi;
++ Baş verə biləcək və ya baş vermiş fövqəladə hadisələr haqqında Azərbaycan Respublikasının əhalisinə dərhal məlumat verilməsi;
+# Qarşılıqlı əlaqə prinsipi nədeməkdir ?
+-
+Mülki müdafiənin təmin edilməsində iştirak edən idarə və təşkilatlarla və mülki müdafiə qüvvələrinin sıx və uzlaşdırılmış fəaliyyət
+göstərməsi;
+-
+Mülki müdafiənin təmin edilməsində iştirak edən obyekt rəhbərləri və mülki müdafiə qüvvələrinin sıx və uzlaşdırılmış fəaliyyət
+göstərməsi;
+-
+Mülki müdafiənin təmin edilməsində iştirak edən Azərbaycan Respublikasının əhalisi ilə və mülki müdafiə qüvvələrinin sıx və
+uzlaşdırılmış fəaliyyət göstərməsi.
+- Mülki müdafiənin təmin edilməsində iştirak edən şirkətlərlə və mülki müdafiə qüvvələrinin sıx və uzlaşdırılmış fəaliyyət göstərməsi;
++ Mülki müdafiənin təmin edilməsində iştirak edən Azərbaycan Respublikasının dövlət orqanlarının və mülki müdafiə qüvvələrinin sıx və
+uzlaşdırılmış fəaliyyət göstərməsi;
+# Mülki müdafiə sahəsində dövlətin vəzifələri nədən ibarətdir ?
+- İdarə və təşkilatların vəzifələrini müəyyən etmək;
+- Xilasediciləri cəlb etmək;
+- Daxili qoşunlara göstəriş vermək;
++ Mülki müdafiə sisteminə rəhbərlik etmək, strukturunu, tərkibini, qarşılıqlı əlaqəni, maliyyə və maddi-texniki təminat qaydasını
+müəyyən etmək;
+- Fəhlə və qulluqçulara maliyyə yardımı etmək;
+# “Mülki müdafiənin təmin edilməsi” hansı qərara əsasən müəyyən edilir?
+- Azərbaycan Respublikası Nazirlər Kabinetinin 25 sentyabr 1998-ci il tarixli, 293 nömrəli Qərarı;
+- Azərbaycan Respublikası Nazirlər Kabinetinin 25 sentyabr 1998-ci il tarixli, 239 nömrəli Qərarı;
++ Azərbaycan Respublikası Nazirlər Kabinetinin 25 sentyabr 1998-ci il tarixli, 193 nömrəli Qərarı;
+- Azərbaycan Respublikası Nazirlər Kabinetinin 25 sentyabr 1998-ci il tarixli, 139 nömrəli Qərarı;
+- Azərbaycan Respublikası Nazirlər Kabinetinin 25 sentyabr 1998-ci il tarixli, 393 nömrəli Qərarı;
+# Respublikada “Mülki müdafiə”nin fəaliyyətinin təşkilinə nəzarət və tam məsuliyyət borcu olan, kimlərə həvalə edilmişdir?
+- Fövqəladə Hallar Nazirliyi;
+- Müdafiə Nazirliyi;
++ Azərbaycan Rspublikasının Baş naziri;
+- Daxili İşlər Nazirliyi;
+- Dövlət Təhlükəsizliyi Xidməti.
+# Dinc və ya müharibə dövrlərində fövqəladə hadisələrdən müdafiə olunma qaydalarını və vasitələrini əhaliyə öyrədilməsi kimlərin
+vəzifəsinə daxildir?
+- Post patrul xidmətinin.
++ Dövlətin;
+- Yolları mühafizə xidmətinin;
+- Yanğından mühafizə xidmətinin;
+- Bakı nəqliyyat agentliyinin;
+# Mülki müdafiə üçün kadrların hazırlanmasını təşkil etmək və həyata keçirmək hansı nazirlik həyata keçirir?
+- Dövlət Təhlükəsizliyi Xidməti
+- Daxili İşlər Nazirliyi;
+- Müdafiə Nazirliyi;
++ Fövqəladə Hallar Nazirliyi;
+- Maliyyə Nazirliyi
+# Fövqəladə hadisələr baş vermiş ərazilərdən əhalini köçürmək və onları müvəqqəti yaşayış yerləri ilə təmin etmək kimlərə həvalə
+olunub?
+- Polis rəisinə.
+- Obyekt rəhbərlərinə;
+- Rayonun icra hakimiyyətinə;
++ Dövlət hakimiyyət orqanlarına;
+- İdarə və təşkilatlara;
+# Mülki müdafiə tələblərini pozan şəxsləri nə gözləyir
+- Azərbaycan Respublikasının qanunvericiliyi ilə məzəmmət etmək;
+- Azərbaycan Respublikasının qanunvericiliyi ilə töhmət vermək
+- Azərbaycan Respublikasının qanunvericiliyi iləşiddətli töhmət vermək
+- Azərbaycan Respublikasının qanunvericiliyi ilə mükafat vermək;
++ Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən olunmuş məsuliyyətə cəlb etmək;
+# Fövqəladə hadisələrin nəticələrinin aradan qaldırılması üçün maddi və maliyyə vəsaitləri ehtiyatı yaratmaq kimlərin vəzifəsinə daxildir?
+- Daxili İşlər Nazirliyi;
+- Dövlət Təhlükəsizliyi Xidməti.
+- Maliyyə Nazirliyi
++ Dövlətin;
+- Müdafiə Nazirliyi;
+# Maddi və texniki təminat qrupu neçə nəfərdən ibarətdir?
+- 4-5;
+- 3-4;
+- 3-5;
+- 2-4;
++ 2-3;
+# Mülki müdafiənin neçə əsas xidmətləri var?
+- 8
+- 14
+- 12
++ 10
+- 6
+# Yanğından mühafizə xidməti harada təşkil edilir?
+- Şəhərlərdə yolları mühafizə xidmətlərində;
+- Rayon polis şöbələrində;
+- Rayon (şəhər) mülki müdafiə qərargahlarında.
++ Yanğından mühafizə təşkilatlarının bazası əsasında;
+- Bakı nəqliyyat agentliyinin bazasında;
+# Kəşfiyyat qrupu neçə manqadan ibarətdir?
+- 5-6;
+- 4-6;
+- 3-6;
++ 3-5;
+- 3-4;
+# Zədələmə ocağında xilasetmə işləri aparmaq, təbii fəlakətlərin və istehsalat qəzalarının nəticələrini aradan qaldırmaq üçün hansı
+dəstələrdən istifadə olunur?
+- Doza ölçən cihazlardan.
+- Xüsusi dəstələrdən;
+- Kəşfiyyat dəstələrindən;
++ Ümumi məqsədli dəstələrdən;
+- Kimyəvi kəşfiyyat qruplarından;
+# Mülki müdafiə xidmət dəstələri hansılardır?
+- Tibbi yardım, kəşfiyyat, daxili qoşunlar.
+- Yanğınsöndürmə, rabitə, yol patrul xidməti;
+- Kəşfiyyat, rabitə, post patrul xidməti;
+- Dozimetrik və kimyəvi nəzarət, yolları mühafizə xidməti;
++ Kəşfıyyat, tibbi yardım, yanğınsöndürmə, rabitə, dozimetrik və kimyəvi nəzarət;
+# Hazırlıq dərəcəsinə görə hərbiləşdirilməmiş dəstələrin bir hissəsi yüksək hazırlıqla neçə saat saxlanılır?
+- 4-6 saat;
+- 7-8 saat;
+- 5-6 saat;
++ 6-8 saat;
+- 5-7 saat
+# MM qərargah və xidmət dəstələrinə kim rəhbərlik edir?
+- Qərargah rəisi;
+- Xidmət rəisi;
+- Bələdiyyənin sədri.
+- Icra nümayəndəsi;
++ Rayonun icra başçısı;
+# Hazırlıq dərəcəsinə görə hərbiləşdirilməmiş qalan dəstələr gündəlik neçə saat hazırlıqda olurlar?
+- 12 saat;
+- 18 saat;
+- 16 saat;
++ 24 saat;
+- 22 saat.
+# Yığma komandalar (qruplar), xilasetmə dəstələri (komandaları, qrupları), yığma mexanikləşdirilmiş dəstələr (komandalar) hansı
+məqsədli dəstələr sayılırlar?
+- ümuyyətlə dəstə sayılmır.
+- köməkçi dəstələr;
+- xüsusi məqsədli;
++ ümumi məqsədli dəstələr;
+- digər dəstələr;
+# Rayon şöbələrinin, idarələrinin və digər təşkilatların işçilərindən nə təşkil olunur?
+- Komanda;
++ Qərargah;
+- Xidmət;
+- Dəstə.
+- Qrup;
+# Qərargaha, adətən, ştatda olan hansı işçi rəhbərlik edir?
+- Qrup rəisi;
+- Komandirlər.
+- Xidmət rəisi;
+- Dəstə rəisi;
++ Qərargah rəisi;
+# Hazırlıq dərəcəsinə görə hərbiləşdirilməmiş dəstələr, hansı dəstələr sayılır?
++ İxtisaslaşdırılmış dəstələlər;
+- Qruplar;
+- Komandalar;
+- Ümumiyyətlə dəstə sayılmır.
+- Ümumi dəstələr;
+# Rayon (şəhər) rabitə təşkilatının bazası əsasında hansı xidmət təşkil olunur?
+- Asayişi mühafizə xidməti;
+- Xilasedici dəstə.
+- Yanğından mühafizə xidməti;
+- Tibb xidməti;
++ Rabitə xidməti;
+# Tibb müəssisələrinin bazası əsasında hansı xidmət yaradılır?
+- Asayişi mühafizə xidməti;
+- Yanğından mühafizə xidməti;
+- Yolları mühafizə xidməti.
+- Xilasedici dəstə;
++ Tibb xidməti;
+# İctimai assayişi mühafizə xidmətinə kim rəhbərlik edir?
+- Inspektor;
+- Polis sahə müvəkkili;
+- Rayonun icra başçısı;
+- Rayon prokuroru;
++ Rayon polis şöbəsinin rəisi;
+# Yanğından mühafizə xidmətinə kim rəhbərlik edir?
+- Yolları mühafizə xidmətinin rəisi;
+- İcra nümayəndəsi.
+- Polis şöbəsinin rəisi;
++ Yanğından mühafizə xidmətinin rəisi;
+- Yanğın nəzarəti xidmətinin rəisi;
+# Sanitar drujinaları dəstəsi neçə sanitar drujinasından ibarətdir?
+- 2-4,
+- 3-4;
+- 5-6;
+- 3-6;
++ 4-5;
+# Kəşfiyyat qrupu neçə manqadan ibarətdir?
+- 4-6;
++ 3-5;
+- 4-5;
+- 5-6;
+- 3-6,
+# Xilasedici dəstə neçə komandadan ibarətdir?
+- 4-5;
+- 3-4;
+- 5-6,
++ 2-4;
+- 3-5;
+# Radiasiya Əleyhinə Daldalanacağın köməkçi otaqları hansılardır?
+- Adamlar yerləşənVentilyasiya, Süzgəclər otağı;
+- Ventilyasıya, çirkli üst paltarları otağı, idarəetmə məntəqəsi;
+- Ventilyasiya, Süzgəclər otağı, idarəetmə və tibb məntəqəsi.
++ Ventilyasiya sanitariya qovşağı, süzgəclər və çirkli paltarlar saxlanan otaqlar;
+- Ventilyasiya otaqları, Sanitariya qovşağı, Tibb məntəqəsi;
+# Bir mərtəbəli taxtlar olduqda sığınacaqda hər adama neçə kvadrat metr sahə ayrılır?
+- 0.5 m2
+- 0.8 m2
+- 1,5 m2
++ 0,6 m2
+- 1 m2
+# Süzgəc-ventillyasiya qurğuları yerləşən otaqlar hansı qruplara daxildir?
+- Əlavə;
+- Birinci dərəcəli.
+- İkinci dərəcəli;
++ Yardımçı;
+- Əsas;
+# Yerləşməsinə görə mühafizə qurğuları necə təsnif olunur?
+- ayri tikilən, yeralti-şaxtalar;
+- ayrı tikilən yol ayrıcı keçidlər, yeraltı şaxtalar.
+- yeralti tikilən, ayri tikilən yol ayrici keçidlər;
+- bina ilə birgə tikilən 5-ci mərtəbə;
++ bina ilə birgə tikilən, ayrı tikilən;
+# Mülki müdafiə mühafizə qurğularının təsnifatı necədir?
+- mühafizə qabiliyyətinə, avadanliqlarin növünə görə.
+- mühafizə qabiliyyətinə, oda davamliğina;
+- mühafizə qabiliyyətinə, partlayiş təhlükəsinə, oda davamliğina, yerləşməsinə görə;
+- mühafizə qabiliyyətinə, partlayiş təhlükəsinə, avadanliqlarin növünə, tikildiyi vaxta görə;
++ mühafizə xassələrinə, təyinatina, yerləşməsinə, tikilmə müddətinə görə;
+# Sadə daldalanacaq zərbə dalğasının təsirini neçə dəfə azalda bilər?
+- 3,5-3 dəfə;
+- 3-4 dəfə;
+- 4,5 – 5,5 dəfə;
++ 2,5-3 dəfə;
+- 6 dəfə.
+# Sadə daldalanacaq (SD) nədir?
+- Kimyəvi silahın tətbiqi zamanı mühafizə edən qurğudur;
+- MM qərərgahların yerləşdiyi qurğudur;
+- Uçan binaların qırıntılarından mühafizə edən qurğudur;
++ Müasir qırğın vasitələrindən insanları kütləvi şəkildə, qısa müddətdə mühafizə edən qurğudur;
+- Işçi və qulluqçuları mühafizə edən qurğudur.
+# Sadə daldalanacağın tutumu neçə nəfər nəzərdə tutulur?
+- 20-30 nəfər;
+- 60 nəfər.
+- 30-40 nəfər;
++ 10-50 nəfər;
+- 15-20 nəfər;
+# Radiasiya əleyhinə daldalanacağın əsas otaqları hansılardır?
+- Adamlar yerləşən otaqlar, İdarəetmə məntəqəsi;
+- Adamlar yerləşən və Ventilyasiya otaqları.
+- Adamlar yerləşən, İdarəetmə məntəqəsi və komendant otağı;
++ Adamlar yerləşən və tibb məntəqəsi;
+- İdarəetmə məntəqəsi, tibb məntəqəsi, əşya anbarı;
+# Tez tikilən sığınacaqda adamların sayı neçə nəfərədək nəzərdə tutulur?
+- 50-dən 200;
+- 100-dən 300;
+- 50-dən 500;
++ 50-dən 150;
+- 100-dən 300 nəfərədək.
+# Sığınacaqda otagın hündürlüyü 2,15-dən 2,9m-dək olduqda neçə mərtəbəli taxtlar qoyulur?
+- 1 və 2 mərtəbəli.
+- 1 mərtəbəli;
+- 3 mərtəbəli;
+- 2 və 3 mərtəbəli;
++ 2 mərtəbəli;
+# Sığınacağın yardımcı təyinatlı otağlarına nə aid deyil?
+- Elektrik lövhəsi yerləşən otaq.
+- Süzgəcli ventilyasiya otağı;
+- Ərzaq saxlanılan otaq;
++ Tibb məntəqəsi;
+- Sanitariya qovşağı;
+# Sığnacaqda əsas təyinatlı otaqlar hansılardır?
+- Tibb məntəqəsi, insanlar yerləşən otaqlar, komendant məntəqəsi;
+- İradəetmə məntəqəsi, ventilyasiya otağı, tibb məntəqəsi;
+- Adamlar yerləşən otaq, tibb məntəqəsi, sanitariya qovşağı;
+- Adamlar yerləşən otaqlar, süzgəcli ventilyasiya otağı, sanitariya qovşağı və elektrostansiya.
++ İnsanlar yerləşən bölmələr, idarəetmə və tibb məntəqəsi;
+# Sığınacaqda havapaylayıcı tərtibat nə üçündür?
+- çirkli havanı sığınacaqda bir yerə toplamaq üçün;
+- təmiz havanı sığınacağın otaqlarından çıxarmaq üçün;
+- çirkli havanı sığınacaqdan çıxarmadan təmizləmək üçün;
++ təmiz havanı sığınacağın otaqlarına vermək üçün;
+- təmiz havanı sığınacağın otaqlarına verməmək üçün;
+# Müasir radiasiya əleyhinə daldanacaqlarda havasorucu tərtibat nə üçündür?
+- işlənmiş havanı sığınacaqdan kənar etməmək üçün;
+- işlənmiş havanı sığınacaqdan geri qaytarmaq üçün;
+- işlənmiş havanı sığınacaqda saxlamaq üçün;
+- işlənmiş havanı sığınacaqda uyğunlaşdırmaq üçün;
++ işlənmiş havanı sığınacaqdan kənar etmək üçün;
+# Sığınacaqda toz əleyhinə süzgəclərin təyinatı nədir?
+- Sığınacağa verilən havanı bakterialoji vasitədən təmizləmək;
+- Sığınacağa verilən havanı kimyəvi tozdan təmizləmək;
+- Sığınacağa verilən havanı yoluxucu xəstəlikdən təmizləmək;
++ Sığınacağa verilən havanı radioaktiv tozdan təmizləməkdir;
+- Sığınacağa verilən havanı həşaratlardan təmizləmək;
+# Sığınacaqda otaqların hündürlüyü ən çoxu neçə metr olmalıdır?
+- 3,9m
++ 3,5m
+- 3.97
+- 3,8m
+- 3,7m
+# İnsanlar yerləşən sığınacaq otaqlarında izafi təzyiq nə qədər olmalıdır?
+- 0,6 kqq/sm2 – 60 kPa
+- 1 kqq/sm2 – 100 kPa
+- 0,3 kqq/sm2 – 30 kPa
++ 0,5 kqq/sm2 – 50 kPa
+- 0,2 kqq/sm2 – 20 kPa
+# Teztikilən sığınacaqların tikilmə müddəti nə qədərdir?
+- Şəhərlərdə 10 saat, kənddə 24 saat;
+- Şəhərlərdə 48 saat, kənddə 24 saat;
+- Şəhərlərdə 24 saat, kənddə 10 saat.
++ Şəhərlərdə 24 saat, kənddə 48 saat;
+- Şəhərlərdə 12 saat, kənddə 24 saat;
+# İki mərtəbəli taxtlar olduqda RƏD-in hündürlüyü ən azı nə qədər olmalıdır?
+- 1,85m
+- 2,5m
+- 2m
++ 1,75m
+- 2,15m
+# Sadə mühafizə vasitələri nəfəs üzvülərini nədən mühafizə edir?
+- Kimyəvi maddələrdən
+- Kimyəvi, bakterial vasitələrdən
+- Radioaktiv tozlardan
+- İşıq şüalanmasından
++ Radioaktiv tozlardan və bakterialardan
+# QP-5 əleyhiqazında nəfəs vermə yolunda neçə bağlayıcı quraşdırılır?
+- 1
+- 5
+- 4
+- 3
++ 2
+# Süzücü əleyhiqazlardan istifadə edilməsində neçə bağlayıcıdan istifadə edilir?
+- 5
+- 4
++ 3
+- 2
+- 1
+# Yaranmış vəziyyətdən asılı olaraq əhalinin köçürülməsi hansı qaydada aparılır?
+- qismən köçürmə;
++ ümumi və qismən;
+- tək-tək köçürmə;
+- məhəllə-məhəllə köçürmə.
+- ailələrlə köçürmə;
+# Ümumi köçürmə zamanı kimlər köçürülür?
+- səfərbərlik vəsiqəsi olan şəxslər;
++
+səfərbərlik vəsiqəsi olan şəxslərdən (onlar hərbi komissarlığa getməlidirlər), eləcə də köçürülməsi qeyri-mümkün sayılan xəstələrdən və
+onlara xidmət edən tibbi heyətdən başqa bütün əhali köçürülür;
+- ağır xəstələr və onlara xidmət edən tibbi heyət;
+- təqaüdçü yaşlı kişi və qadınlar.
+- yaşlı və tənha insanlar;
+# Tənəffuz üzvlərini mühafizə edən, MM hərbiləşdirilmiəmiş dəstələrində neçə növ əleyhiqazlardan istifadə olunur?
+- 3
++ 2
+- 6
+- 5
+- 4
+# Tənəffüz üzvlərinin mühafizə vasitələri neçə növə bölünür?
+- 2
++ 4
+- 6
+- 5
+- 3
+# Üz ölçüsü 61-63 sm olduqda QP-5 əleyhiqazının hansı nömrəsi istifadə olunur?
+- 1
++ 0
+- 4
+- 2
+- 3
+# Üz ölçüsü 71 sm-dən artıq olduqda QP-5 əleyhiqazı hansı nömrədə təyin edilir?
+- 1
++ 4
+- 3
+- 0
+- 2
+# Köçürməyə kim rəhbərlik etməlidir?
+- bələdiyyə sədri;
++ köçürmə komissiyasinin sədri;
+- fövqəladə hallar komissiyasi.
+- mm qərargahi rəisi;
+- icra nümayəndəsi;
+# R-2d respiratoru kimlər üçün nəzərdə tutulub?
+- işçilər üçün.
++ uşaqlar üçün;
+- böyüklər üçün;
+- fəhlələr üçün;
+- tələbələr üçün;
+# R-2d respiratoru neçə saat ərzində fasiləsiz mühafizəni təmin edir?
+- 3
++ 4
+- 5
+- 1
+- 2
+# Qismən köçürülmə zamanı kimlər köçürülür?
+- istehsalat və ticarətlə məşğul olan insanlar;
++ əmək qabiliyyəti olmayan, habelə istehsal və xidmət sahələrində işləməyən əhali köçürülür;
+- əmək qabiliyyəti olmayan lakin, istehsalatda çalışan insanlar;
+- ali məktəb tələbələrini, onların professor-müəllim heyətini.
+- sağlam, gənc oğlan və qızlar;
+# Əleyhqazlar nəyi mühafizə edir?
+- gözü və qulaqları;
++ tənəffüs orqanlarını, gözləri və üzü;
+- bədənin dəri səthini.
+- alını və yanaqları;
+- burunu və çənəni;
+# Fərdi mühafizə vasitələri təsnif edildikdə neçə növə ayrılır?
+- 2
++ 3
+- 4
+- 6
+- 5
+# QP-5 əleyhiqazında neçə bağlayıcı quraşdırılıb?
+- 5
++ 3
+- 2
+- 4
+- 1
+# Əleyhiqazlar neçə növə ayrılır?
+- 5
++ 2
+- 4
+- 1
+- 3
+# Fərdi mühafizə vəsitələri (FMV) nə üçündür?
+- Kimyəvi maddələrin orqanizmə keçməsinin qarşısını almaq;
++ Orqanizmin daxilində, dərinin səthinə və alt paltara radioaktiv, kimyəvi zəhərləyici və bakterial vasitələrin düşməsinin qarşısını almaq;
+- Radioaktiv maddələrin orqanizmin daxilinə keçməsinin qarşısını almaq;
+- Əhalinin işıq şüalanmasından mühafizə təşkil etmək;
+- Nüfuzedici radiaiyadan və işıq şüalanmasından mühafizə olunmaq.
+# Süzücü əlehqazlardan istifadə edilməsində neçə bağlayıcıdan istifadə edilir?
+- 2
++ 3
+- 5
+- 4
+- 1
+# Havanın hərarəti çox torpağın hərarəti az olduğu hal necə adlanır?
+- İzotermiya
+- Konveksiya
+- Konvensiya
++ İnversiya
+- İnersiya
+# Hava ilə torpağın hərarəti eyni olan hal necə adlanır?
+- İnersiya
+- Konveksiya
+- İnversiya
++ İzotermiya
+- Konvensiya
+# Hədd nişanları radiasiyasının hansı səviyyəsindən qoyula bilər?
+- 1 r/saat
+- 5 r/saat
+- 4 r/saat
++ 0,5 r/saat
+- 10 r/saat
+# Radiasiya şəraiti nə zaman yaranır?
+- AES-da reaktorda zədələnmə ilə turbinin sıradan çıxması;
+- nüvə silahının tətbiqi və zəlzələnin baş verməsi;
++ AES-da qəza və nüvə silahının tətbiqi;
+- zəlzələnin baş verməsi və kimyəvi silahın tətbiqi
+- nüvə silahının və kimyəvi silahın tətbiqi;
+# Ehtimal olunan FH-da şəraitin proqnoz edilməsi və qiymətləndirilməsi zamanı hansı şəraitlər meydana çıxır?
+- radiasiya və kimyəvi şərait, su basma, daşğın zonaları
+- radiasiya şəraiti, dağıntı və zəhərlənmə zonaları
+- radiasiya, kimya və yanğın şəraiti, qlobal quraqlıq, şiddətli yağışlar
+- mühəndis və yanğın şəraiti, qaz uçqunu, qasırğa küləklər
++ radiasiya, kimyəvi, mühəndis, yanğın və bioloji şəraitlər
+# Yanğın şəraitini qiymətləndirərkən nə təyin edilir?
+- zəlzələnin gücü, qipomərkəzdən olan məsafə;
+- bina və qurğuların yanğın üzrə qiymətləndirilməsi;
++ əraziyə düşən işıq impulsunun mıqdarı və mərkəzdən olan məsafə;
+- zəhərləyici və güclü təsirli zəhərləyici maddələri təyin edir.
+- udulan dozanın miqdarı və təyin edilmiş doza;
+# Mühəndis şəraiti qiymətləndirdikdə nələr təyin olunur?
+- zəhərləyici və güclü təsiredici maddələrin zəhərlənmə miqdarının və xarakteristikanın təyini.
+- əraziyə düşən işıq impulsunun mıqdarı və yanğın zonasının təyini;
+- zəlzələnin gücü, ərazidə dağıntı dərəcəsi;
++ bina, qurğuların dağılma dərəcələri, keçid və yolların vəziyyəti tələb olunan ağır texnika;
+- udulan dozanın miqdarı və dərəcə və təyin edilmiş doza;
+# Radiasiya səviyyəsinin partlayışdan sonra vahid bir zamana gətirildikdə, neçə variantla (halla) rastlaşmaq olar?
++ 2
+- 3
+- 6
+- 5
+- 4
+# Real şəraitdə iqtisad obyektlərin iş sabitliyinin yüksədilməsi üçün dağıntı ərazisi neçə zonaya ayrılır ?
+- 5
+- 3
+- 6
+- 4
++ 2
+# Nəqliyyat, rabitə, səhiyyə, tədris və digər strateji obyektlərin iş sabitliyi dedikdə nə başa düşülür ?
+- FH- da öz funksiyalarını vaxtında yerinə yetirə bilməməsi bacarığı;
+- FH- da öz funksiyalarının vaxtaşırı yerinə yetirə bilməməsi bacarığı.
+- FH- da öz funksiyalarını yerinə yetirə bilməməsi bacarığı;
++ FH- da öz funksiyalarının yerinə yetirilməsi bacarığı;
+- FH- da öz funksiyalarını uzun müddətə yerinə yetirə bilməməsi bacarığı;
+# Obyektin dayanaqlığının artırılması ehtiyatları hansılardır?
+- İş rejiminin tənzimlənməsi
+- Fərdi mühafizə vasitələri ehtiyatı
+- Unikol aparatları və dəzgahlar
++ Üzülməyən azuqə, sürtgü neft məhsulları, istehsalat xammalı
+- Fəhlələrin qidalanması otaqları
+# İqtisad Obyektin işinin dayanıqlığının artırılması üçün Mülki müdafiə tədbirləri hansı kriteriyalara əsaslanır?
+- Rəhbər heyətin idarəetmə qabiliyyətinə
+- Fəhlə və qulluqçuların bacarığına
+- Səfərbərlik ehtiyatının düzgün icra edilməsinə;
++ Zəif və orta ehtimallı təzyiqin əmələ gəlməsinə;
+- Avadanlığın dözümlük dərəcəsinin yüksəldilməsinə;
+# İqtisad obyektlərində dayanıqlıq prinsipi hansı qlobal məqsəd daşıyır?
+- FH zamanı onların əvvəlcədən planlaşdırılmış məhsuldarlığı saxlamamaq qabiliyyətini təmin etməkdir;
+- FH zamanı onların əvvəlcədən planlaşdırılmış məhsuldarlığı çatdıra bilməməsi qabiliyyətini təmin etməkdir;
+- FH zamanı onların əvvəlcədən planlaşdırılmış məhsuldarlığı zəiflətmək qabiliyyətini təmin etməkdir;
++ FH zamanı onların əvvəlcədən planlaşdırılmış məhsuldarlığı saxlamaq qabiliyyətini təmin etməkdir;
+- FH zamanı onların əvvəlcədən planlaşdırılmış məhsuldarlığı az müddətdə saxlamaq qabiliyyətini təmin etməkdir;
+# Mühəndis-texniki tələblərin iqtisad obyektlərində tətbiq edilməsi əsasən hansı məqsədə yönəldilmişdir?
++ Əhalinin mühafizəsi
+- Xilasetmə işlərinin təşkili
+- Qəza axtarışın təşkil edilməsi
+- İqtisadi dayanaqlıq
+- Təxirəsalınmaz işlərin planlaşdırılması
+# Obyektin dayanıqlığının artırılması tədbirləri hansı sənəddə öz əksini tapır?
+- Dayanıqlığın artırılması üzrə yuxarı təşkilatın göstərişində
+- FHN-ni regional idarələrinin göstərişində
+- Dayanıqlığın artırılması üzrə rəisin əmrində
++ Dayanıqlığın artırılması üzrə MM-ə planında
+- İqtisadi İnkişaf Nazirliyinin Qərarında
+# Obyektin dayanıqlığının artırılması üçün səfərbərlik ehtiyatı hansıdır?
+- İş rejiminin tənzimlənməsi
+- Fəhlələrin mühafizəsi üçün sığınacaqların hazırlığa gətirilməsi
+- Unikol aparatları və dəzgahlar
+- Fərdi mühafizə vasitələri ehtiyatı
++ Üzülməyən azuqə, neft məhsulları xammal
+# Obyektin dayanıqlığının artırılması tədbirləri harada öz əksini tapmalıdır?
+- Dayanıqlığın artırılması üzrə rəisin əmrində
+- Dayanıqlığın artırılması üzrə yuxarı təşkilatın göstərişində
+- FHN-ni regional idarələrinin göstərişində
+- İqtisadi İnkişaf Nazirliyinin Qərarında
++ Dayanıqlığın artırılması üzrə MM-ə planında
+# Obektlərdə hansı kəşfiyyat qrupları yaradılır?
+- radiasiya, meteroloji kəşfiyyat;
+- kinoloji kəşfiyyat.
+- yanğın akustik kəşfiyyat;
+- mühəndis, hidrodinamik kəşfiyyat;
++ radiasiya, kimyəvi, mühəndis və yanğın kəşfiyyatı;
+# Mövcud şəraitdə (reallıqda) obyektlərin iş sabitliyini yüksəltmək məqsədi ilə dağıntı ərazisi neçə zonaya ayrılır ?
+- 6
+- 4
+- 3
+- 5
++ 2
+# Maye halında olan ərzaqlardan nümunə necə götürülməlidir?
+- Orta qatdan
+- Qarışdırıb sonra götürməli
+- Alt qatdan
+- Qarışdırmadan götürməli
++ Üst qatdan və qabın dibindən
+# DP-22V cihazı nə üçündür?
+- α- rentgen şüalanmanın udulan ekspozissiya dozalanm 2R-dən50 R-dək ölçmək üçün.
++ γ –şüalanmanın udulan ekspozissiya dozalarını 2-50r-dək ölçmək;
+- γ- n- şüalanmamn ekspozissiya dozalarını 2R-dən, 50 R-dək ölçmək;
+- β - şüalanmanın ekspozissiya dozalarını 2R-dən 50 R-dək ölçmək;
+- α- β - şüalanmanın ekspozissiya dozalarını 2R-dən,50 R-dək ölçmək;
+# DP-5 V cihazı nə ücündür?
+- Kimyəvi maddələrin növünü aşkar etmək
++ Ərazidə şüalanma dozalarının gücünü və müxtəlif əşyaların β -, γ- şüaları üzrə radioaktiv çirklənməsini ölçmək
+- Şüalanma dozasına məruz qalmış insanlara şüa dərəcəsini təyin etmək
+- Texnikanın səthində λ -şüalanma üzrə radioaktiv çirklənməni ölçmək ücündür
+- λ -şüalarının səviyyəsini müəyyən etmək
+# Fərdi dozimetrlərə aid cihaz hansıdır?
+- DP-2, DKP-50, DP-24, İD-1.
++ DP-22 V, DK-02, DP-24, İD-1, İD-11 və s.
+- DP-12, İD-11, DP-5V, DRP-#
+- DP-21, İD-1, DP-5A, DP-#
+- DP-64, İD-11, İD-1, DP-#
+# Fərdi dozimetrlər nə üçündür?
+- Ərazidə radiaktiv çirklənməni müəyyən etmək üçün;
++
+Radioaktiv tozlarla zəhərlənmiş ərazidə fəaliyyət göstərən şəxsi heyyətin bütün müddət ərzində udulan şüalanma dozalarını ölçmək
+üçün;
+- Rentgen və γ -şüalarının səviyyəsini ölçmək üçün;
+- Rentgen şüalarının səviyyəsini aşkar etmək və ölçmək üçün;
+- Kimyəvi maddələrin növünü aşkar etmək üçündür.
+# Radiometrlərə aid cihazı göstərin?
+- DP -22v, DP-100 ADM, "LUÇ-A" və s.
++ DP -100M, DP-100 ADM, "LUÇ-A" və s.
+- DP -64 "LUÇ-A" və s.
+- DP -24m, DP-100 ADM, "LUÇ-A" və s.
+- ID-11, DP-100 ADM
+# İD-l nə üçündür?
+- γ və n şüalanmanın udulan dozalarını 200-500 radadək diapazonda ölçmək üçündür
++ γ və n şüalanmanın udulan dozalarını 20 -500 radadək diapazonda ölçmək
+- γ və n şüalanmanın udulan dozalarını 2-50 radadək diapazonda ölçmək
+- γ və n şüalanmanın udulan dozalarını 2-500 radadək diapazonda ölçmək
+- γ və n şüalanmanın udulan dozalarını 20-50 radadək diapazonda ölçmək
+# İD-1 fərdi dozimetrlər komplekti kimlər üçün nəzərdə tutulub?
+- Radiasiya kəşfiyyat dəstələri və şəxsi heyət.
++ Rəhbər və idarəedici şəxslər;
+- Manqa və qrup heyəti üçün;
+- İdarəedici şəxslər və şəxsi heyət;
+- Kəşfiyatçılar və şəxsi heyətlərə;
+# Fərdi dozimetrlər yüklənməyə nə vaxt qoyurlar?
+- Paylanmazdan 5 saat əvvəl;
++ Paylanmazdan 1 saat əvvəl;
+- Paylanmağa 1 gün qalmış;
+- Paylanan günü və saatı;
+- Paylanmağa əmr alınandan 3 saat sonra.
+# Rentgenmetrlər hansı ionlaşdırıcı şüaları olçürlər?
+- β
++ γ
+- α
+- proton
+- n
+# Rentgenmetrlər radiasiya səviyyəsini hansı məsafədən ölçürlər?
+- 20-30 sm
++ 60-70 sm
+- 70-90 sm
+- 40-50 sm
+- 30-40 sm
+# Rentgenmetrlərin ölçmə diapazonu nə qədər olur?
+- 0-25 R/S
++ 0-200 R/S
+- 0,2-15 R/S
+- 0-100 R/S
+- 0-50 R/S
+# İndikatorlar nə üçündür?
+- α- şüalarını aşkar etmək və işıq siqnalı vermək;
++ β və γ şüalarını aşkar etmək və 0,5R/s radiasiya səviyyəsindən çox olduqda xəbərdarlıq etmək;
+- neytron selini müəyyənləşdirmək və səs siqnalı vermək;
+- β- və α-şüalarını aşkar etmək və radiasiya səviyyəsi haqda xəbərdarlıq etmək;
+- n- və γ - şüalarını aşkar etmək və 35r/saatadək gücünü ölçmək.
+# Kimyəvi üsul nəyə əsaslanır?
+- Fotoplyonkanın qaralma dərəcəsi şüalanmanın dozasından asılı olmasına;
+- İonlaşma cərəyanı yaranır ki, bu cərəyanın kəmiyyəti dozanın gücü barədə fikir yürüdülməsinə;
+- İşıq parıltısının miqdarı şüalanmanın gücünə düz mütənasib olmasına;
++ Yaranan yeni maddənin miqdarı və rəngdəyişməsi şüalanmanın dozasına düz mütənasib olmasına;
+- Parcalanma zamanı alınan enerjinin miqdarı dozanın gücü barədə fikir yürüdür.
+# Fotoqrafiya üsulu nəyə deyilir?
+- Yaranan yeni maddənin miqdarı şüalanmanın dozasına düz mütənasib olmasına;
+- İşıq parıltısının miqdarı şüalanmanın gücünə düz mütənasib olmasına;
++ Fotoplyonkanın qaralma dərəcəsi şüalanmanın intensivliyindən aslı olaraq dəyişməsinə;
+- İonlaşma cərəyanı yaranır ki, bu cərəyanın kəmiyyəti dozanın gücü barədə fikir yaradır;
+- Parcalanma zamanı alınan eneıjinin miqdarı dozanın gücü barədə fikir yürüdülməsinə.
+# İonlaşma- qazboşalma üsulu nəyə əsaslanır?
+- Parcalanma zamanı alınan enerjinin miqdarı dozanın gücü barədə fikir yürütməyə
+- İşıq parıltısının miqdarı şüalanmanın gücünə düz mütənasib olmasına
+- İonlaşma cərəyanı yaranır ki, bu cərəyanın kəmiyyəti dozanın gücü barədə fikir yürüdülməyə
++ Təsirsiz qazların ionlaşması ilə cərəyanın keçirməsinə
+- Yaranan yeni maddənin miqdarı şüalanmanın dozasına düz mütənasib olmasına
+# Sintulyasiya, üsulu nəyə əsaslanır?
+- İşıq parıltısının miqdarı şüalanmanın gücünə düz mütənasib olması qabiliyyətinə;
+- İonlaşma cərəyanı yaranır ki, bu cərəyanın kəmiyyəti dozanın gücü barədə fikir yürüdülmə qabiliyyətinə;
+- Fotoplyonkanın qaralma dərəcəsi şüalanmanın dozasından aslı olma qabiliyyətinə;
++ Bəzi kimyəvi maddələrin α-, β-, γ- şüaların və neytronların təsirindən foton buraxma qabiliyyətinə;
+- Parcalanma zamanı alınan enerjinin miqdarı dozanın gücü barədə fikir yürüdülmə qabiliyyətinə;
+# Radiasiya səviyyəsi nədir?
+- 0,7m hündürlükdə ölçülən radiasiya səviyyəsidir;
+- Partlayış reaksiyasına qoşulmayan nüvə tutumunun hissələri və protonlar;
+- γ – şüaların buraxdığı şüanın miqdarı ilə ölçülən radiasiya gücüdür.
++ Radiaktiv zəhərlənmiş zonada 0,7-1m hündürlükdə olan şüalanma səviyyəsidir;
+- 1m hündürlükdən olan dozanın səviyyəsidir;
+# Ərzaq mallarının, suyun və yemlərin tam dezaktivasiyasiya edilməsi qərarını qəbul etməzdən əvvəl, hansı dozimetrik cihazla radioaktiv
+zəhərlənmə ölçülməlidir?
+- DP-64 ilə
+- İd-1 cihazı ilə
+- Rentgenmetrlə
++ Radiometrlə
+- Dozaimetrlə
+# Respublikamızda iqtisadiyyatın dayanıqlığı nələri əhatə edir ?
+- obyektlərin, sahələrin işinin, rayon təsərrüfatının fəaliyyətinin dayanıqlığı;
+- obyektlərin, sahələrin işinin, qəsəbə təsərrüfatının fəaliyyətinin dayanıqlığı;
+- obyektlərin, sahələrin işinin, kənd-qəsəbə təsərrüfatının fəaliyyətinin dayanıqlığı.
++ obyektlərin, sahələrin işinin, respublika təsərrüfatının fəaliyyətinin dayanıqlığı;
+- obyektlərin, sahələrin işinin, bələdiyyə təsərrüfatının fəaliyyətinin dayanıqlığı;
+# Fövqəladə hallar yaranan şəraitdə obyektdə mülki müdafiə qərargahının, dəstələrinin, habelə fəhlə və qulluqçuların ən səmərəli fəaliyyət
+qaydalarını hansı tədbir müəyyən edir?
+- Köhnə avadanlığın tətbiqi;
+- Digər texnoloji tədbirlər;
+- Yol stukturunu dəyişilməsi;
++ Təşkilati tədbirlər;
+- Layihələndirmə;
+# FH zamanı obyektin dayanıqlı işinə təsir edə bilən ən zəif (zərif) elementinin təyini nə deməkdir?
+- dayanıqlılıq dərəcəsinin üsulunu tətbiq etmək;
+- dayanıqlılıq dərəcəsini seçmək;
+- dayanıqlılıq dərəcəsini qiymətləndirilməyə ehtiyac yoxdur;
++ dayanıqlılıq dərəcəsinin qiymətləndirilməsi;
+- dayanıqlılıq dərəcəsini artırmaq;
+# Mülki müdafiənin həyəcan siqnalları hansılardır?
+- hamının diqqətinə, külək həyəcanı;
+- hamının diqqətinə,qum çovğunu həyəcanı.
+- hamının diqqətinə, leysan yağışı həyəcanı;
+- hamının diqqətinə, qar çovğunu həyəcanı;
++ hamının diqqətinə, hava həyəcanı, hava həyəcanı bitdi, radiasiya və kimya həyəcanı;
+# Şəhər və rayon ərazisində, müharibə dövründə düşmənin hücumu barədə MM xəbərdarlıq siqnalı kim tərəfindən əhaliyə çatdırılır ?
+- Milli Təhlükəsiz Nazirlyi
+- MM qəragahı
+- MM baş idarəsi
++ icra hakimiyyətləri
+- Vilayət MM rəisi
+# İqtisad obyektlərinin işinin xüsusiyyətini nəzərə alaraq neçə rabitə növündən istifadə olunmalıdır?
+- 2
+- 5
+- 6
++ 4
+- 3
+# Səyyar idarəetmə məntəqəsi nə üçün yaradılır?
+- idarəetmədən tədbirlərin həyata keçirilməsi.
+- zədələnmə ocaqlarında MM qüvvələrini yürüş marşurutlarında, hərəksiz halda bilavasitə və operativ surətdə idarə etmək üçün;
+- rəhbərin öz məntəqəsindən idarə etməsi;
++ zədələnmə ocaqlarında MM qüvvələrini yürüş marşurutlarında, hərəkət zamanı bilavasitə və operativ surətdə idarə etmək üçün;
+- zədələnmə ocaqlarında MM qüvvələrini yürüş marşurutlarında, idarənin özündə bilavasitə və operativ surətdə idarə etmək üçün;
+# Sülh dövründə təbii fəlakətlər və istehsalat qəzaları baş verdikdə MM-nin xəbərdarlıq siqnalları kim tərəfindən verilir ?
+- Nazirlər kabineti
+- Rayon MM rəisi
+- Hakimiyyət idarəsi
++ MM qərargahı
+- MM baş idarəsi
+# İdarəetmənin mahiyyəti nədir?
+- orduya rəhbərlik etmək.
+- əhaliyə rəhbərlik etmək;
+- hüquq-mühafizə orqanlarına rəhbərlik etmək;
++ MM rəhbər qərargahının özlərinə tabe olan qüvvələrlə daim rəhbərlik etməsindən,onların fəaliyyətini qarşıda duran vəzifələrin icrasına
+yönəltməkdən ibarətdir;
+- MM hərbiləşdirilmiş dəstələrinə rəhbərlik etmək;
+# Əhaliyə FH baş verməsi ilə əlaqədar xəbər və məlumatlar kim tərəfindən və necə çatdırılır ?
+- FH baş verən zaman əhaliyə xəbər və məlumatlar mobil telefon vasitəsilə çatdırılır;
+- FH baş verən zaman əhaliyə xəbər və məlumatlar teleqraf vasitəsilə çatdırılır;
++
+əhaliyə siqnal, xəbər və məlumatlar iş və yaşayış yerlərində müvafiq MM rəhbərləri tərəfindən, eləcə də yerli radioyayım şəbəkəsi ilə
+çatdırılır;
+- FH baş verən zaman əhaliyə xəbər və məlumatlar insanlar vasitəsilə çatdırılır;
+- FH baş verən zaman əhaliyə xəbər və məlumatlar mətbuat vasitəsilə çatdırılır;
+# Əgər küçədə hərəkət etdiyimiz zaman həyacan siqnalı verilərsə necə davranmalısınız ?
+- yaxınlarına siqnal haqqında xəbər verməli;
+- həyacan siqnalını eşidib oranı tərk etməli;
+- təcili evə daxil olmalı;
++ siqnal verilən rayonda gizlənməli;
+- nəqliyyat vasitəsindən istifadə etməli.
+# Xəbərdarlıq siqnalları nə üçündür ?
+- FH zamanı əhalini sığınacaqlarda yerləşdirmək;
+- su basmış rayonlardan əhalini köçürmək;
+- müasir dövrdə şəhər və kənd əhalisinin zəlzələhaqqında xəbərdar edilməsi və təhlükəsiz rayonlara köçürmək;
++ şəhər və kənd əhalisinə hər hansı FH haqqında təhlükələr barədə xəbərdar edilmək və lazımi müdafiə tədbirləri görmək;
+- kənd əhalisinin mühafizəsi üçün karantin rejimini yaratmaq.
+# Obyektlərdə rabitənin təşkilinə kim rəhbərlik edir?
+- obyektin işçiləri.
+- rabitə rəisi;
+- obyektin rəis müavini;
++ obyektin mülki müdafiə qərargah rəisi;
+- obyektin rəisi;
+# Təyinatına görə idarəetmə məntəqəsinin növləri hansılardır?
+- köməkçi, əlavə, dəhliz;
+- əsas, zal, dəhliz;
+- zirzəmi,yeraltı anbar.
+- yardımçı, köməkçi,əlavə;
++ əsas, ehtiyyat, yardımçı;
+# Aşağıdakılardan hansı MM xəbərdarlıq siqnalı deyil?
+- Hava həyacanı sovuşdu;
+- Hava həyacanı;
+- Radiasiya təhlükəsi və kimyəvi həyacan;
++ Təbii fəlakət həyacanı;
+- Hamının diqqətinə;
+# Dərhal xəbərdarlıq prinsipi nədir?
+- Təsərrufat obyektlərində baş verə biləcək və baş vermiş fövqəladə hadisələr barədə dərhal həyəcan siqnalı vermək.
+-
+Mülki müdafiənin rəhbər-komandir heyətini “Toplanış” siqnalı ilə dərhal toplamaq, baş verə biləcək və ya baş vermiş fövqəladə
+hadisələr rayonuna onları toplamaq.
+- Bütün tele-radio verilişlərini dərhal dayandırmaq və “Xüsusi xəbərlərin buraxılışı”nın vaxtını elan etmək.
++ Respublika əhalisini baş verə biləcək və baş vermiş fövqəladə hadisələr barədə dərhal məlumatlandırmaq.
+-
+Dərhal Respublikanın “Təhlükəsizli şurasının” iclasını keçirmək və qəbul edilmiş qərarlar barədə kütləvi informasiya vasitələri ilə
+əhalini məlumatlandırmaq.
+# Respublika təsərrüfatı fəaliyyətinin dayanıqlığı nədir ?
+- Respublikanın müdafiə və təsərrüfatı üçün tələb olunan strateji səviyyələrini çox az saxlamaq qabiliyyəti;
+- Respublikanı idarə edən və zəif struktur sisteminin iş sabitliyinin yüksəldilməsi;
+- Ayrı- ayrı istehsalat sistemlərinin dayanıqlığının yüksəldilməsi və maliyyə məsələləri;
+- Respublikanın müdafiə və təsərrüfatı üçün tələb olunmayan strateji səviyyələrini sabit saxlamaq qabiliyyəti;
++ Respublikanın müdafiə və təsərrüfatı üçün tələb olunan strateji səviyyələrini sabit saxlamaq qabiliyyəti;
+# Tam həcmdə MM-nin mühəndis- texniki tələbatına nələr daxil olmalıdır ?
+-
+kateqoriyaya daxil olmayan qalan bütün şəhər, qəsəbə və kənd yaşayış məntəqələrinin ərazisində və onun ətraf mühitində strateji
+əhəmiyyətli obyektlər;
+- kateqoriyaya daxil olmayan qəsəbələrin ərazisində və onun ətraf mühitində strateji əhəmiyyətli obyektlər;
+- kateqoriyaya daxil olmayan kənd yaşayış məntəqələrinin ərazisində və onun ətraf mühitində strateji əhəmiyyətli obyektlər;
+- kateqoriyaya daxil olmayan rayonların ərazisində və onun ətraf mühitində strateji əhəmiyyətli obyektlər;
++ kateqoriyaya daxil olan şəhərlərin ərazisində və onun ətraf mühitində strateji əhəmiyyətli obyektlər;
+# Nəqliyyat, rabitə, səhiyyə, tədris və başqa müəssisələrin iş dayanıqlığı dedikdə nə başa düşülür ?
+- bu müəssisələrin FH- da öz funksiyalarını vaxtında yerinə yetirə bilməməsi bacarığı;
+- bu müəssisələrin FH- da öz funksiyalarının vaxtaşırı yerinə yetirə bilməməsi bacarığı.
++ bu müəssisələrin FH- da öz funksiyalarının yerinə yetirilməsi bacarığı;
+- bu müəssisələrin FH- da öz funksiyalarını uzun müddətə yerinə yetirə bilməməsi bacarığı;
+- bu müəssisələrin FH- da öz funksiyalarını yerinə yetirə bilməməsi bacarığı;
+# FH-da mühüm əhəmiyyətli obyektlərin iş dayanıqlığının artırılması hansı problemləri əhatə edir?
+-
+FH-ın hər bir vəziyətlərində obyektlərin təhlükəsizliyini, yəni radioaktiv, zəhərləyici maddələr, güclü təsirə malik olan ZM və müxtəlif
+xəstəlik törədici mikroblardan həmçinin terrorçulardan mühafizə etmək.
++
+onun düzgün, eyni tipli əvəzedici müəssisənin, digər təhlükəsiz məsafədə yerləşdirilmiş, etibarlı maddi- texniki təchizat, nəqliyyat
+əlaqələri, işçilərin mühafizəsi, fəlakətlərin nəticələrinin aradan qaldırılması;
+- mühüm əhəmiyyətli hərbi xarakterli iqtisad obyektlərinin yeraltı kommunikasiyalarda yerləşdirilməsi;
+- bu obyektlərin fəhlə və qulluqçularının, rəhbər işçilərinin, onların ailə üzvlərinin şəhərdən kənar təhlükəsiz zonada yerləşdirilməsi;
+- yeni eyni tipli iqtisad obyektlərinin, bu obyektlərə yaxın məsafədə yerləşdirib, onların potensialından səmərəli istifadə etmək;
+# İqtisad obyektlərinin iş qabiliyyətinin yüksəldilməsi sahəsində hansı əsas kriteriyalar nəzərə alınmalıdır ?
+-
+Ehtimal olunan təbii fəlakətlər zamanı istehsalatın yerləşdiyi ərazidə işçilərin mühafizəsi və müəssisə qismən sıradan çıxdıqda 7 il
+müddətdə bərpası.
++
+Ehtimal olunan təbii fəlakətlər zamanı istehsalatın yerləşdiyi ərazidə işçilərin mühafizəsi və müəssisə qismən sıradan çıxdıqda onun qısa
+müddətdə bərpası;
+-
+Ehtimal olunan təbii fəlakətlər zamanı istehsalatın yerləşdiyi ərazidə işçilərin mühafizəsi və müəssisə qismən sıradan çıxdıqda çox gec
+müddətdə bərpası;
+-
+Ehtimal olunan təbii fəlakətlər zamanı istehsalatın yerləşdiyi ərazidə əhalinin mühafizəsi və mühafizəsi və müəssisə qismən sıradan
+çıxdıqda onun uzun müddətdə bərpası;
+-
+Ehtimal olunan təbii fəlakətlər zamanı istehsalatın yerləşdiyi ərazidə işçilərin mühafizəsi və müəssisə qismən sıradan çıxdıqda 5 il
+müddətdə bərpası;
+# Obyektin dayanıqlığının artırılması zamanı əsas tədbirlər hansılardır?
+- İş rejiminin tənzimlənməsi;
++ Planda nəzərdə tutulan məhsulun kəmiyyət və keyfiyyətcə buraxılması;
+- Unikal avadanlıq ehtiyyatı;
+- Fəhlə və qulluqçuların hazırlanması.
+- Xammal ehtiyyatının yaradılması;
+# Zədələnmə ocağında yerinə yetirilən işlər neçə hissədən ibarətdir?
+- 6
++ 2
+- 4
+- 5
+- 3
+# Əhalinin və hərbiləşməmiş dəstələrinin şəxsi heyətinin mühafizə məsələlərini həll etmək üçün MM sistsmində hansı laboratoriya
+yaradılır ?
+-
+güclü təsirli zəhərli və radioaktiv maddələrin, həm də bakterioloji vasitələrin təyin edilməsi üçün radiometriya və kimyəvi MM
+laboratoriyası(GTZM, RM və BV).
++ MM laboratoriyası – radiometrik və kimyəvi – onun təyinatı: Ərazidə radioaktiv və zəhərləyici maddələrin miqdarının müəyyən
+edilməsi və növlərinin dəqiqləşdirilməsi;
+-
+bakterioloji vasitə və zəhərləyici maddələrin təyin edilməsində müxtəlif növ analizlərin aparılması üçün bakterioloji və kimyəvi
+laboratoriya(ZM ,BV);
+-
+bakterioloji vasitə və radioaktiv maddələrin təyin edilməsi, müxtəlif növ analizlərin aparılması üçün bakterioloji və radiometriya MM
+laboratoriyası (RM və BV);
+-
+bakterioloji vasitələr, radioaktiv və zəhərləyici maddələrin təyin edilməsi, müxtəlif növ analizlərin aparilması üçün bakterioloji,
+radiometriya və kimyəvi MM laboratoriyası (ZM, RM, BV);
+# Şəhərlərin strateji mövqeyindən asılı olaraq, mülki müdafiə neçə kateqoriyaya bölünür?
+- 5
++ 3
+- 4
+- 2
+- 3
+# Şəhərin əhali məskunlaşmış yerlərinin sahəsi neçə ha çox olmayan yaşayış rayonlarına ayırlar?
+- 50 ha
++ 250 ha
+- 100 ha
+- 300ha
+- 150 ha
+# Küçələrin dəmir yol xətti ilə və həmçinin öz aralarında kəsişmə yerləri eyni səviyyədə ehtiyat keçidlərilə əsas yoldan nə qədər məsafədə
+təmin olunmalıdır?
+- 150m-dən
++ 50 m-dən
+- 100m-dən
+- 75m-dən
+- 25m-dən
+# Hansı tədbir görüldükdə obyektdəki binaların, qurğuların, avadanlığın və kommunikasiyaların zədələyici təsirlərə fiziki davamlılığını
+artırmaq mümkündür?
+- Ümumiyyətlə tədbirin keçirilməməsi
++ Mühəndis-texniki tədbirlər
+- Təşkilatı tədbirlər
+- Köhnə avadanlığın tətbiqi
+- Texnoloji tədbirlər
+# İkinci zədələyici amillər yaranması ehtimalının qarşısını almaq məqsədilə obyektdə texnoloji rejimin dəyişdirilməsi hansı tədbirə
+əsaslanır?
+- Yol stukturunu dəyişməyə
++ Texnoloji tədbirlərə
+- Təşkilati tədbirlərə
+- Mühəndis-texniki tədbirlərə
+- Layihələndirməyə
+# Obyektin mülki müdafiə rəhbəri (rəisi) kimdir?
+- obyektin işçiləri;
++ obyektin rəhbəri (rəisi, müdiri və ya rektoru);
+- obyektin rəis müavini;
+- obyektin kadrlar şöbəsi;
+- obyektin mühafizəçiləri.
+# Mülki müdafiə rəhbərliyinin idarəetmə üzrə iş prosesinin mərhələləri hansılardır?
+- Vəziyyətin təhlil edilməsi və öyrədilməsi, qərar qəbul edilməsi;
++ Vəziyyətin təhlil edilməsi və qiymətləndirilməsi, qərar qəbul edilməsi, göstəriş verilməsi, nəticələrin aradan qaldırılması;
+- Vəziyyətin təhlil edilməsi və əsaslandırılması , nəticələrin aradan qaldırılması;
+- Vəziyyətin təhlil edilməsi və aydınlaşdırılması.
+- Vəziyyətin təhlil edilməsi və təhlil edilməməsi;
+# Mülki müdafiə rəhbərliyinin idarəetmə üzrə iş prosesi neçə mərhələdən ibarətdir?
+- 1
++ 4
+- 5
+- 2
+- 3
+# Mülki müdafiə kim tərəfindən idarə olunur?
+- Mülki müdafiənin qərargah rəisi tərəfindən;
++ Mülki müdafiə rəhbəri tərəfindən;
+- Mülki müdafiə rəisinin müavini tərəfindən;
+- Mülki müdafiənin hərbiləşdirilmiş dəstələri tərəfindən.
+- Mülki müdafiənin şəxsi heyəti tərəfindən;
+# Obyektlərin mülki müdafiə planı kim tərəfindən təsdiq olunur?
+- obyektin işçiləri tərəfindən;
++ obyektin rəhbəri (rəisi, müdiri və ya direktoru) tərəfindən;
+- obyektin kadrlar şöbəsi tərəfindən.
+- obyektin rəis müavini tərəfindən;
+- obyektin qərargah Rəis tərəfindən;
+# Növbə işçiləri obyektdə hansı vasitələrlə gətirilir?
+- Metro, marşrut maşınları, velosipedlə;
++ Dəmir yolu, avto, gəmi, paromlarla;
+- Sərnişin qatarı, “quj” nəqliyyatla;
+- Piyada kolonlarla
+- Motosiklet və velosipedlə;
+# Digər təxirəsalınmaz işlərə /DTİ/ hansılar aid deyil?
+- Rabitə xətlərinin təmiri və bərpa etməklə idarəetmənin bərpası
+- Qaz, elektrik və su xətlərində baş vermiş qəzaların məhdudlaşdırmaq
+- Nəqliyyat keçidlərinin zədələnmə ocağında ilk növbədə açılması
++ İnsanlara dağıntı və zəhərlənmə zonasında ilk tibbi yardım göstərmək
+- Uçulma təhlükəsi olan bina və qurğulann tamamilə sökülməsi və ya bərkidilməsi
+# Qəza xilasetmə işlərinə hansılar ilk növbədə aid edilir?
++ Zədələnmə ocağına gedən yolların ucqunlardan təmizlənməsi, keçidlərin açılması
+- Uçqunlar altmdan insanları çıxarmaq üçün texnikanın gətirilməsi
+- Adamları dağıntı yerlərindən təhlükəsiz yerlərə çıxarmaqla DTİ-n görülməsi
+- Zədələnmiş adamları axtarıb tapmaq ücün, kəşfiyyatın təşkili
+- Tapılan insanlara ilk tibb yardım göstərmək və tibb müəssisəsinə göndərmək
+# Təxirə salınmaz qəza- bərpa işləri hansı məqsədlə aparılır ?
++ xilasetmə işlərin təşkili və icrası üçün şərait yaratmaq, təhlükəsizliyi təmin etmək tədbirlərinin tətbiqi;
+- radiasiya kəşfiyyatı aparılması üçün şərait yaratmaq və təmin etmək;
+- kimya kəşfiyyatı aparılması üçün şərait yaratmaq və təmin etmək;
+- bakterioloji kəşfiyyatı aparılması üçün şərait yaratmaq və təmin etmək.
+- mühəhdis kəşfiyyatı aparılması üçün şərait yaratmaq və təmin etmək;
+# Qəza- xilasetmə işləri, hansı məqsədlə aparılır ?
+- insanları xilas etmək, zədəlilərə yardım göstərmək və onların şəhərkənarı bölgəyə köçürülməsini təmin etmək.
+- zərərçəkmişlərə ilk tibbi yardımı göstərmək, onların təhlükəsiz rayonlara köçürülməsini təşkil etmək;
+- zədələnmiş insanlara yardım göstərmək, qəzaların qarşısını almaq, mühəndis qurğularında bərpa işlərinə başlamaq;
++ insanları xilas etmək və zədələnmiş insanlara yardım göstərmək, qəzaların məhdudlaşdırılması, bərpa işləri üçün şərait yaratmaq;
+- insanların xilası və xilasetmə işləri üçün şərait yaratmaq;
+# Şəhərin küçələrində binaların dağılması nəticəsində hansı uçqunlar əmələ gəlir ?
+- güclü
+- zəif
+- hissə-hissə
++ tam
+- orta
+# Təbii fəlakət və qəzalar nəticəsində əmələ gələn vəziyyəti nəzərə alaraq hansı növ bərpa işləri nəzərdə tutulur ?
+- əsaslı(tam), vacibliyinə görə əsassız.
+- uzunmüddətli, qısamüddətli, tez;
+- təcili, ikincidərəcəli, müvəqqəti;
++ hissə-hissə, müvəqqəti, əsaslı- kapital;
+- qısamüddətli, təcili, əsaslı(tam);
+# Mütərəqqi və effektiv nəticə əldə etmək məqsədilə xilasetmə /X/ və DTİ-nin aparılması neçə mərhələdə icra olunur?
+- 7
+- 5
+- 2
++ 3
+- 4
+# İqtisadiyyat ixtisaslı ali təhsil məktəblərində Mülki müdafiə fənni proqram üzrə neçə saat tədris olunur?
+- 30
+- 60
+- 50
+- 46
++ 45
+# MM üzrə hazırlıq planlaşdırılarkən obyektdə neçə sənəd tərtib edilməlidir?
+- 3
+- 6
+- 4
++ 2
+- 5
+# MM-nin xəbərdarlıq toplanış məşqləri kimlərlə keçirilir?
+- obyekt mülki müdafiə dəstələri ilə;
+- yerli mülki müdafiə dəstələri ilə;
+- ərazi mülki müdafiə dəstələri ilə;
++ Hərbiləşdirilmiş mülki müdafiə dəstələri ilə;
+- hərbiləşdirilməmiş mülki müdafiə dəstələri ilə;
+# Obyektdə MM üzrə tədris ili neçə ay davam edir?
+- 8 ay
+- 11 ay
+- 12 ay
++ 10ay
+- 9 ay
+# Obyektdə MM üzrə tədris ili hansı aydan başlayır?
+- aprel
+- sentyabr
++ yanvar
+- mart
+- iyun
+# Obyektlərdə məşğələ aparmaq üçün hazırlıq qrupları neçə nəfərdən ibarət olmalıdır?
+- 40 nəfər
+- 50 nəfər
+- 20 nəfər
++ 30 nəfər
+- 25 nəfər
+# Obyektlərdə mülki müdafiə planı neçə bölmədən ibarətdir?
+- 2
+- 5
+- 1
++ 4
+- 3
+# Obyektin mülki müdafie məşqi neçə ildən bir keçirilir?
+- 5 ildən bir
+- 4 ildən bir
+- 2 ildən bir
+- 1 ildən bir
++ 3 ildən bir
+# Obyektlərdə rəhbər heyətin əməli məşqləri ildə neçə dəfə keçirilir?
+- ildə 3 dəfə
+- ildə 2 dəfə
+- ildə 5 dəfə
++ ildə 1 dəfə
+- ildə 4 dəfə
+# Ali təhsil müəssisələrində MM məşqlərinin davametmə müddəti nə qədərdir?
+- 6-7 saat
+- 2-4 saat
+- 1-3 saat
++ 8-10 saat
+- 3-5 saat
+# Obyektlərdə kompleks MM təlimləri neçə ildən bir keçirilir?
+- 2 ildən bir
++ 3 ildən bir
+- 1 ildən bir
+- 5 ildən bir
+- 4 ildən bir
+# Əhaliyə mülki müdafiə tədbirlərinin öyrədilməsini təşkil etmək, əhalini fərdi və kollektiv mühafizə vasitələri ilə təmin etmək kimlərə
+həvalə olunur?
+- Rayonun icra hakimiyyətinə
++ Dövlət hakimiyyət orqanlarına
+- Obyekt rəhbərlərinə;
+- İdarə və təşkilatlara;
+- Polis rəisinə;

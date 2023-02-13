@@ -1,0 +1,2332 @@
+#
+Kompüterin nəsillərinə görə uyğunluğu müəyyən edin.
+1. II nəsil
+2. III nəsil
+3. IV nəsil
+a) Aparat proqram vasitələrinin qarşılıqlı əlaqələndirilməsi
+b) Mikroprosessorun yaranması
+c) Xarici yaddaş kimi maqnit lentindən istifadə
+d) Mətni informasiyanın emalının mümkünlüyü
+e) Monitor və klaviaturadan istifadə
+- 1 - a, d; 2 - c, e; 3 - b
++ 1 - c, d; 2 - a, e; 3 - b
+- 1 - b; 2 - a, c; 3 - e
+- 1 - a; 2 - e; 3 - c, d
+- 1 - c; 2 - d; 3 - a, e
+# Maqnit diskindən ilk dəfə EHM-lərin hansı nəslində istifadə edilmişdir?
+- I
++ III
+- IV
+- V
+- II
+# İlk dəfə maqnit lentindən EHM-lərin neçənci nəslində istifadə olunmuşdur?
+- I
++ II
+- IV
+- V
+- III
+# EHM-lərin 2-ci nəslindən 3-cü nəslinə keçid nə ilə əlaqədardır?
+- Elektron lampaların tranzistorlarla əvəz olunması ilə
++ Tranzistorların inteqral sxemlərlə əvəz olunması ilə
+- Tranzistorların çox böyük inteqral sxemlərlə əvəz olunması ilə
+- Fərdi kompüterlərin yaranması ilə
+- Tranzistorların böyük inteqral sxemlərlə əvəz olunması ilə
+# Kompüterlər hansı əlamətə görə nəsillərə bölünür?
+- Qiymətlərinə görə
++ Element bazalarına görə
+- Məhsuldarlığına görə
+- Təyinatına görə
+- İş etibarlılığına görə
+# Fərdi kompüterlər EHM-lərin neçənci nəslində yaranmışdır?
+- I
++ IV
+- III
+- V
+- II
+# Kompüterlər qabarit ölçülərinə və məhsuldarlığına görə hansı siniflərə bölünür? 1. Orta kompüterlər; 2. Mikrokompüterlər; 3. Mini
+kompüterlər; 4. Superkompüterlər; 5. Fərdi kompüterlər
+- 1, 4, 5
+- 1, 2, 5
+- 1, 5
++ 1, 2, 3, 4
+- 2, 3, 5
+# IV nəsil kompüterlərə xas olan göstəricilər hansılardır? 1. İş etibarlılığı azdır. 2. Qabarit ölçüləri xeyli kiçikdir. 3. Böyük və çox böyük
+inteqral sxem texnologiyası ilə yaradılıb. 4. Elektron lampalı elementlərdə qurulub. 5. İşləmə sürəti kiçikdir
+- 2, 4
++ 2, 3
+- 1, 4, 5
+- 1, 3, 5
+- 1, 5
+# Tarixən ilk olaraq hesablama üçün hansı vasitədən istifadə olunmuşdur?
+- Hesab çöpləri
++ Barmaqlar
+- Daşlar
+- Şotka
+- Arifmometr
+# İlk əməliyyat sistemləri EHM-lərin hansı nəslində yaradılmışdır?
+- I
++ III
+- IV
+- V
+- II
+# EHM-lərin hansı nəslində alqoritmik dillərdən istifadə edilməyə başlanmışdır?
+- I
++ II
+- IV
+- V
+- III
+# İlk universal kompüter necə adlanırdı?
+- MINSK
++ ENIAC
+- IBM
+- DELL
+- BESM
+# Qabarit ölçülərinə və məhsuldarlığa görə kompüterlər hansı təsnifata bölünür?
+- aparat uyğunluğu, əməliyyat sistemi səviyyəsində uyğunluq, proqram uyğunluğu, verilənlər səviyyəsində uyğunluq
++ super, böyük, orta, kiçik, mikro
+- I nəsil, II nəsil, III nəsil, IV nəsil, V nəsil
+- analoq, rəqəm, hibrid
+- universal, problemyönlü, ixtisaslaşdırılmış
+# Uyğunluğuna görə kompüterlər hansı təsnifata bölünür?
+- universal, problemyönlü, ixtisaslaşdırılmış
++ aparat uyğunluğu, əməliyyat sistemi səviyyəsində uyğunluq, proqram uyğunluğu, verilənlər səviyyəsində uyğunluq
+- analoq, rəqəm, hibrid
+- super, böyük, orta, kiçik, mikro
+- I nəsil, II nəsil, III nəsil, IV nəsil, V nəsil
+# Təyinatına görə kompüterlər hansı təsnifata bölünür?
+- super, böyük, orta, kiçik, mikro
+- aparat uyğunluğu, əməliyyat sistemi səviyyəsində uyğunluq, proqram uyğunluğu, verilənlər səviyyəsində uyğunluq
++ universal, problemyönlü, ixtisaslaşdırılmış
+- analoq, rəqəm, hibrid
+- I nəsil, II nəsil, III nəsil, IV nəsil, V nəsil
+# Yaranma mərhələlərinə və istifadə olunan element bazasına görə hesablama maşınları hansı təsnifata bölünür?
++ I nəsil, II nəsil, III nəsil, IV nəsil, V nəsil
+- analoq, rəqəm, hibrid
+- super, böyük, orta, kiçik, mikro
+- aparat uyğunluğu, əməliyyat sistemi səviyyəsində uyğunluq, proqram uyğunluğu, verilənlər səviyyəsində uyğunluq
+- universal, problemyönlü, ixtisaslaşdırılmış
+# İşlənmə prinsipinə görə hesablama maşınları hansı təsnifata bölünür?
+- super, böyük, orta, kiçik, mikro
+- aparat uyğunluğu, əməliyyat sistemi səviyyəsində uyğunluq, proqram uyğunluğu, verilənlər səviyyəsində uyğunluq
+- universal, problemyönlü, ixtisaslaşdırılmış
++ analoq, rəqəm, hibrid
+- I nəsil, II nəsil, III nəsil, IV nəsil, V nəsil
+# Uyğunluğuna görə kompüterlər hansı təsnifatı yoxdur?
+- proqram uyğunluğu
+- verilənlər səviyyəsində uyğunluq
+- əməliyyat sistemi səviyyəsində uyğunluq
+- aparat uyğunluğu
++ funksional uyğunluq
+# Ümumi təyinatlı EHM-lər nə üçün nəzərdə tutulmuşdur?
++ ixtiyari tətbiqi məsələnin həlli üçün
+- konkret təyinatlı məsələlərin həlli üçün
+- aerodinamikada hesablamalar aparmaq üçün
+- müəyyən funksiyaları həyata keçirmək üçün
+- texnoloji obyektlərin idarə edilməsi üçün
+# Problemyönlü EHM-lər nə üçün nəzərdə tutulmuşdur?
+- riyazi məsələlərin həlli üçün
+- konkret təyinatlı məsələlərin həlli üçün
+- ixtiyari tətbiqi məsələnin həlli üçün
++ texnoloji obyektlərin idarə edilməsi üçün
+- iqtisadi məsələlərin həlli üçün
+# İxtisaslaşdırılmış EHM-lər nə üçün nəzərdə tutulmuşdur?
+- texnoloji obyektlərin idarə edilməsi üçün
+- riyazi məsələlərin həlli üçün
+- informasiyanın yığılması, qeydiyyatı, emalı üçün
++ konkret təyinatlı məsələlərin həlli üçün
+- ixtiyari tətbiqi məsələnin həlli üçün
+# Üçüncü nəsil kompüterlərin baza elementini nə təşkil edir?
+- böyük və çox böyük inteqral sxemlər
+- yarımkeçirici diodlar
+- tranzistorlar
++ inteqral sxemlər
+- elektron lampalar
+# İkinci nəsil kompüterlərin baza elementini nə təşkil edir?
+- elektron lampalar
+- inteqral sxemlər
++ tranzistorlar
+- çox böyük inteqral sxemlər
+- böyük inteqral sxemlər
+# Birinci nəsil kompüterlərin baza elementini nə təşkil edir?
+- böyük və çox böyük inteqral sxemlər
+- inteqral sxemlər
++ elektron lampalar
+- tranzistorlar
+- yarımkeçirici diodlar
+# Dördüncü nəsil kompüterlərin baza elementini nə təşkil edir?
+- elektron lampalar
+- yarımkeçirici diodlar
+- inteqral sxemlər
+- tranzistorlar
++ böyük və çox böyük inteqral sxemlər
+# Proqramlaşdırmanın nəzəri əsaslarını vermiş ilk proqramçı kimdir?
+- Çarlz Bebbic
+- Blez Paskal
+- Nobert Viner
++ Ada Lavleys
+- Vilhelm Leybnis
+# Proqramla idarə olunan ilk kompüterin yaradıcısı kim hesab olunur?
+- Ada Lavleys
+- Blez Paskal
+- Nobert Viner
++ Konrad Zus
+- Vilhelm Leybnis
+# İnsanın iştirakı olmadan hesablama aparan hesablama maşını (analitik maşın) yaratmaq ideyası kim tərəfindən irəli sürülmüşdür?
+- Vilhelm Leybnis
+- AlanTurinq
+- Ada Lavleys
++ Çarlz Bebbic
+- Blez Paskal
+# Hesab əməllərini yerinə yetirən mexaniki arifmometri kim yaratmışdır?
+- Alan Turinq
+- Çarlz Bebbic
+- Blez Paskal
++ Vilhelm Leybnis
+- Ada Lavleys
+# İlk dəfə olaraq kim cəmləyici maşın hazırlamışdır?
+- Ada Lavleys
+- Alan Turinq
+- Vilhelm Leybnis
+- Çarlz Bebbic
++ Blez Paskal
+# 16-lıq say sistemində F hərfinə uyğun olan onluq ədəd hansıdır?
+- 14
++ 15
+- 12
+- 11
+- 13
+# 16-lıq say sistemində E hərfinə uyğun olan onluq ədəd hansıdır?
+- 13
++ 14
+- 15
+- 11
+- 12
+# 16-lıq say sistemində D hərfinə uyğun olan onluq ədəd hansıdır?
+- 12
++ 13
+- 15
+- 11
+- 14
+# 16-lıq say sistemində C hərfinə uyğun olan onluq ədəd hansıdır?
+- 11
++ 12
+- 14
+- 15
+- 13
+# 16-lıq say sistemində B hərfinə uyğun olan onluq ədəd hansıdır?
+- 10
++ 11
+- 13
+- 14
+- 12
+# 16-lıq say sistemində A hərfinə uyğun olan onluq ədəd hansıdır?
+- 11
++ 10
+- 13
+- 14
+- 12
+# Onluq say sistemində verilmiş 810 rəqəmini ikilik, səkkizlik və on altılıq say sistemlərinə çevirin.
+- 10002 , 108 , 616
++ 10002 , 108 , 816
+- 10012 , 108 , 816
+- 10002 , 88 , 816
+- 1002 , 108 , 616
+# Rum say sistemi hansı say sisteminə aiddir?
+- mövqeli
++ mövqesiz
+- binar
+- duzgun cavab yoxdur
+- unar
+# Onluq say sistemi hansı say sisteminə aiddir?
+- mövqesiz
++ mövqeli
+- binar
+- slavyan
+- unar
+# Say sisteminin əsası nədir?
+- nömrələri qeyd etmək üçün istifadə olunan rəqəmlərin sayıdır
++ sistemi təşkil edən baza elementlərinin sayıdır
+- say sisteminin bütün elementlərinin cəmidir
+- ədəd yazma metodudur
+- EHM-lərin riyazi əsasıdır
+# Verilmiş 3 ədəd arasında hansı münasibət doğrudur? a=110010012, b=22210, c=C016
+- a<b<c
++ c<a<b
+- a<c<b
+- c<b<a
+- b<a<c
+# 65 ədədinin ikilik say sistemindəki yazılışında olan sıfırların sayı birlərin sayından neçə vahid çoxdur?
+- 2
++ 3
+- 4
+- 5
+- 1
+# 33 ədədinin ikilik say sistemindəki yazılışında olan sıfırların sayı birlərin sayından neçə dəfə çoxdur?
+- 3
++ 2
+- 4
+- 5
+- 1
+# Hansı say sistemlərində rəqəmin qiyməti onun ədəddəki mövqeyindən asılı deyil?
+- mövqeli
++ mövqesiz
+- binar
+- ərəb
+- unar
+# Say sistemləri neçə qrupa bölünür?
+- rum və ərəb
++ mövqeli və mövqesiz
+- natural və kəsr
+- proqramlaşdırılan və proqramlaşdırılmayan
+- ikilik və onluq
+# Kompüter nə üçün 2-lik say sistemi ilə işləyir?
+- 2-lik say sistemində hesablama aparmaq asan olduğu üçün
++ yalnız iki vəziyyətdə ola bilən fiziki elementlərdən qurulduğu üçün
+- müxtəlif vəziyyətlərdə ola bilən məntiqi elementlərdən qurulduğu üçün
+- yalnız 2-lik say sistemi ilə işləmək mümkün olduğuna görə
+- 2-lik say sistemindən 8-lik və 16-lıq say sistemlərinə keçmək asan olduğu üçün
+# 16-lıq say sistemində ən böyük rəqəm hansıdır?
+- 8
+- 16
++ F
+- 10
+- 15
+# 8-lik say sistemində ən böyük rəqəm hansıdır?
++ 7
+- A
+- F
+- 8
+- 10
+# Rum say sistemində yazılmış CDX ədədi onluq say sistemində neçəyə bərabərdir?
++ 410
+- 690
+- 510
+- 610
+- 590
+# Rum say sistemində yazılmış DCX ədədi onluq say sistemində neçəyə bərabərdir?
+- 590
+- 690
+- 410
++ 610
+- 510
+# 4 bitlə kodlaşdırıla bilən simvolların maksimal sayı nə qədərdir?
+- 8
+- 2
+- 4
+- 32
++ 16
+# 8-lik ədədin hər bir simvolu nə qədər informasiya daşıyır?
+- 3 bayt
+- 4 bit
++ 3 bit
+- 8 bit
+- 1 bayt
+# Onluq say sistemində verilmiş 24 ədədi ikilik say sistemində nəyə bərabərdir?
+- 10111
++ 11000
+- 10000
+- 10101
+- 11111
+# Verilmiş ədədlərdən hansı mövqelidir?
+- XV
++ BC
+- LC
+- DX
+- XX
+# Aşağıdakı ədədlərdən hansı mövqesizdir?
+- AB
++ XV
+- FA
+- FE
+- BC
+# X10=54 olduqda, X16-nı tapın.
+- 39 
++ 36
+- A2 
+- 63 
+- 17 
+# A,B,C,D hərfləri uyğun olaraq 00, 01, 10 və 11 ikilik ədədlərlə kodlaşdırılmışdır. BACD simvollar ardıcıllığı bu qayda ilə
+kodlaşdırılaraq 16-lıq say sistemində yazılarsa, hansı ədəd alınar?
+- 1023
++ 4B
+- 4AB
+- 411
+- 5A7
+# İkilik say sistemində verilmiş ədədlərdən hansı ən böyükdür?
+- 101101101
++ 111011011
+- 110101101
+- 101100111
+- 110011000
+# 16-lıq say sistemində verilmiş B5A ədədini səkkizlik say sisteminə çevirin.
+- 5530
++ 5532
+- 4032
+- 4530
+- 4532
+# 16-lıq say sistemində verilmiş 6A ədədini ikilik say sisteminə çevirin.
+- 101101101
++ 1101010
+- 110101101
+- 101100111
+- 110011000
+# 14210 ədədinin 16-lıq say sistemində yazılışı necədir?
+- 29B
++ 8E
+- 216
+- BE
+- 176
+# 10B16 ədədini onluq say sisteminə çevirin.
+- 428
++ 267
+- 562
+- 914
+- 837
+# İkilik say sistemində verilmiş 10110002 ədədini 16-lıq sistemə çevirin.
+- 30
++ 58
+- 48
+- 38
+- 130
+# 8-lik say sistemində verilmiş 4538 ədədi 16-lıq say sistemində nəyə bərabərdir?
+- 2B
++ 12B
+- 1B2
+- 12A
+- B12
+# İkilik say sistemində verilmiş 11101010012 ədədi 8-lik say sistemində nəyə bərabərdir?
+- 1544
++ 1651
+- 1545
+- 1649
+- 1650
+# Aşağıdakı ədədlərdən ən böyüyü hansıdır?
+- 1101012 
++ 11110 
+- 2816 
+- 5F16
+- 1218 
+# Aşağıdakı yazılışlardan hansı doğru deyil?
+- 12210 
++ 5288 
+- 894A16 
+- 11001012 
+- 31110 
+# 10112 ədədinin 8-lik say sistemində yazılışı necədir?
+- 32
+- 7
+- 17
++ 13
+- 73
+# 8610 ədədinin 16-lıq say sistemində yazılışı necədir?
+- 44
++ 56
+- 55
+- 46
+- 57
+# 2-lik say sistemində verilmiş ən böyük 8 rəqəmli ədəd 16-lıq say sistemində nəyə bərabərdir?
+- 11111111
++ FF
+- FFF
+- 777
+- 505
+# 2-lik say sistemində verilmiş ən böyük 7 rəqəmli ədəd 8-lik say sistemində nəyə bərabərdir?
+- 7777
++ 177
+- 888
+- FF
+- 1111111
+# 1101102+1001002 cəmini ikilik say sistemində tapın.
+- 1011100
+- 1011011
+- 1011111
+- 1011101
++ 1011010
+# 6916+100002 cəmini ikilik say sistemində tapın.
+- 1110001
+- 1111010
++ 1111001
+- 1100010
+- 1100011
+# 110112 və 10012 ədədlərinin ikilik say sistemində qismətini tapın.
++ 11
+- 100
+- 110
+- 10
+- 101
+# 11012 və 10012 ədədlərinin ikilik say sistemində hasilini tapın.
+- 1111001
++ 1110101
+- 1100101
+- 1100111
+- 1110011
+# 11010112 və 1100102 ədədlərinin ikilik say sistemində fərqini tapın.
+- 110001
+- 111101
+- 110101
+- 110111
++ 111001
+# 1100102 və 1110012 ədədlərinin ikilik say sistemində cəmini tapın.
+- 1011001
+- 1101010
+- 101011
++ 1101011
+- 1101101
+# Normallaşdırılmış ikilik 0.10111∙2–1 və 0.11011∙210 ədədlərinin cəmini tapmalı.
+- 0.11101111*2-1
+- 1.1101111*20
+- 0.00110010*2-1
++ 0.11101111*210
+- 0.00110010*210
+# -64 onluq ədədinin ikilik düz kodunu göstərin:
+- 10111111
+- 00111111
+- 00010010
++ 11000000
+- 10111111
+# 64 onluq ədədinin ikilik düz kodunu göstərin:
+- 10111111
+- 00010010
++ 01000000
+- 11000000
+- 00111111
+# -114 onluq ədədinin ikilik əlavə kodunu göstərin:
+- 10001101
+- 01110010
+- 11110010
+- 00001101
++ 10001110
+# 114 onluq ədədinin ikilik əlavə kodunu göstərin:
+- 00010010
+- 11110010
+- 00001101
++ 01110010
+- 10001101
+# -114 onluq ədədinin ikilik əks kodunu göstərin:
+- 01110010
+- 00010010
++ 10001101
+- 00001101
+- 11110010
+# 114 onluq ədədinin ikilik əks kodunu göstərin:
++ 01110010
+- 00010010
+- 11110010
+- 00001101
+- 10001101
+# -114 onluq ədədinin ikilik düz kodunu göstərin:
+- 10001101
+- 00010010
+- 01110010
++ 11110010
+- 00001101
+# 114 onluq ədədinin ikilik düz kodunu göstərin:
+- 10001101
+- 00010010
+- 00001101
+- 11110010
++ 01110010
+# 0.0382 ədədinin normallaşdırılmış formada təsviri hansıdır?
+- 382*10-4
+- #2*10-3
+- 3.82*10-2
++ 0.382*10-1
+- 0.0382*100
+# #3 ədədinin normallaşdırılmış formada təsviri hansıdır?
+- #3*100
+- 0.0253*103
+- 2.53*101
+- 253*10-1
++ 0.253*102
+#
+Kompüterdə emal olunan verilənlərin tipləri hansılardır?
+1. tam ədədlər
+2. sabit nöqtəli (vergüllü) ədədlər
+3. mənfi ədədlər
+4. sürüşgən nöqtəli ədədlər
+5. irrasoinal ədədlər
+6. məntiqi verilənlər
+- 2, 3, 5
+- 2, 3, 5, 6
+- 1, 3, 4, 5
++ 1, 2, 4, 6
+- 1, 4, 5
+# 11112+11012 cəmi ikilik say sistemində neçəyə bərabərdir?
+- 11111
+- 10100
+- 10111
+- 11000
++ 11100
+# Kompüterdə bütün əmrlər və verilənlər necə təsvir olunur?
+- baytların kombinasiyası ilə
++ bitlərin kombinasiyası ilə
+- məntiqi verilənlərlə
+- göstəricilərlə
+- simvollarla
+# Diskret informasiya necə informasiyadır?
+- kəsilməz
++ rəqəmsal
+- strukturlaşdırılmamış
+- xüsusi
+- analoq
+# Analoq informasiya necə informasiyadır?
+- kəsilən
++ kəsilməz
+- diskret
+- strukturlaşdırılmış
+- rəqəmsal
+# informasiya.docx faylı C: diskində yerləşən Documents qovluğunun Model altqovluğunda yerləşir. Faylın adını göstərin.
+- docx
++ informasiya.docx
+- Model\informasiya.docx
+- С:\Documents\Model\informasiya.docx
+- informasiya
+# informasiya.docx faylı C: diskində yerləşən Documents qovluğunun Model altqovluğunda yerləşir. Faylın genişlənməsini göstərin.
+- informasiya.docx
++ docx
+- С:\Model
+- С:\Documents\Model\informasiya.docx
+- Documents\informasiya.docx
+# informasiya.docx faylı C: diskində yerləşən Documents qovluğunun Model altqovluğunda yerləşir. Fayla yolu göstərin.
+- С:\Documents\Model\informasiya.docx
++ С:\Documents\Model
+- С:\Model\Documents\informasiya.docx
+- С:\Documents
+- Documents\Model\informasiya.docx
+# informasiya.docx faylı C: diskində yerləşən Documents qovluğunun Model altqovluğunda yerləşir. Faylın tam adını göstərin.
+- Documents\Model\informasiya.docx
++ С:\Documents\Model\informasiya.docx
+- С:\Model\Documents\informasiya.docx
+- informasiya.docx
+- С:\Documents\Model
+# Faylın tam adı verilmişdir: С:\DOC\referat.txt
+Faylın yerləşdiyi qovluğun adını göstərin.
+- txt
++ DOC
+- C:\DOC\referat.txt
+- C:\DOC
+- referat.txt
+# Sətirli məsələlərin həlli üçün səmərəli olan verilənlərin ağacvari strukturu necə adlanır?
+- əlaqəli siyahı
++ prefiks ağacı
+- növbə
+- qraf
+- massiv
+# Verilənlərin qovşaq və tillərdən ibarət iyerarxik strukturu necə adlanır?
+- əlaqəli siyahı
++ ağac
+- növbə
+- qraf
+- stek
+# Öz aralarında ixtiyari qaydada birləşmiş müəyyən sayda obyektdən ibarət olan struktur necə adlanır?
+- əlaqəli siyahı
++ qraf
+- növbə
+- massiv
+- stek
+# Hər birində verilənlər və növbəti qovşaga göstərici yerləşən zəncirvari qovşaqlar şəbəkəsi verilənlərin hansı strukturuna aiddir?
+- stek
++ əlaqəli siyahı
+- növbə
+- ağac
+- massiv
+# Verilənlərin hansı strukturunda FIFO metodundan istifadə olunur?
+- stek
++ növbə
+- qraf
+- ağac
+- massiv
+# Verilənlərin hansı strukturunda LIFO metodundan istifadə olunur?
+- növbə
++ stek
+- qraf
+- ağac
+- massiv
+# Verilənlərin tipinə aid olmayanı göstərin.
+- hesabi
++ model
+- məntiqi
+- göstərici
+- mətn
+# 3 Mbaytlıq informasiyanı aşağıdakıların hansı ilə ifadə etmək olar?
+- 3∙210 bayt
++ 3∙210 Kbayt
+- 3∙213 bayt
+- 6 bayt
+- 3∙210 bit
+# Bir 16-lıq rəqəmə nə qədər yer ayrılır?
+- 16 bit
++ 4 bit
+- 2 bit
+- 4 bayt
+- 1 bayt
+# Kompüterin yaddaşında bir ikilik rəqəmə nə qədər sahə ayrılır?
+- 2 bit
+- 8 bayt
++ 1 bit
+- 8 bit
+- 1 bayt
+# Bir bitlə nəyi təsvir etmək olar?
+- bütün ədədləri
+- 0-dan 255-ədək ədədləri
+- 0-dan 9-adək ədədləri
++ 0 və ya 1 rəqəmini
+- ixtiyari bir simvolu
+# 230 bayt nəyə bərabərdir?
+- 1000 Mbayt
+- 220 Mbayt
+- 231 bit
++ 1 Gb
+- 1024 Kb
+# 32 Gbayt neçə Kbaytdır?
+- 16∙23 
+- 29
+- 3∙210 
+- 226 
++ 225 
+# Əlaqəli siyahıların növləri hansılardır?
+- tam, natamam
+- daxili, xarici
+- birxətli, ikixətli
++ biristiqamətli, ikiistiqamətli
+- giriş, çıxış
+# Bir baytla kodlaşdırıla bilən ən böyük natural ədəd neçədir?
+- 256
+- 1024
+- 2
++ 255
+- 8
+# Unicode-da yığılmış kitabda 1 səhifədə 32 sətir, hər sətirdə 64 simvol var. 80Kb ümumi həcmi olan kitabda neçə səhifə olar?
+- 80
++ 20
+- 10
+- 120
+- 40
+# 32 simvollu əlifbanın 1 simvolu nə qədər yer tutur?
+- 32 bit
++ 5 bit
+- 1 bayt
+- 2 bayt
+- 8 bit
+# ASCII-də yığılmış mətn faylının tutumu 320 Kbaytdır. Fayl hər səhifəsində orta hesabla 32 sətri və hər sətirdə 64 simvol olan kitabdan
+ibarətdir. Faylın neçə səhifəsi var?
+- 640
++ 160
+- 320
+- 540
+- 1280
+# Kitabın hər səhifəsində 16 sətir və hər sətirdə 32 simvol var. 50 səhifəlik kitab Unicode sistemi ilə kodlaşdırılsa, yaddaşda neçə Kb yer
+tutar?
+- 25
++ 50
+- 32
+- 16
+- 10
+# Qatar 32 yoldan birində dayanmışdır. Qatarın hansı yolda dayanması məlumatı neçə bit informasiya daşıyır?
+- 6
++ 5
+- 16
+- 8
+- 32
+# 512*128 pikseldən ibarət təsviri yadda saxlamaq üçün 64 Kbayt əməli yaddaş ayrılmışdır. 1 pikseli rəngləmək üçün neçə rəng
+çalarından istifadə edilib?
+- 16
++ 256
+- 1024
+- 512
+- 8
+# Ekranın 1024*256 rejimində 8 kadr/san. sürətinə malik 16 saniyəlik 64 rəng çalarına malik videofaylın həcmi neçə Meqabayta
+bərabərdir?
+- 16
++ 24
+- 32
+- 64
+- 12
+# Seçim tezliyi və ya diskretləşdirmə tezliyi nədir?
+- Səs siqnalının bir ölçmə kəmiyyətinə düşən bitlərin sayıdır
++ 1 saniyədə səs siqnalının səviyyəsinin ölçülmələrinin sayıdır
+- Mümkün amplitudaların sayı
+- Səsin müəyyən vaxt kəsiyindəki intensivliyi göstəricisidir
+- 1 saniyədə həyata keçirilən 1 ölçmədir
+# Seçim dəqiqliyi və ya səsin kodlaşdırılma dərinliyi nədir?
+- 1 saniyədə səs siqnalının səviyyəsinin ölçülmələrinin sayıdır
++ Səs siqnalının bir ölçmə kəmiyyətinə düşən bitlərin sayıdır
+- Mümkün amplitudaların davamlılığı
+- Səsin müəyyən vaxt kəsiyindəki intensivliyi göstəricisidir
+- 1 saniyədə həyata keçirilən 1 ölçmədir
+# Səsin keyfiyyət xarakteristikalarına hansı aid deyil?
+- səsin kodlaşdırılma dərinliyi
++ səslənmə tezliyi
+- seçim tezliyi
+- diskretləşdirmə tezliyi
+- seçim dəqiqliyi
+# 32 saniyəlik səs faylının həcmi neçə Kbaytdır? (16 bit və ya 44 kHz)
+- 1375
++ 2750
+- 3300
+- 2556
+- 1296
+# RGB rəng modelində göy rəngin kodu hansıdır?
+- #FF0000
++ #0000FF
+- #FF00FF
+- #00FFFF
+- #00FF00
+# RGB rəng modelində yaşıl rəngin kodu hansıdır?
+- #FF0000
++ #00FF00
+- #0000FF
+- #FFFF00
+- #FF00FF
+# RGB rəng modelində qırmızı rəngin kodu hansıdır?
+- #FFFFFF
++ #FF0000
+- #00FFFF
+- #FFFF00
+- #FF00FF
+# RGB rəng modelində qara rəngin kodu hansıdır?
+- #FFFFFF
++ #000000
+- #FF0000
+- #FFFF00
+- #FF00FF
+# RGB rəng modelində ağ rəngin kodu hansıdır?
+- #FF00FF
++ #FFFFFF
+- #FF0000
+- #FFFF00
+- #000000
+# 40*40 nöqtəli ağ-qara rəngli təsvirin informasiya miqdarı nə qədərdir?
+- 1600 bayt
++ 1600 bit
+- 80 bit
+- 4000 bayt
+- 100 bit
+# 256x200 pikseldən ibarət 16 rəngli qrafik təsvir yaddaşda neçə Kbayt yer tutar?
+- 50
++ 25
+- 100
+- 200
+- 30
+# 1 pikseli 7 bitlə kodlaşdırılan təsvirdə neçə rəngdən istifadə olunub?
+- 7
++ 128
+- 256
+- 16
+- 48
+# Təsvirin bir pikselinin rəngini kodlaşdırmaq üçün istifadə olunan bitlərin miqdarı necə adlanır?
+- rəngin tündlüyü
+- uyğunluq dərəcəsi
++ rəngin dərinliyi
+- rəngin uyğunluğu
+- informasiya miqdarı
+# High Color kodlaşdırmada neçə rəng çalarından istifadə olunur?
+- 232
++ 216
+- 28
+- 24
+- 224
+# CMYK modelində əsas rənglər hansılardır?
+- qırmızı, yaşıl, göy, qara
++ abı, al-qırmızı, sarı, qara
+- qırmızı, ağ, göy, sarı
+- qırmızı, yaşıl, sarı, qara
+- mavi, qırmızı, göy, qara
+# RGB modelində əsas rənglər hansılardır?
+- mavi, qırmızı, göy
++ qırmızı, yaşıl, göy
+- qırmızı, ağ, göy
+- yaşıl, sarı, qara
+- qırmızı, sarı, yaşıl
+# Kompüter qrafikasında təsvirdəki rənglərin sayı nədən asılıdır?
+- təsvirin ölçüsündən
++ hər pikselin kodlaşdırılması üçün ayrılan bitlərin sayından
+- əməliyyat sistemindən
+- kompüterin modelindən
+- istifadə olunan qrafik redaktordan
+# Kompüter qrafikasında ağ-qara təsviri kodlaşdırmaq üçün minimum neçə bit lazımdır?
+- 2
++ 1
+- 8
+- 16
+- 4
+# Ekran təsvirinin əsas elementi necə adlanır?
+- düym
++ piksel
+- bayt
+- rəng
+- bit
+# 5Kb-120b fərqi neçə baytdır?
+- 4880
++ 5000
+- 4900
+- 4980
+- 3920
+# 2Mb952Kb+2048b cəmi neçə Kilobaytdır?
+- 3074048
++ 3002
+- 3
+- 5048
+- 3000
+# 18 Mbayt nəyə bərabərdir?
+- 9∙210 Kbayt
++ 9∙211 Kbayt
+- 210 Kbayt
+- 9∙211 bayt
+- 144 bit
+# ASCII kodlaşdırma sistemində 1 simvolun kodlaşdırılması üçün nə qədər yer ayrılır?
+- 2 bayt
++ 1 bayt
+- 1 bit
+- 8 bayt
+- 16 bit
+# Unicode kodlaşdırma sistemində 1 simvolun kodlaşdırılması üçün nə qədər yer ayrılır?
+- 1 bayt
++ 2 bayt
+- 2 bit
+- 16 bayt
+- 8 bit
+# 8 bitlə neçə müxtəlif səs siqnalını kodlaşdırmaq olar?
+- 8
++ 256
+- 32
+- 128
+- 3
+# UNICODE-da bir baytla kodlaşdırıla bilən simvolların maksimal sayı nə qədərdir?
+- 16
+- 255
+- 65535
++ 65536
+- 256
+# ASCII-də bir baytla kodlaşdırıla bilən simvolların maksimal sayı nə qədərdir?
+- 255
++ 256
+- 8
+- 1024
+- 65536
+# İlkin ifadələrin bütün mümkün qiymətlərindən və əməliyyat nəticəsində alınan qiymətlərdən ibarət cədvəl necə adlanır?
+- məntiqi cədvəl
+- qiymətlər cədvəli
+- adekvatlıq cədvəli
+- uyğunluq cədvəli
++ həqiqilik cədvəli
+# Verilmiş cümlələrdən hansı mülahizə (məntiqi ifadə) deyil?
+- RAM müvəqqəti yaddaşdır.
+- Bakı Azərbaycanın paytaxtıdır.
+- 62 cüt ədəddir.
+- Monitor çıxış qurğusudur.
++ Mətni köçürün.
+# Triggerin giriş siqnallarının sayı ilə xarakterizə olunur. Bu, triqqerin hansı xüsusiyyətini bildirir?
+- həssaslıq
+- adekvatlıq
++ funksional imkanları
+- maneəyə dayanıqlılıq
+- sürətlilik
+# Girişdə ən az gərginlik olduqda belə, qoşulmanın baş verməsilə müəyyən olunur. Bu, triggerin hansı xüsusiyyətini bildirir?
+- adekvatlıq
+- funksional imkanları
+- sürətlilik
+- maneəyə dayanıqlılıq
++ həssaslıq
+# Triggerin vəziyyətinin qoşulmasının maksimal tezliyi ilə müəyyən olunur. Bu, triggerin hansı xüsusiyyətini bildirir?
+- funksional imkanları
+- həssaslıq
++ sürətlilik
+- adekvatlıq
+- maneəyə dayanıqlılıq
+# Xəta şəraitində triggerin normal işləmə qabliyyəti onun hansı xüsusiyyətini bildirir?
+- həssaslıq
+- adekvatlıq
+- sürətlilik
++ maneəyə dayanıqlılıq
+- funksional imkanları
+# Hansı xüsusiyyət triggeri xarakterizə etmir?
+- sürətliliyi
+- funksional imkanları
+- maneəyə dayanıqlılığı
++ adekvatlığı
+- həssaslığı
+# 2-lik rəqəmi 10-luq rəqəmə çevirmək üçün hansı qurğu nəzərdə tutulmuşdur?
+- yarimcəmləyici
+- registr
+- cəmləyici
+- trigger
++ deşifrator
+# 10-luq rəqəmi 2-lik say sisteminə keçirən qurğu necə adlanır?
+- yarimcəmləyici
+- registr
+- cəmləyici
+- trigger
++ şifrator
+# Ədədin kod mərtəbələri üzərində hesabi əməliyyatların yerinə yetirilməsi üçün istifadə olunan kombinasiyalı sxem necə adlanır?
++ cəmləyici
+- yarimcəmləyici
+- trigger
+- registr
+- şifrator
+# Dayanıqlıq vəziyyətlərindən birində ola bilən və giriş siqnalının təsiri ilə bir vəziyyətdən digərinə keçə bilən qurğu necə adlanır?
+- registr
+- şifrator
++ trigger
+- yarimcəmləyici
+- cəmləyici
+# Aşağıdakılardan hansı konyunksiya əməlini bildirir?
+- A-B
+- A˅B
+- A NOT B
+- A OR B
++ A˄B
+# Aşağıdakılardan hansı dizyunksiya əməlini bildirir?
+- A˄B
+- A-B
+- A AND B
++ A˅B
+- A&B
+# Məntiqi inkar hansı bağlayıcı sözlə yerinə yetirilir?
+- ya
+- və
+- və ya
++ deyil
+- onda
+# Məntiqi vurma hansı bağlayıcı sözlə yerinə yetirilir?
+- deyil
+- onda
+- və ya
+- ya
++ və
+# Konyuksiya nədir?
+- məntiqi bərabərlik
+- məntiqi çıxma
+- məntiqi inkar
+- məntiqi toplama
++ məntiqi vurma
+# İnversiya nədir?
+- məntiqi çıxma
+- məntiqi vurma
+- məntiqi toplama
++ məntiqi inkar
+- məntiqi bərabərlik
+# Məntiqi əməl deyil:
+- ˄
+- ˅
+- AND
+- OR
++ =
+# Məntiqi toplama hansı bağlayıcı sözlə yerinə yetirilir?
+- və
++ və ya
+- deyil
+- onda
+- ya
+# Con fon Neyman arxitekturasının əsas prinsiplərinə aid deyil:
+- Yaddaşın bircinsliyi prinsipi
+- İkilik kodlaşdırma prinsipi
++ Uyğunluq prinsipi
+- Ünvanlıq prinsipi
+- Proqramla idarəetmə prinsipi
+# Fərdi kompüterin tərkib hissələrinə hansılar daxildir?
+- periferiya qurğuları
+- daxili və xarici yaddaş qurğuları
+- mərkəzi və periferiya hissəsi
++ sistem bloku, monitor, klaviatura
+- ana plata, prosessor, monitor, klaviatura
+# Kompüterin iş etibarlığına aid olmayan göstərici hansıdır?
+- müəyyən vaxt müddəti ərzində kompüterin dayanmadan işləməsi ehtimalı
++ vahid zaman ərzində kompüterdə həll olunan məsələlərin orta sayı
+- müəyyən şərtlər daxilində kompüterin dayanmadan işləməsi ehtimalı
+- nasazlıqların aradan qaldırılması
+- nasazlıqların aşkarlanması
+# Con fon Neyman arxitekturasının əsas prinsiplərinə aid deyil:
+- Verilənlərin təyin edilməsi proqram səviyyəsində aparılır
+- Kompüter proqramla idarə edilən avtomatdır
+- Kompüter ardıcıl ünvanlanan vahid yaddaşa malik olmalıdır
++ Verilənlərin təyin edilməsi aparat səviyyəsində aparılır
+- Əmrlərlə verilənlər arasında aşkar şəkildə heç bir fərq yoxdur
+# Müasir kompüterlər hansı arxitektura ilə qurulur?
+- Blez Paskal
+- Vilhelm Leybnis
++ Con fon Neyman
+- Alan Turinq
+- Çarlz Bebbic
+#
+Kompüter arxitekturasının proqram vasitələrinə hansılar aiddir?
+1. Əməliyyat sistemi
+2. Yaddaşın təşkili
+3. İdarəetmə prinsipləri
+4. İşləmə sürəti
+5. Proqramlaşdırma dilləri
+6. Tətbiqi proqram təminatı
+- 3, 5, 6
+- 1, 4, 6
+- 2, 3, 5
++ 1, 5, 6
+- 1, 2, 4
+#
+Kompüter arxitekturasının hesablama və məntiqi imkanlarına hansılar aiddir?
+1. Əmrlər sistemi
+2. Yaddaşın təşkili
+3. İdarəetmə prinsipləri
+4. İşləmə sürəti
+5. Proqramlaşdırma dilləri
+6. Kompüterin məntiqi strukturu
++ 1, 4
+- 2, 6
+- 1, 3, 5
+- 2, 3, 6
+- 1, 4, 5
+# ... kompüterin tərkib hissələrinin hansı qaydalarla əlaqələndirilməsini təyin edir.
++ Kompüterin arxitekturası
+- Kompüterin strukturu
+- Kompüterin iş etibarlılığı
+- Kompüterin quruluşu
+- Kompüterin məhsuldarlığı
+# … müəyyən səviyyədə kompüterin konkret tərkibini və onlar arasındakı əlaqələri təyin edir.
+- Kompüterin arxitekturası
+- Kompüterin iş etibarlılığı
++ Kompüterin strukturu
+- Kompüterin məhsuldarlığı
+- Kompüterin quruluşu
+# Kompüterin arxitekturası nəyi təyin edir?
+- kompüterin müəyyən səviyyədə tərkibini
+- kompüterin müəyyən səviyyədə tərkibini (qurğular, bloklar, qovşaqlar və s.) və onlar arasındakı əlaqələri
+- kompüterin qurğuları arasındakı əlaqələri
+- kompüterin tərkib hissələrinin təsvirini
++ kompüterin tərkib hissələrinin hansı qaydalarla əlaqələndirilməsini
+#
+Kompüterin əsas xarakteristikaları hansılardır?
+1. işləmə sürəti
+2. yaddaş tutumu
+3. əmrlər sistemi
+4. proqramların sayı
+5. əməliyyat sistemi
+6. qiyməti
+- 2, 3, 5
+- 3, 4, 5
++ 1, 2, 3, 6
+- 1, 2, 5, 6
+- 1, 2, 4, 6
+#
+Kompüter arxitekturasının aparat vasitələrinə hansılar aiddir?
+1. Əmrlər sistemi
+2. Yaddaşın təşkili
+3. İdarəetmə prinsipləri
+4. İşləmə sürəti
+5. Proqramlaşdırma dilləri
+6. Kompüterin məntiqi strukturu
+- 1, 3, 5
+- 2, 4, 6
+- 1, 2, 4
++ 2, 3, 6
+- 1, 4, 5
+# Pprosessorun yerinə yetirə bildiyi əmrlər toplusu kompüterin hansı xarakteristikasını təyin edir?
+- işləmə sürətini
+- yaddaş tutumunu
+- hesablama dəqiqliyini
++ əmrlər sistemini
+- iş etibarlılığını
+# Kompüterin əmrlər sistemi dedikdə nə başa düşülür?
+- vahid zamanda kompüterdə emal olunan məsələlərin orta sayı
+- kompüterin prosessorunun vahid zamanda yerinə yetirə bildiyi sadə əməliyyatların sayı
+- ədədlərin təsviri üçün istifadə olunan mərtəbələrin sayı
+- kompüterin yaddaşında saxlanıla biləcək informasiyanın maksimum miqdarı
++ prosessorun yerinə yetirə bildiyi əmrlər toplusu
+# Ədədlərin təsviri üçün istifadə olunan mərtəbələrin sayı kompüterin hansı xarakteristikasını təyin edir?
+- yaddaş tutumunu
+- işləmə sürətini
+- iş etibarlılığını
++ hesablama dəqiqliyini
+- əmrlər sistemini
+# Kompüterin hesablama dəqiqliyi dedikdə nə başa düşülür?
+- kompüterin yaddaşında saxlanıla biləcək informasiyanın maksimum miqdarı
+- prosessorun yerinə yetirə bildiyi əmrlər toplusu
+- kompüterin prosessorunun vahid zamanda yerinə yetirə bildiyi sadə əməliyyatların sayı
++ ədədlərin təsviri üçün istifadə olunan mərtəbələrin sayı
+- vahid zamanda kompüterdə emal olunan məsələlərin orta sayı
+# Kompüterin yaddaşında saxlanıla biləcək informasiyanın maksimum miqdarı kompüterin hansı xarakteristikasını təyin edir?
+- hesablama dəqiqliyini
+- əmrlər sistemini
+- işləmə sürətini
++ yaddaş tutumunu
+- iş etibarlılığını
+# Kompüterin yaddaş tutumu dedikdə nə başa düşülür?
+- vahid zamanda kompüterdə emal olunan məsələlərin orta sayı
+- kompüterin prosessorunun vahid zamanda yerinə yetirə bildiyi sadə əməliyyatların sayı
+- prosessorun yerinə yetirə bildiyi əmrlər toplusu
+- ədədlərin təsviri üçün istifadə olunan mərtəbələrin sayı
++ kompüterin yaddaşında saxlanıla biləcək informasiyanın maksimum miqdarı
+# Prosessorun bir saniyədə yerinə yetirdiyi sadə əməliyyatların sayı kompüterin hansı xarakteristikasını təyin edir?
+- iş etibarlılığını
+- yaddaş tutumunu
+- hesablama dəqiqliyini
+- əmrlər sistemini
++ işləmə sürətini
+# Kompüterin işləmə sürəti dedikdə nə başa düşülür?
+- ədədlərin təsviri üçün istifadə olunan mərtəbələrinin sayı
+- prosessorun yerinə yetirə bildiyi əmrlər toplusu
+- kompüterin yaddaşında saxlanıla biləcək informasiyanın maksimum miqdarı
+- vahid zamanda kompüterdə həll olunan məsələlərin orta sayı
++ prosessorun bir saniyədə yerinə yetirdiyi sadə əməliyyatların sayı
+# Vahid zaman ərzində kompüterdə həll olunan məsələlərin orta sayı kompüterin hansı xarakteristikasını təyin edir?
+- işləmə sürətini
+- iş etibarlılığını
+- əmrlər sistemini
++ məhsuldarlığı
+- hesablama dəqiqliyini
+# Kompüterin məhsuldarlığı dedikdə nə başa düşülür?
++ vahid zaman ərzində kompüterdə həll olunan məsələlərin orta sayı
+- prosessorun yerinə yetirə bildiyi əmrlər toplusu
+- prosessorun bir saniyədə yerinə yetirdiyi sadə əməliyyatların sayı
+- kompüterin yaddaşında saxlanıla biləcək informasiyanın maksimum miqdarı
+- ədədlərin təsviri üçün istifadə olunan mərtəbələrinin sayı
+# Müəyyən şərtlər daxilində və müəyyən vaxt müddəti ərzində kompüterin öz xassələrini saxlama qabiliyyəti kompüterin hansı
+xarakteristikasını təyin edir?
+- məhsuldarlığı
+- əmrlər sistemini
+- hesablama dəqiqliyini
++ iş etibarlılığını
+- işləmə sürətini
+# Kompüterin iş etibarlılığı deyəndə nə başa düşülür?
+- Ədədlərin təsviri üçün istifadə olunan mərtəbələrin sayı
+- Kompüterin qiyməti
+- Prosessorun yerinə yetirə bildiyi əmrlər toplusu
++ Müəyyən şərtlər daxilində və müəyyən vaxt müddəti ərzində kompüterin öz xassələrini saxlama qabiliyyəti
+- Kompüterin yaddaşında saxlanıla bilən informasiyanın maksimum miqdarı
+#
+Kompüter arxitekturasının əsas tərkib hissələri hansılardır?
+1. Hesablama və məntiq imkanları
+2. Əməliyyat sistemi
+3. Aparat vasitələri
+4. Proqram vasitələri
+5. Əməli yaddaş
+- 2, 3
+- 3, 5
+- 1, 4, 5
++ 1, 3, 4
+- 2, 5
+# Üzərində platalar, prosessor və əməli yaddaş yerləşən kompüter elementi hansıdır?
++ Ana plata
+- Videadapter
+- Daxili yaddaş
+- Əlaqə portu
+- Səs kartı
+# Mərtəbəlilik, takt tezliyi, keş yaddaş və yerinə yetirilən əmrlər sistemi aşağıdakılardan hansına aid edilir?
+- Drayver
+- Kontroller
+- Monitor
++ Prosessor
+- Əməli yaddaş
+# VLIW (Very Long Instruction Word) arxitekturası nədir?
+- Əmrli interfeysdir
+- Prosessorun məhdudlaşdırılmış əmrlər
+- Prosessorun genişləndirilmiş əmrlər toplusudur
+- Prosessorun ixtisaslaşdırılmış əmrlər toplusudur
++ Prosessorun bir təlimatı özündə paralel yerinə yetirilməli bir neçə əmr saxlayır
+# MISC (Minimal Instruction Set Computer) arxitekturası nədir?
+- Əmrli interfeysdir
+- Prosessorun bir təlimatı özündə paralel yerinə yetirilməli bir neçə əmr saxlayır
++ Prosessorun məhdudlaşdırılmış əmrlər toplusudur
+- Prosessorun genişləndirilmiş əmrlər toplusudur
+- Prosessorun ixtisaslaşdırılmış əmrlər toplusudur
+# RISC (Reduced Instruction Set Computer) arxitekturası nədir?
+- Qrafik interfeysdir
++ Prosessorun ixtisaslaşdırılmış əmrlər toplusudur
+- Prosessorun genişləndirilmiş əmrlər toplusudur
+- Əmrli interfeysdir
+- Multimediya sistemidir
+# CISC (Complex Instruction Set Computer) arxitekturası nədir?
+- Əmrli interfeysdir
+- Multimediya sistemidir
++ Prosessorun genişləndirilmiş əmrlər toplusudur
+- Qrafik interfeysdir
+- Prosessorun ixtisarlanmış əmrlər toplusudur
+# İnformasiya kompüterin hansı qurğusunda emal olunur?
+- Video-yaddaşda
+- Keş-yaddaşda
+- Əməli yddaşda
+- Xarici yaddaşda
++ Registr yaddaşında
+# Prosessorun mərtəbəliliyi nəyi bildirir?
+- Emal olunan verilənlərin miqdarını
+- Əməli yaddaşın ünvanlarının sayını
+- Prosessorun sürətini
++ Prosessorun eyni zamanda müraciət edib, emal üçün götürdüyü informasiya bitlərinin sayını
+- Prosessorun yerinə yetirə bildiyi əmrlər toplusunu
+#
+Mikroprosessorun əsas parametrləri hansıdır?
+1. Yaddaş tutumu
+2. Əmrlər toplusu
+3. Ölçüsü
+4. Mərtəbəlilik
+5. Takt tezliyi
+- 1, 2, 3
+- 1, 4, 5
+- 1, 3
++ 2, 4, 5
+- 3, 4
+# Prosessorun xüsusi mikrosxemlərinin – takt tezliyi generatorunun verdiyi iki ardıcıl impuls arasındakı zaman intervalı necə adlanır?
+- Saniyə
+- İmpuls
+- Access time
++ Takt
+- Bod
+# “CPU-nun daxilində yerləşən yaddaşdır. Hesablama və əməliyyatlarda istifadə edilən ikilik (“1” və “0”) kodlardan təşkil olunmuş
+məlumatlar emal olunduğu zaman burada saxlanılır.” Söhbət hansı yaddaş növündən gedir?
+- Əməli yaddaş
+- Video yaddaş
+- Keş yaddaş
++ Registr yaddaş
+- Daimi yaddaş
+#
+Kompüterin periferiya hissəsi hansı qurğulardan ibarətdir?
+1. Daxiletmə-xaricetmə qurğusu
+2. Daxili yaddaş qurğusu
+3. Xarici yaddaş qurğusu
+4. Sistem interfeysi
+5. İdarəetmə pultu
+6. Mikroprosessor
+- 3, 4
+- 1, 3, 4, 5
+- 2, 6
++ 1, 3, 5
+- 2, 5, 6
+# Prosessorun takt tezliyi nəyi bildirir?
+- Bir dəqiqədə çap olunan səhifələrin sayını
+- Əməli yaddaşla mikroprosessor arasında informasiyanın ötürülmə sürəti
+- Bir saniyədə informasiyanın ötürülmə sürətini
++ Bir saniyədə yerinə yetirilən əməliyyatların sayını
+- Əməli yaddaşda saxlanılan informasiyanın maksimal həcmini
+# Con fon Neyman arxitekturasına görə kompüter hansı hissələrdən ibarətdir?
+- Əsas və əlavə
+- Sistem blok və əlavə
+- Sistem və periferiya
+- Prosessor və monitor
++ Mərkəzi və periferiya
+# Prosessor hansı parametrlə xarakterizə olunur?
+- Fırlanma sürəti
++ Takt tezliyi
+- Kulerin tipi və hazırlanma texnologiyası
+- Prosessorun tutumu
+- Fiziki ölçüləri
+# Con fon Neyman arxitekturalı kompüterlərin mərkəzi və periferiya hissələrinə aid olmayan hansıdır?
+- Yaddaş qurğuları
+- Giriş-çıxış qurğuları
++ System interfeysi
+- İdarəetmə qurğusu
+- Hesab-məntiq qurğusu
+#
+Aşağıdakı mühakimələrdən hansı (lar) doğrudur?
+1. Sərt diskin tutumu kompüterin məhsuldarlığını təyin edir.
+2. Monitorun təsvirlərinin keyfiyyətini xarakterizə edən parametrlər onun ölçüləri, çəkisi, korpusunun materialıdır.
+3. Prosessor hesab-məntiq və idarəetmə qurğularından ibarətdir.
+- 1, 2
+- 3
+- 2
++ 1
+- 1, 2, 3
+# Prosessor hansı funksiyanı yerinə yetirən qurğudur?
+- Kompüter qurğularının qarşılıqlı əlaqəsini təmin edən
+- İnformasiyanı kompüterin yaddaşında saxlayan
+- Kompüterin yaddaşında olan informasiyanı çap edən
++ Hesab və məntiq əməliyyatlarını yerinə yetirən və kompüterin ümumi işini idarə edən
+- Kağız üzərində olan informasiyanı kompüterin yaddaşına köçürən
+# Müasir kompüterlərdə hesab-məntiq qurğusu və idarəetmə qurğusu hansı qurğuda yerləşir?
+- ana platada
+- əməli yaddaş qurğusunda
+- daimi yaddaş qurğusunda
++ mərkəzi prosessorda
+- xarici yaddaş qurğusunda
+# Hesab-məntiq qurğusu hansı ədədlər üzərində hesab əməliyyatları yerinə yetirir?
+- yalnız səkkizlik ədədlər
+- yalnız on altılıq ədədlər
+- yalnız onluq tam ədədlər
+- yalnız sürüşgən nöqtəli onluq ədədlər
++ yalnız ikilik ədədər
+# Kuler (Cooler) qurğusu nə üçündür?
+- Verilənləri daxil etmək
+- Qurğuları əlaqələndirmək
+- Verilənləri xaric etmək
++ Prosessor və digər çox qızan qurğuları soyutmaq
+- Xarici qurğuları idarə etmək
+# Kompüterlərdə hansı hissə hesablama prosesinin gedişi zamanı proqramçı və ya operator tərəfindən sistem əməliyyalarını yerinə
+yetirmək üçündür?
+- Prosessor
+- Strimer
+- Sistem interfeysi
+- Hesab-məntiq qurğusu
++ İdarəetmə pultu
+# Enerjidən asılı olmayan yaddaşdır:
+- registr
+- video
++ daimi
+- əməli
+- keş
+# Enerjidən asılı yaddaşdır:
+- CMOS
++ keş
+- daimi
+- xarici
+- flash
+# Əməli yaddaş:
+- enerjidən asılı deyil
++ enerjidən asılıdır
+- xarici yaddaşa aiddir
+- aşağı sürətlidir
+- informasiyanı uzun müddət saxlayır
+# Yaddaşın həcmi nədir?
+- Kompüterin yaddasaxlama qurğularında verilənlərin saxlanmasını təminetmə qabiliyyətidir
++ Yaddaşa yerləşə biləcək informasiyanın maksimal miqdarıdır
+- Bir informasiya vahidinin miqdarıdır
+- İnformasiyanın miqdarıdır
+- İnformasiya daşıyıcısının vahid səthinə yazılan informasiyanın miqdarıdır
+# Həcm, müraciət vaxtı, informasiyanın yazılış sıxlığı nəyin əsas xarakteristikalarıdır?
+- prosessorun
++ yaddaşın
+- giriş qurğularının
+- çıxış qurğularının
+- ana platanın
+# Yaddaş nədir?
+- İnformasiyanın maksimal miqdarıdır
++ Kompüterin yaddasaxlama qurğularında verilənlərin saxlanmasını təminetmə qabiliyyətidir
+- İnformasiya daşıyıcısının vahid səthinə yazılan informasiyanın miqdarıdır
+- Mikrosxemlər yığımıdır
+- İnformasiya vahidinin yaddaşda yerləşdirilməsi üçün minimal kafi vaxtdır
+# Kompüter söndürüldükdə hansı yaddaşda olan informasiya silinir?
+- daimi
++ əməli
+- CMOS
+- flash
+- xarici
+#
+Aşağıdakılardan hansılar daxili və ya əsas yaddaşın növlərinə aiddir?
+1. daimi yaddaş
+2. əlavə yaddaş
+3. keş yaddaş
+4. xarici yaddaş
+5. əməli yaddaş
+- 2, 4
++ 1, 3, 5
+- 2, 3
+- 1, 2, 5
+- 1, 4, 5
+# İnformasiya ... vasitəsilə qrafik şəkildə kompüterə daxil olur, ... yaddaşda emal olunur və uzun müddət ... yaddaşda saxlanılır.
+- ana plata, xarici, əməli
++ skaner, registr, xarici
+- prosessor, video, daxili
+- digitayzer, registr, daimi
+- printer, RAM, xarici
+# Kompüterin yaddaşı hansı struktura malikdir?
+- xətti
++ iyerarxik
+- şərti
+- relyasiya
+- dövri
+# Daxili yaddaş qurğularına hansı qurğular aiddir?
+- RAM, ROM, HDD, CMOS
++ Fləş yaddaş, keş yaddaş, RAM, ROM
+- ROM, RAM, CD, keş yaddaş
+- Fləş yaddaş, HDD, CMOS, video-yaddaş
+- HDD, keş yaddaş, CMOS, video-yaddaş
+# Hansı yaddaş qurğuları daxili yaddaşa aiddir?
+- daimi, çevik disk
++ əməli, keş
+- çevik disk, sərt disk
+- keş yaddaş, fləş disk
+- sərt disk, əməli
+# Funksional baximdan yaddaş hansı hissələrə bölünür?
+- əsas, daimi
++ daxili, xarici
+- giriş, çıxış
+- əsas, əlavə
+- əməli, daimi
+# Hər hansı proqramda sənəd üzərində işləyən zaman həmin proqram ... yaddaşda olur, sənədi yaddaşa yazıb proqramı bağladıqda isə
+sənəd ... yaddaşa göndərilir.
+- Xarici/Əməli
++ Əməli/Xarici
+- Keş/Daimi
+- Əməli/Keş
+- Daimi/Əməli
+# Əməli yaddaşın təyinatı nədir?
+- Sistemin işinin sürətini artırır
++ İcra zamanı proqram və verilənləri müvəqqəti saxlayır
+- İnformasiyanı uzun müddət saxlayır
+- Kompüter işə salınan zaman onun qurğularının işini yoxlayır
+- İnformasiyanı kompüterə daxil edir
+# Proqram icra olunarkən harada saxlanılır?
+- Keş yaddaşda
+- Registr yaddaşında
+- Xarici yaddaşda
+- Daimi yaddaşda
++ Əməli yaddaşda
+# Daxili yaddaş başqa necə adlandırılır?
+- keş yaddaş
++ əsas yaddaş
+- əməli yaddaş
+- daimi yaddaş
+- xarici yaddaş
+# ROM nədir?
+- əməli yaddaş
++ daimi yaddaş
+- virtual yaddaş
+- xarici yaddaş
+- keş yaddaş
+# Əməli yaddaş nə üçün nəzərdə tutulmuşdur?
+- İnformasiyanın emalı
++ İnformasiyanın müvəqqəti saxlanması
+- Hesab-məntiq əməliyyatlarının yerinə yetirilməsi
+- Kompüterin işləmə sürətinin artırılması
+- İnformasiyanın uzun müddət saxlanması
+# Hansı əməli yaddaşdır?
+- ROM
++ RAM
+- VGA
+- CGA
+- HDD
+# Aşağıdakılardan hansı xarici yaddaş qurğularıdır?
+- Daimi yaddaş, registr yaddaşı və keş yaddaş
+- Daxili yaddaş və keş yaddaş
+- Registr yaddaş və əməli yaddaş
+- Keş yaddaş və əməli yaddaş
++ Sərt disk, strimer, fləş kart
+# Bu yaddaşlardan hansının həcmi daha böyükdür?
+- Registr
+- Daimi
+- Əməli
+- Keş
++ HDD
+# CMOS-un əsas funksiyası nədən ibarətdir?
+- Fərdi kompüterdə gərginliyi tənzimləyir
+- Sistem fayllarının gizlədilməsini təmin edir
+- Əməli yaddaşa müraciəti sürətləndirir
+- Əmrlərin mikroprosessora ötürülməsini təmin edir
++ Kompüterin konfiqurasiyası, zaman, tarix və s. informasiyanıi yadda saxlayır
+# I səviyyəli keş-yaddaş harada yerləşir?
+- Xarici yaddaşda
+- Daimi yaddaşda
+- Mikroprosessorla əməli yaddaşın arasında ana platada
++ Mikroprosessorda
+- Əməli yaddaşda
+# II səviyyəli keş-yaddaş harada yerləşir?
+- Daimi yaddaşda
+- Xarici yaddaşda
+- Mikroprosessorda
++ Mikroprosessorla əməli yaddaşın arasında ana platada
+- Əməli yaddaşda
+# Bunlardan hansı daha sürətli yaddaşdır?
+- Əməli
+- Xarici
+- Keş
++ Registr
+- Daimi
+# Aşağıdakı qurğulardan hansı ən sürətli informasiya mübadiləsinə imkan verir?
+- Flash kart
+- HDD
+- CD-ROM
++ RAM
+- FDD
+# Kompüterin konfiqurasiyası haqda məlumatlar harda saxlanılır?
+- RAM
+- VGA
+- SDD
++ CMOS
+- HDD
+# Aşağıdakı yaddaş qurğularından hansına yazılan informasiya sonradan silinə bilmir?
+- fləş- kart
+- CD-RW
+- DVD-RW
+- sərt disk
++ CD-R
+# Aşağıdakılardan hansı əməli yaddaşla prosessor arasında bufer rolunu oynayan və prosessorun əməli yaddaşa müraciətini sürətləndirən
+yaddaşdır?
+- Flash-yaddaş
+- Registr
++ Keş-yaddaş
+- ROM
+- RAM
+#
+Aşağıdakı fikirlərdən hansı doğrudur?
+1. Keş yaddaş əməli yaddaşla daimi yaddaş arasında bufer rolunu oynayır.
+2. Ana platada RAM, ROM və hesab-məntiq qurğusu yerləşir.
+3. Ana plata üzərindəki yuvalar slot adlanır.
+4. Floppi disk (FDD) optik disklər üzərində yığılmış xarici yaddaş qurğusudur.
+5. Şırnaqlı printer mürəkkəbi iynə ilə kağız üzərinə döyəcləməklə çap edir.
+- 1, 2, 3
+- 2, 3, 4
+- 1, 3, 5
++ 2, 3
+- 1, 3, 4
+# BIOS nədir?
+- Çap qurğusu
+- Hesab-məntiq qurğusu
+- Əməli yaddaş qurğusu
++ Giriş-çıxışın baza sistemi
+- Universal birləşdirici qurğu
+# Fərdi kompüterin daimi yaddaşında kompüter avadanlıqlarının işini yoxlayan, əməliyyat sisteminin yüklənməsini təmin edən
+proqramlar toplusu necə adlanır?
+- WINDOWS
+- LINUX
+- MS OFFICE
+- CMOS
++ BIOS
+# Kompüter qurğularının düzgün işləməsini yoxlayan proqramlar hansı yaddaşda yerləşir?
+- RAM
+- Videoyaddaş
+- Keş
++ ROM
+- Registr
+# Keş-yaddaş nədir?
+- Kompüter avadanlıqlarının işini yoxlayan proqramlar toplusunun yerləşdiyi yaddaş
+- İnformasiyanı uzun müddətli yadda saxlamaq üçün istifadə edilən yaddaş
+- İnformasiyanın emal edildiyi yaddaş
++ Əməli yaddaşa müraciəti sürətləndirmək üçün istifadə edilən yaddaş
+- Əməliyyat sisteminin yüklənməsini təmin edən yaddaş
+# Aşağıdakılardan hansı BIOS-a aid deyil?
+- Əməliyyat sisteminin ilkin yüklənməsini təmin edir
+- Daimi yaddaş qurğusunda yerləşir
+- Giriş-çıxışın baza sistemidir
++ Tətbiqi proqramları işə salır
+- Kompüter işə salınan zaman onun qurğularının testləşdirilməsi
+# Hansı sıra ümumi təyinatına görə informasiyanın növlərini əks etdirir?
+- vizual, audial, taktil, duyğu, maşın
+- məntiqi, ədəd, mətn, audio, qrafık, video, multimedia
+- elеmеntar, bioloji, sosial
+- mətn, ədəd, qrafik, səs, kombinasiyalı
++ kütləvi, xüsusi, şəxsi
+# Hansı sıra qavrama və ötürmə üsuluna görə informasiyanın növlərini əks etdirir?
+- məntiqi, ədəd, mətn, audio, qrafık, video, multimedia
+- elеmеntar, bioloji, sosial
+- mətn, ədəd, qrafik, səs, kombinasiyalı
++ vizual, audial, taktil, duyğu, maşın
+- kütləvi, xüsusi, şəxsi
+# Hansı sıra yaranma sahəsinə görə informasiyanın növlərini əks etdirir?
+- məntiqi, ədəd, mətn, audio, qrafık, video, multimedia
+- mətn, ədəd, qrafik, səs, kombinasiyalı
+- vizual, audial, taktil, duyğu, maşın
++ elеmеntar, bioloji, sosial
+- kütləvi, xüsusi, şəxsi
+# Hansı sıra informatik baxımdan informasiyanın növlərininin tam siyahısını əks etdirir?
+- mətn, ədəd, qrafik, səs, kombinasiyalı
+- elеmеntar, bioloji, sosial
+- kütləvi, xüsusi, şəxsi
++ məntiqi, ədəd, mətn, audio, qrafık, video, multimedia
+- vizual, audial, taktil, duyğu, maşın
+# Hansı sıra təqdim olunma üsullarına görə informasiyanın növlərini əks etdirir?
+- kütləvi, xüsusi, şəxsi
+- elеmеntar, bioloji, sosial
+- məntiqi, ədəd, mətn, audio, qrafık, video, multimedia
++ mətn, ədəd, qrafik, səs, kombinasiyalı
+- vizual, audial, taktil, duyğu, maşın
+# Kompüter sisteminin işini bütövlükdə dəstəkləyən müxtəlif qurğular kompleksi necə adlanır?
+- giriş-çıxış qurğuları
+- prosessor
+- daxili yaddaş qurğuları
++ ana plata
+- xarici yaddaş qurğuları
+# Prosessorla yaddaş arasında və ya giriş-çıxış qurğularının kontrollerləri arasında verilənlərin və idarə siqnallarının ötürülməsini təmin
+edən naqillər yığımı necə adlanır?
++ sistem şini
+- kontroller
+- çipset
+- adapter
+- port
+# Kompüterin hansı qurğusu ana plata üzərində yerləşmir?
+- video adapter
+- daimi yaddaş
+- əməli yaddaş
++ strimer
+- CMOS
+# Kompüterin qurğuları, proqramları və istifadəçi arasında qarşılıqlı əlaqəni təmin edən vasitə və qaydalar toplusu necə adlanır?
+- Proqram
+- Kontroller
+- Drayver
++ İnterfeys
+- Alqoritm
+#
+Sistem şinlərinin hansı növləri var?
+1. göstərici
+2. verilənlər
+3. məntiqi
+4. ünvan
+5. idarə
+6. sahə
+- 2, 3, 5
+- 1, 2, 3
++ 2, 4, 5
+- 2, 4, 6
+- 1, 3, 5
+#
+Ana plata üzərində yerləşənləri seçin:
+1. prosessor
+2. sərt disk
+3. əməli yaddaş
+4. daimi yaddaş
+5. qida bloku
+- 1, 3, 5
+- 1, 2, 3
+- 2, 3, 5
+- 2, 4, 5
++ 1, 3, 4
+# Kompüterin müxtəlif komponentlərini (verilənlər şini, ünvanlar şini, idarəetmə) birləşdirən rabitə kanalları kompleksi nə adlanır?
+- Kontroller
+- Portlar
+- Drayver
++ Sistem şini
+- Şifrator
+# Siqnalların bir tezlikdən digərinə çevrilməsini təmin edən qurğu hansıdır?
+- sayğac
+- kontroller
+- prosessor
+- səs kartı
++ adapter
+# Ana platada nə yerləşir?
++ Prosessor, əməli yaddaş, daimi yaddaş
+- Daimi yaddaş, HDD, CD
+- FDD, HDD
+- Əməli yaddaş, xarici yaddaş, keş-yaddaş
+- Plotter, strimer, modem
+# Kompüterin mərkəzi və periferiya hissələrini əlaqələndirən vasitə necə adlanır?
+- Registr
+- Keş yaddaş
+- Daxili yaddaş
++ Sistem interfeysi
+- Kontroller
+# Sistem interfeysi hansı funksiyanı yerinə yetirir?
+- İnformasiyanı kompüterə daxil edir və kompüterdən xaric edir
+- Daxili yaddaş qurğusunda saxlanılan proqramla hesab və məntiq əməliyyatları yerinə yetirir
+- İnformasiyanı emal edir
+- İnformasiyanı uzun müddət yadda saxlayır
++ Kompüter qurğularının qarşılıqlı əlaqəsini və onlar arasında informasiya mübadiləsini təmin edir
+# Portlar hansı məqsədlə istifadə olunur?
+- Daxili və xarici yaddaş qurğularının şəbəkəyə qoşulmasının təmin edilməsi üçün
++ Periferiya qurğularının qoşulmasının təmin edilməsi üçün
+- Daxili yaddaş qurğularının şəbəkəyə qoşulmasının təmin edilməsi üçün
+- Əlavə qurğuların (slotların) qoşulmasının təmin edilməsi üçün
+- Xarici yaddaş qurğularının sistem blokuna qoşulmasının təmin edilməsi üçün
+# Ayrı-ayrı qurğuları bir-birilə əlaqələndirən informasiya mağistralı necə adlanır?
+- kontroller
+- slot
++ şin
+- çipset
+- port
+#
+Slotları seçin:
+1. Fire-Wire
+2. AGP
+3. SATA
+4. PS/2
+5. IEEE 1394
+- 3, 4
++ 2, 3
+- 2, 5
+- 3, 5
+- 1, 4
+# AGP slotuna nə qoşulur?
+- səs kartı
++ videokart
+- modem
+- tv-tüner
+- şəbəkə adapteri
+#
+Sistem şinləri hansılardır?
+1. ISA
+2. PCI
+3. USB
+4. PS/2
+5. EISA
+6. LPT
+- 3, 4, 6
++ 1, 2, 5
+- 1, 3, 4
+- 1, 2, 3
+- 2, 5, 6
+# VGA adapteri hansı qurğunu qoşmaq üçün istifadə olunur?
+- Veb-kamera
++ Monitor
+- Digitayzer
+- Skaner
+- Klaviatura
+#
+Sistem blokunun portları və onlara qoşulan qurğular arasında olan uyğunluğu müəyyən edin:
+1. PS/2
+2. LAN
+3. LPT
+a. printer
+b. maus
+c. modem
+d. skaner
+e. klaviatura
+- 1 - a, d; 2 - b; 3 - c, e
++ 1 - b, e; 2 - c; 3 - a, d
+- 1 - c, e; 2 - a; 3 - b, d
+- 1 - a, c; 2 - d; 3 - b, e
+- 1 - b, d; 2 - e; 3 - a, c
+# Əməli yaddaş ana platada hansı slota qoşulur?
+- IDE
++ DDR
+- PCI
+- VGA
+- SATA
+# Kompüterlə çap qurğusu arasında mübadilə aşağıdakı portlardan hansı ilə aparılır?
+- USB və COM
++ LPT və USB
+- COM
+- PS/2
+- LPT
+# IEEE 1394 portuna hansı qurğu qoşulur?
+- monitor
++ rəqəmsal kamera
+- printer
+- skaner
+- maus
+# Universal port hansıdır?
+- LPT
++ USB
+- PS/2
+- IEEE 1394
+- COM
+# LPT hansı portu ifadə edir?
+- video
++ paralel
+- ardıcıl
+- səs
+- oyun
+# COM hansı portu ifadə edir?
+- video
++ ardıcıl
+- paralel
+- səs
+- oyun
+# Ana plata ilə birləşmə üsuluna görə HDD-lərin növləri hansılardır?
+- DDR, SDR, EDR
++ ATA, SATA, IDE
+- HDMI, DVI, VGA
+- DDR, FDD, ISA
+- AGP, PCI, DVI
+# LPT portuna hansı qurğular qoşulur?
+- maus, klaviatura
++ printer, skaner
+- rəqəmli kamera, printer
+- şəbəkə kartı, modem
+- modem, coystik
+# PS/2 portuna hansı qurğular qoşulur?
+- printer, skaner
++ maus, klaviatura
+- rəqəmli kamera, printer
+- şəbəkə kartı, modem
+- modem, coystik
+# Müxtəlif xarici qurğular – skaner, maus, klaviatura və s. qoşulan yuvalar necə adlanır?
+- kontroller
++ port
+- slot
+- registr
+- sxem
+# Xarici qurğuları mərkəzi prosessorla əlaqələndirən idarəedici mikrosxem nədir?
+- Qida bloku
++ Kontroller
+- Port
+- Şin
+- Modem
+# Aşağıdakılardan hansılar periferiya qurğularıdır?
++ printer, plotter
+- daxili yaddaş qurğuları
+- daimi və əməli yaddaş
+- mərkəzi prosessor
+- hesab-məntiq qurğusu
+# Aşağıdakılardan hansı daxiletmə qurğusudur?
+- səs kolonkaları
+- plotter
+- printer
++ klaviatura
+- monitor
+# Plotter nədir?
+- xarici yaddaş qurğusu
+- daxili yaddaş qurğusu
+- giriş qurğusu
+- böyük həcmli informasiyanı kompüterə daxil edən qurğu
++ böyük formatda olan qrafik materialları çap edən qurğu
+# Aşağıdakılardan hansı həm giriş, həm də çıxış qurğusu hesab olunur?
+- ROM
+- Skaner
++ Səs kartı
+- Veb-kamera
+- Videoadapter
+# İnformasiyanın maqnit lentinə yazılmasını təmin edən qurğu necə adlanır?
+- Printer
++ Strimer
+- Modem
+- Plotter
+- Skaner
+# Aşağıdakılardan hansı xarici yaddaş qurğusu deyil?
+- HDD
++ Keş-yaddaş
+- Strimer
+- Fləş-disk
+- CD-RW
+# Hansı daxiletmə və ya xaricetmə qurğusu deyil?
+- Plotter
++ Prosessor
+- Printer
+- Monitor
+- Skaner
+# Xarici yaddaş qurğusu nə üçün istifadə olunur?
+- Parol, tarix, zaman, kompüterin konfiqurasiyasının yadda saxlanması üçün
++ İnformasiyanın uzunmüddətli saxlanması üçün
+- İnformasiyanın silinməsi üçün
+- İnformasiyanın emal olunması üçün
+- İnformasiyanın kompüterə daxil edilməsi üçün
+# Hansı daxiletmə qurğusudur?
+- Printer
++ Veb-kamera
+- Proyektor
+- Plotter
+- Monitor
+#
+Mikroprosessorun əsas xarakteristikaları hansılardır?
+1. əməli yaddaşın tutumu
+2. takt tezliyi
+3. mərtəbəlilik
+4. sərt diskin tutumu
+5. xarici qurğulara müraciətin sürəti
+- 1, 2
++ 2, 3
+- 3, 4
+- 2, 4
+- 1, 5
+# Daimi yaddaş qurğusunun abbreviaturası necədir?
+- RAM
++ ROM
+- HDD
+- CMOS
+- BIOS
+# Əməli yaddaş qurğusunun abbreviaturası necədir?
+- ROM
++ RAM
+- HDD
+- CMOS
+- BIOS
+# Prosessorun xanaları (oyuqları) necə adlanır?
+- şin
++ registr
+- yuva
+- port
+- adapter
+# Mərkəzi prosessora hansı qurğular daxildir?
+- kodlaşdırma qurğusu və hesab qurğusu
++ hesab-məntiq qurğusu və idarəetmə qurğusu
+- kodlaşdırma qurğusu və idarəetmə qurğusu
+- idarəetmə qurğusu və kontroller
+- hesab qurğusu
+# Bir takt və ya bir saniyə ərzində yerinə yetirilən əməliyyatların sayı prosessorun hansı xarakteristikasını əks etdirir?
+- mərtəbəlilik
++ takt tezliyi
+- işçi gərginlik
+- nüvənin tipi
+- keş-yaddaşın sayı
+# Eyni anda emal olunan bitlərin sayı prosessorun hansı xarakteristikasını əks etdirir?
+- takt tezliyi
++ mərtəbəlilik
+- işçi gərginlik
+- nüvənin tipi
+- keş-yaddaşın sayı
+# Giriş-çıxış qurğularını mərkəzi prosessorla əlaqələndirən elektron sxem necə adlanır?
+- adapter
++ kontroller
+- çipset
+- soprosessor
+- şin
+# Kontroller dedikdə, nə başa düşülür?
+- kompüterə qoşulan bütün periferiya qurğularının işinə nəzarət edən çipsetdir
++ xarici qurğuların işini idarə edən elektron sxemdir
+- informasiyanı emal edən qurğudur
+- ayrı-ayrı qurğuları bir-birilə əlaqələndirən informasiya mağistralıdır
+- informasiyanı yadda saxlayan qurğudur
+# “Cənub” körpüsü nə üçün nəzərdə tutulmuşdur?
+- Prosessor, əməli yaddaş və videokart arasında qarşılıqlı əlaqə yaratmaq üçün
++ PCI şini ilə kompüterə qoşulan bütün periferiya qurğularının işinə nəzarət etmək üçün
+- Prosessoru soyutmaq üçün
+- Bütün qurğuları əlaqələndirmək üçün
+- İnformasiyanı yadda saxlamaq üçün
+# “Şimal” körpüsü nə üçün nəzərdə tutulmuşdur?
+- İnformasiyanı yadda saxlamaq üçün
++ Prosessor, əməli yaddaş və videokart arasında qarşılıqlı əlaqə yaratmaq üçün
+- Bütün qurğuları əlaqələndirmək üçün
+- Periferiya qurğularını ana plataya birləşdirmək üçün
+- Prosessoru soyutmaq üçün
+# Ən mürəkkəb riyazi hesablamalar, o cümlədən “sürüşgən nöqtəli” əməliyyatlar üçün nəzərdə tutulan qurğu necə adlanır?
+- prosessor
++ soprosessor
+- yaddaş qurğusu
+- çipset
+- sistem şini
+# PCI şini ilə kompüterə qoşulan bütün periferiya qurğularının və həmçinin səs, şəbəkə, portlar kimi kontrollerlərin işinə cavabdeh olan
+nədir?
+- “şimal” körpüsü
++ “cənub” körpüsü
+- ardıcıl port
+- universal port
+- paralel port
+# Prosessor, əməli yaddaş və videokartı öz aralarında birləşdirən nədir?
+- “cənub” körpüsü
++ “şimal” körpüsü
+- ardıcıl port
+- universal port
+- paralel port
+# Aşağıdakılardan hansı periferiya qurğusu deyil?
+- monitor
++ əməli yaddaş
+- maus
+- skaner
+- printer
+# “Xüsusi qələmlə ekranda yazılan informasiyanı olduğu kimi kompüterə köçürür. Bu qurğunun ekranında nöqtələrlə deyil, xətlərlə təsvir
+alındığı üçün seyrəklik qabiliyyəti bir düymə düşən xətlərin sayı (lpi) ilə ölçülür.” Söhbət hansı qurğudan gedir?
+- Strimer
++ Qrafik planşet
+- Skaner
+- Trekbol
+- Plotter
+#
+Printerlərin əsas xarakteristikalarına aiddir:
+1. Takt tezliyi
+2. Çap sürəti
+3. Rəng imkanları
+4. Korpusunun materialı
+5. Müdafiə dərəcəsi
+6. Qiyməti
+7. Çap keyfiyyəti
+- 1, 4, 6, 7
++ 2, 3, 6, 7
+- 1, 3, 4, 5
+- 2, 3, 4, 5
+- 2, 4, 5, 6
+#
+Uyğunluğu müəyyən edin:
+1. Skaner
+2. Printer
+3. Monitor
+a. Planşet
+b. Şırnaqlı
+c. LCD
+d. Termik
+e. LED
+- 1 - d; 2 - b; 3 - a, e
++ 1 - a; 2 - b, d; 3 - c, e
+- 1 - a; 2 - d; 3 - c, e
+- 1 - c, e; 2 - b, d; 3 - a
+- 1 - e; 2 - c, d; 3 - a
+#
+Hansı mülahizə(lər) doğrudur?
+1. Plotter çıxış qurğusudur
+2. Maus çıxış qurğusudur
+3. Terabayt yaddaş tutumunun ölçü vahididir
+4. MHz yaddaş tutumunun ölçü vahididir
+5. Meqabit prosessorun sürətinin ölçü vahididir
+- 1, 2, 3
++ 1, 3
+- 2, 3, 4
+- 4, 5
+- 2, 5
+#
+Zərbsiz printerlərin növlərini seçin.
+1. literli
+2. matrisli
+3. şırnaqlı
+4. lazerli
+5. termik
+- 1, 2
++ 3, 4, 5
+- 1, 3, 5
+- 4, 5
+- 1, 5
+#
+Aşağıda verilən qurğulardan hansı həm giriş, həm də çıxış qurğusudur?
+1. Modem
+2. Plotter
+3. Faks
+4. Sensorlu ekran
+5. Proyektor
+- 1, 2, 3
++ 1, 3, 4
+- 1, 2, 4
+- 2, 3, 5
+- 2, 4, 5
+#
+Həm giriş, həm çıxış qurğularını seçin:
+1. Veb-kamera
+2. Touch Screen
+3. Modem
+4. TV-tüner
+5. Şəbəkə kartı
+6. Proyektor
+- 1, 4, 6
++ 2, 3, 5
+- 3, 4, 6
+- 3, 4, 5
+- 1, 2, 5
+#
+Monitorun əsas parametrləri hansılardır?
+1. keş yaddaşın tutumu
+2. piksellərin sayı
+3. takt tezliyi
+4. kadrların əks olunma tezliyi
+5. işçi gərginliyi
+6. korpusun materialı
+7. diaqonal üzrə ölçüsü
+8. müdafiə dərəcəsi
+- 1, 3, 5, 7
++ 2, 4, 7, 8
+- 1, 2, 5, 6
+- 1, 2, 4, 8
+- 3, 4, 7, 8
+#
+Xarici yaddaş qurğularına aiddir:
+1. sərt disk
+2. əməli yaddaş
+3. strimer
+4. keş yaddaş
+- 1, 2
++ 1, 3
+- 2, 4
+- 2, 3
+- 3, 4
+# Müxtəlif formatlı (PAL, SECAM, NTSC) televiziya verilişlərini qəbul edib, monitorda göstərilməsini təmin edən giriş qurğusu
+hansıdır?
+- digitayzer
++ TV-tüner
+- şəbəkə kartı
+- proyektor
+- səs kartı
+# Aşağıdakılardan hansı texniki qurğu deyil?
+- klaviatura
++ assembler
+- digitayzer
+- skaner
+- plotter
+# Aşağıdakı qurğulardan hansı çıxış qurğusu deyil?
+- plotter
++ skaner
+- monitor
+- proyektor
+- printer
+# Verilənlərin kompüterə daxil edilməsi və ya xaric edilməsi üçün istifadə edilən qurğular necə adlanır?
+- sistem interfeysi
+- idarəetmə qurğusu
++ periferiya qurğuları
+- hesab-məntiq qurğusu
+- daxili yaddaş qurğuları
+# Təsvirləri kompüterə daxil edir:
+- monitor
+- klaviatura
+- plotter
+- printer
++ digitayzer
+# Periferiya qurğularının yerinə yetirdiyi funksiyalar hansılardır?:
+- İnformasiyanın emal olunması
+- İnformasiyanın arxivləşdirilməsi
+- İnformasiyanın silinməsi və bərpası
++ İnformasiyanın daxil və xaric edilməsi
+- İnformasiyanın çevrilməsi
+# Skaner qurğusunun funksiyası nədən ibarətdir?
+- Mürəkkəb sxemləri, qrafikləri, keyfiyyətli rəngli təsvirləri kağız üzərinə çıxarır
+- Mikroprosessorun xarici qurğularla informasiya mübadiləsini həyata keçirir
+- Analoq tipli siqnalları rəqəm siqnallarına çevirir
+- Səs informasiyasını kampüterə daxil edir
++ Kağız üzərində olan informasiyanı kompüterə daxil edir
+# Hansı tip printerlərdə təsvir iynələrlə formalaşır?
+- Lazer
+- Literli
+- Termik
++ Matris
+- Şırnaqlı
+# Plotter nə qurğusudur?
+- nəzarət
+- yaddaş
++ çıxış
+- giriş
+- kommunikasiya
+# Giriş qurğuları nə üçün istifadə edilir?
+- Verilənləri çapa vermək üçün
+- Verilənləri mübadilə etmək üçün
+- Verilənləri kompüterdən xaric etmək üçün
+- İnformasiyanı yadda saxlamaq üçün
++ Verilənləri kompüterə daxil etmək üçün
+# Monitor ekranının diaqonalı nə ilə ölçülür?
+- piksel
+- mm
++ düym
+- bit
+- punkt
+# Aşağıdakılardan hansı giriş qurğusu deyil?
+- Veb-kamera
+- Skaner
+- Mikrofon
++ Plotter
+- Klaviatura
+# Hansı qurğu 2 funksiya yerinə yetirir?
+- səs kolonkaları
+- printer
+- monitor
++ səs kartı
+- skaner
+# Aşağıdakılardan hansı çıxış qurğusudur?
+- Klaviatura
+- Prosessor
+- Veb-kamera
++ Printer
+- Skaner
+# Monitorun seyrəklik qabiliyyəti nə ilə təyin olunur?
+- Ekran pikselinin qiyməti ilə
+- Kadrların əks olunma tezliyi ilə
+- Ekranın diaqonalının ölçüsü ilə
++ Ekranda əks olunan piksellərin sayı ilə
+- Müşahidə bucağı ilə
+# Hansı informasiya daşıyıcısı deyil?
+- Disk
++ Videoadapter
+- Xəritə
+- Ensiklopediya
+- Jurnal
+# Aşağıdakılardan hansı informasiya daşıyıcısı deyil?
+- Fləş kart
++ Səs kartı
+- DVD
+- Kitab
+- Qlobus
+# 1 saniyədə həyata keçirilən 1 ölçmə necə adlanır?
+- 1 düym
++ 1 hers
+- 1 piksel
+- 1 bit
+- 1 bayt
+# Sərt diskin fırlanma sürəti hansı vahidlə ölçülür?
+- MHz
++ dövr/dəq
+- Mbit/san
+- m/san
+- sm/san
+# Şəbəkə kartının funksiyası nədir?
+- Kompüter işləyərkən enerjinin qəfil itməsinin qarşısını alır
++ İki və daha çox kompüter arasında əlaqə yaradaraq informasiya mübadiləsi aparmağa imkan verir
+- Kompüterə əməliyyat sistemini yükləyir
+- Kompüterin müəyyən səviyyədə tərkibini (qurğular, bloklar, qovşaqlar və s.) və onlar arasındakı əlaqələri təyin edir
+- Kompüterin yaddaşındakı məlumatı xarici yaddaşa verir
+#
+“RAM texnologiyası ilə hazırlandığı üçün HDD-lərlə müqayisədə 2-3 dəfə sürətli olan bir xarici yaddaş növüdür. Tamamilə elektronik
+bir qurğu olduğu üçün xarici zərbələrə qarşı davamlıdır. HDD-yə nisbətən sürətli və səssiz işləyən bir yaddaşdır. Həcmi terabaytlarla
+ölçülür.” Söhbət hansı xarici yaddaş qurğusundan gedir?
+- Blu-Ray Disc
++ SSD
+- Mobil sərt disk
+- HD-DVD
+- Keş yaddaş
+# Konkret qurğunun əməliyyat sistemi ilə qarşılıqlı əlaqəsini yaratmaq üçün hansı proqramdan istifadə olunur?
+- İnstrumental proqram
++ Drayver
+- Utilit
+- Fayl sistemi
+- Örtük proqramı
+# Fərdi kompüterdə istifadə olunan multimediya qurğusu hansıdır?
+- Printer
++ Səs kolonkaları
+- Qrafik planşet
+- Strimer
+- Klaviatura
+# Monoxrom displey təsvirləri neçə rəngdə əks etdirir?
+- 4
++ 2
+- 16
+- 32
+- 8
+#
+Hansı doğrudur?
+“Kompüter - ... istifadə oluna bilər”
+1) Prosessorsuz
+2) Daxili yaddaşsız
+3) Printersiz
+4) Veb-kamerasız
+- 2
++ 3, 4
+- 1, 2
+- 1, 3
+- 1, 4
+#
+Aşağıdakı hökmlərdən hansıları doğrudur?
+1. Veb-kameralar video təsvirlərin rəqəmli formatda qəbuluna imkan verir.
+2. Hesab-məntiq qurğusu mərkəzi prosessorun tərkibinə daxil deyil.
+3. Keş-yaddaş kiçik tutumlu çox sürətli yaddaşdır.
+4. Kompüterin sürəti bir saniyədə yerinə yetirdiyi elementar əməliyyatların miqdarı ilə ölçülür.
+- 3, 4
++ 1, 3, 4
+- 1, 2, 4
+- 1, 2, 3, 4
+- 2, 3
+#
+Uyğunluğu müəyyən edin:
+1. Mikroprosessorun əsas xarakteristikası
+2. Monitorun əsas xarakteristikası
+3. Printerin əsas xarakteristikası
+a. Əmrlər sistemi
+b. Mərtəbəlilik
+c. Rəng imkanları
+d. Kadrların əksolunma tezliyi
+e. Müşahidə bucağı
+- 1 - b; 2 - a, c; 3 - e
++ 1 - a, b; 2 - d, e; 3 - c
+- 1 - b, e; 2 - a; 3 - d
+- 1 - c, d; 2 - a; 3 - b
+- 1 - d, e; 2 - c; 3 - a
+#
+Aşağıdakı mülahizələrdən hansı doğrudur?
+1. BIOS əməliyyat sisteminin ilkin yüklənməsini təşkil edir
+2. Əməli yaddaş aktiv proqram və verilənlərin müvəqqəti saxlanması üçündür
+3. Səs platası informasiya daşıyıcısıdır
+4. Şırnaqlı printerlərdə çap üçün mürəkkəbdən istifadə olunur
+5. Kontroller ana plata üzərində yerləşən yaddaş qurğusudur
+6. DVD-R-ə məlumatı dəfələrlə yazıb silmək mümkündür
+- 3, 5, 6
++ 1, 2, 4
+- 2, 3, 5
+- 1, 4, 5
+- 1, 4, 6
+#
+Doğru mülahizələri seçin.
+1. Fərdi kompüterlər mini EHM-lərin bir sinfini təşkil edir.
+2. Plotter – böyük həcmli sxemləri, şəkilləri yüksək keyfiyyətlə çapa verən qurğudur.
+3. Abak avtomatik hesablama xüsusiyyətinə malikdir.
+4. Prosessorun takt tezliyi dedikdə, vahid zamanda emal etdiyi informasiya bitlərinin miqdarı nəzərdə tutulur.
+5. Strimer – informasiyanı maqnit lenti üzərində saxlayan xarici yaddaş qurğusudur.
+6. Periferiya qurğularını mərkəzi prosessorla əlaqələndirmək üçün kontrollerlərdən istifadə olunur.
+7. ROM enerjidən asılı deyil, kompüter elektrik şəbəkəsindən ayrıldıqda belə oradakı informasiya saxlanılır.
+- 2, 3, 5, 7
+- 1, 2, 4, 6
++ 2, 5, 6, 7
+- 3, 4, 5, 7
+- 1, 3, 4, 6
+# Ardıcıl müraciətli xarici yaddaş hansıdır?
+- Çevik disk
+- Sərt disk
+- Fləş-disk
++ Strimer
+- Kompakt disk
+# Displeyin qrafik rejimdə ekrana çıxarılan informasiya vahidi hansıdır?
+- Vektor
+- Bit
+- Bayt
++ Piksel
+- Simvol
+# Aşağıdakı mühakimələrdən hansı doğrudur?
+- Monitor giriş qurğusudur
+- Mikroprosessor periferiya qurğusudur
+- TV-tüner çıxış qurğusudur
+- Printer kodlaşdırma qurğusudur
++ Veb-kamera giriş qurğusudur
+# PrintScreen düyməsi hansı funksiyanı yerinə yetirir?
+- Klaviaturanın simvollarını əvəzetmə rejiminə keçirir
+- Ekran təsvirini çap edir
+- Məlumat pəncərəsini açır
++ Ekran təsvirini mübadilə buferinə göndərir
+- Sənədi bir səhifə aşağı salır
+# Skanerin aktiv imkanları nə ilə ölçülür?
+- Qabarit ölçüləri
+- Növü
++ 1 düymə düşən nöqtələrin sayı
+- Daxil edilən informasiyanın tipi
+- Qiyməti

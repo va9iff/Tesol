@@ -1,2 +1,5 @@
-politologiya
-quiz 1
+politologiya @ ./quizes/politologiya.txt
+quiz 1 @ ./quizes/quiz 1.txt
+Mülki müdafiə @ ./quizes/Mülki müdafiə.txt
+Kompüter arxitekturası @ ./quizes/Kompüter arxitekturası.txt
+politologiya' @ https://raw.githubusercontent.com/va9iff/tesol/main/quizes/politologiya.txt

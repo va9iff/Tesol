@@ -4,3 +4,9 @@
 - əlavə olunur
 + doğru sual da
 - daxil
+# 2 sualdan ibarət test
+- sadəcə sınaq məqsədlidir
+- bu sualda doğru cavab yoxdur :)
+- cavabsız şəkildə suallar verilə bilər
+- istənilən sayda cavablar təyin oluna bilər
+- hamısında doğru cavabın məxfiliyi qorunur

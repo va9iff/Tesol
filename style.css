@@ -11,7 +11,7 @@ html{
 }
 
 .me {
-	position: absolute;
+	position: fixed;
 	left: 50%;
 	top: 50%;
 	transform: translate(-50%, -50%);
@@ -169,10 +169,20 @@ html, body {
 
 .question.initial .answer {
 	animation: expand 380ms cubic-bezier(0.137, 0.21, 0.22, 1.28);
+	transform-origin: right;
 
 /*	background-color: violet;*/
 /*	background: linear-gradient(292.9deg, rgb(254, 105, 241) 28.8%, rgb(182, 44, 248) 70.4%);*/
-background: linear-gradient(90deg, rgb(36, 31, 98, 0.7), rgba(121, 45, 129, 0));
+/*background: linear-gradient(90deg, rgb(36, 31, 98, 0.7), rgba(121, 45, 129, 0));*/
+/*background-color: rgba(43, 37, 117, 0.7);*/
+/*box-shadow: 0 0 5px #eee inset;*/
+/*border-width: 4px;*/
+/*margin-top: 2rem;*/
+/*opacity: 0.8;*/
+/*background-color: #333;*/
+/*color: #ddd;*/
+
+
 }
 
 
@@ -570,4 +580,26 @@ body.hideui .swapButtons {
 	background-color: #eee1;
 
 	transform: scale(1.0);
+}
+
+@keyframes quizAnim{
+	from{
+		transform: scale(0.4);
+		opacity: 0;
+/*width: 0;*/
+	}
+	to{
+		transform: scale(1);
+		opacity: 1;
+/*width: 100%;*/
+
+	}
+}
+
+.quiz{
+	background-color: hsl(216deg 14% 5%);
+	position: relative;
+	transform-origin: top;
+	animation-name: quizAnim;
+	animation-duration: 500ms;
 }
