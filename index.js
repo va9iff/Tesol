@@ -44,6 +44,8 @@ function hideui() {
 }
 
 async function startFreshQuestions(url){
+	status.classList.remove("hideStatus")
+
 	document.body.classList.remove('hideui')
 	document.body.classList.add('running')
 	main.innerHTML = ''
@@ -60,9 +62,16 @@ async function startFreshQuestions(url){
 	lastQuestion.addEventListener("click",e=>lastQuestion.classList.remove('initial'))
 	gotoNum.max = +questions.length	
 
+	$.opt1.click()
+	status.innerText = "tamamlandı"
+	status.classList.add("hideStatus")
+
+
 }
 
 async function getQuestions(url) {
+	status.classList.remove("hideStatus")
+	status.classList.remove("fetchingDone")
 	status.classList.add("fetching")
 	status.innerText = "suallar alınır"
 	let questionsText = await getQuestionsText(url)
@@ -247,8 +256,9 @@ $.more.onclick = e => {
 }
 $.opt1.onclick = e => {
 	console.log(moreOpened)
+	e.stopPropagation() // this closes the $.more and is inside the $.more
+	// so we have to prevent from clicking the $.more again after clicked it 
 	if (moreOpened){
-		e.stopPropagation()
 		$.topIcons.classList.remove('moreOpened')
 		$.more.classList.remove('opened')
 	}
@@ -344,9 +354,9 @@ $.more.addEventListener("touchend", e=>{
 $.quizesIcon.onclick = e => hideui()
 
 // norm()
+// status.classList.add("hideStatus")
+// setTimeout(()=>status.remove(),300)
 status.classList.add("hideStatus")
-setTimeout(()=>status.remove(),300)
-
 // startFreshQuestions()
 hideui()
 
