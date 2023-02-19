@@ -44,6 +44,8 @@ function hideui() {
 }
 
 async function startFreshQuestions(url){
+	// document.body.requestFullscreen()
+
 	status.classList.remove("hideStatus")
 
 	document.body.classList.remove('hideui')
@@ -118,6 +120,7 @@ function goTo(num, direction = null /*true for next, flase for prev*/) {
 	lastQuestion.removeAfter(300)
 	lastQuestion = q
 	current = num
+	gotoNum.value = current + 1
 	norm()
 }
 
@@ -197,7 +200,7 @@ $.next.onclick = e => next()
 $.prev.onclick = e => prev()
 
 
-let norms = [$.fullScreen, $.eye, $.pull, $.goto]
+let norms = [$.fullScreen, $.eye, $.pull, $.goto, $.invert, $.quizesIcon]
 let hides = [$.gotoNum]
 function norm() {
 	norms.forEach(a=>a.classList.remove('hidden'))
@@ -352,6 +355,9 @@ $.more.addEventListener("touchend", e=>{
 })
 
 $.quizesIcon.onclick = e => hideui()
+
+$.invert.onclick = e => document.body.classList.toggle('invertLights')
+
 
 // norm()
 // status.classList.add("hideStatus")
