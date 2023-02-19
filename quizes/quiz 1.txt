@@ -1,10 +1,12 @@
 # Tesol inkişaf etmiş və yüksək performanslı bir test platforması və rahat şəkildə testlərin tərtibi üçün bir dildir. 
-Suallar kliklədiyiniz (və ya keçdiyiniz) anda yox, testi açdıqda tam şəkildə Tesol sintaksı tam qeydi yüklənir. Bu da sualları açdıqdan sonra internet və ya heç bir şəbəkəyə bağlılığa olan ehtiyacı aradan qaldırır. 
+Suallar kliklədiyiniz (və ya keçdiyiniz) anda yox, testi açdıqda tam şəkildə Tesol sintaksı ilə tam qeydi yüklənir. Bu da sualları açdıqdan sonra internet və ya hər hansısa şəbəkəyə bağlılığa olan ehtiyacı aradan qaldırır. 
 Server ilə paralelliyin təmini üçün gərəkən prosedurların yüklənməsi isə istifadəçiyə təsir etmədən arxa planda aparıla bilər. 
 
 Tesol'un ən böyük avantajlarından biri isə mobildə praktik interfeysin təminidir. 
 
-Mobil telefonunuzda sualları barmağınızla sağa və ya sola sürüşdürməklə növbəti və öncəki suallara keçə bilərsiniz. 
+Mobil telefonunuzda sualları barmağınızla sağa və ya sola sürüşdürməklə növbəti və öncəki suallara keçid edə bilərsiniz. 
+
+Ayrıca ənənəvi quiz yaratmadan portallarından fərqli olaraq istədiyiniz medianı (şəkil, səs, video) suallarınızda daxil edə bilərsiniz. Tesol özü sual yazılması üçün sadə bir dil olsa siz əslində HTML daxilində bunları yazırsınız - yəni bütün veb xüsusiyyətlərdən yararlana bilərsiniz. İstənilən rəsmi img tag'i ilə artıra bilər, səsi, videonu, hətta YouTube videosu belə qoya bilərsiniz.
 
 # Suallar öz dili vasitəsilə çox bəsit şəkildə kompozisiya olunur: 
 Tesol dilində sual diyez (#), cavab mənfi işarəsi (-), doğru cavab isə üstə gəl (+) işarəsi 
