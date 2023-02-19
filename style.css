@@ -282,6 +282,9 @@ html, body {
 .asking>i{
 	opacity: 0.7;
 }
+.asking>span.num{
+/*	opacity: 0.7;*/
+}
 
 .swapButtons{
 	animation: expand 380ms cubic-bezier(0.137, 0.21, 0.22, 1.28);

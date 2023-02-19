@@ -154,7 +154,7 @@ function createQuestion(question) {
 	question.num ??= current
 	q.innerHTML = `
 		<div class="asking">
-			<i>${+question.num+1}.</i> ${texty(question.asking)}
+			<i>${questions.length}/ ${+question.num+1}</i> ${texty(question.asking)}
 		</div>
 		<div class="answers"></div>
 	`
