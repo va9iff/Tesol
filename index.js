@@ -8,6 +8,7 @@ const el = str =>{
 	return el
 }
 
+
 let main = $.main
 let current = 0
 let questions = []
@@ -17,8 +18,9 @@ let quizesData = (await (await fetch("./quizes.txt")).text()).split('\n').map(co
 
 let quizesEl = $.quizes
 for (let [quizName, quizUrl] of quizesData){
+	if (quizName[0] == '/' && quizName[1] == '/' || !quizName.trim()) continue
 	let quiz = document.createElement("div")
-	quiz.innerText = quizName
+	quiz.innerHTML = quizName
 	quiz.className = ('quiz')
 	quizesEl.appendChild(quiz)
 	quiz.onclick = e=>{
@@ -30,9 +32,22 @@ for (let [quizName, quizUrl] of quizesData){
 
 // let questionAdress = "./questions.txt"
 
+let abortController
 async function getQuestionsText(url){
 	console.log(`fetching for quiz: ${url}`)
-	let res = await fetch(url)
+
+	if (abortController) {
+		abortController.abort()
+	}
+	try {
+		abortController = new AbortController()
+		var res = await fetch(url, {signal: abortController.signal})
+	} catch (err){
+		status.className = 'status'
+		status.innerText = 'Suallar alına bilmədi'
+	}
+
+
 	let text = await res.text()
 	return text
 }
@@ -40,24 +55,26 @@ async function getQuestionsText(url){
 function hideui() {
 	document.body.classList.add('hideui')
 	document.body.classList.remove("running")
-
+	status.className = "status hideStatus"
 }
 
 async function startFreshQuestions(url){
 	// document.body.requestFullscreen()
 
-	status.classList.remove("hideStatus")
+	status.className = "status hideStatus"
 
 	document.body.classList.remove('hideui')
 	document.body.classList.add('running')
-	main.innerHTML = ''
 	current = 0
 	questions = []
 
+	main.innerHTML = `${url.replaceAll('/', '<wbr />/')}`
 
+	try {
 
 	questions = await getQuestions(url)
 
+	main.innerHTML = ''
 	lastQuestion = createQuestion(questions[0])
 	main.appendChild(lastQuestion)
 	lastQuestion.classList.add('initial')
@@ -66,20 +83,20 @@ async function startFreshQuestions(url){
 
 	$.opt1.click()
 	status.innerText = "tamamlandı"
-	status.classList.add("hideStatus")
+	status.className = "status fetchingDone hideStatus"
+	} catch (err){}
 
 
 }
 
 async function getQuestions(url) {
-	status.classList.remove("hideStatus")
-	status.classList.remove("fetchingDone")
-	status.classList.add("fetching")
+	status.className = "status fetching"
 	status.innerText = "suallar alınır"
-	let questionsText = await getQuestionsText(url)
-	status.classList.add("fetchingDone")
 
-	let questionsRaw = questionsText.split(/(?=#)/)
+	let questionsText = await getQuestionsText(url)
+	status.className = "fetchingDone"
+
+	let questionsRaw = questionsText.split(/(?=\n#)/)
 	let questions = questionsRaw.map(questionRaw => {
 		let question = { asking: "~va9iff", answers: [], correctId: 0 }
 		let components = questionRaw.split(/(?=(?:\n#)|(?:\n\+)|(?:\n-))/)
@@ -126,6 +143,10 @@ function goTo(num, direction = null /*true for next, flase for prev*/) {
 
 // setTimeout(()=>goTo(9),500)
 
+function texty(t) {
+	return t.replaceAll("\n", "<br />")
+}
+
 function createQuestion(question) {
 	let q = el("div.question")
 	q.setAttribute("s", unique())
@@ -133,7 +154,7 @@ function createQuestion(question) {
 	question.num ??= current
 	q.innerHTML = `
 		<div class="asking">
-			<i>${+question.num+1}.</i> ${question.asking}
+			<i>${+question.num+1}.</i> ${texty(question.asking)}
 		</div>
 		<div class="answers"></div>
 	`
@@ -149,7 +170,7 @@ function createQuestion(question) {
 			if (question.correct == i )
 				answerElement.classList.add('correct')
 		}
-		answerElement.innerText = answer
+		answerElement.innerHTML = texty(answer)
 		answerElement.onclick = e => {
 			question.answerElements.forEach(ans=>ans.classList.remove('selected'))
 			if (question.correct == i) answerElement.classList.add('correct')
@@ -362,8 +383,23 @@ $.invert.onclick = e => document.body.classList.toggle('invertLights')
 // norm()
 // status.classList.add("hideStatus")
 // setTimeout(()=>status.remove(),300)
-status.classList.add("hideStatus")
+status.className = "status hideStatus"
 // startFreshQuestions()
 hideui()
 
 // $.quiz.click()
+
+
+try {
+	if (   navigator.userAgent.match(/Android/i) 
+		|| navigator.userAgent.match(/webOS/i) 
+		|| navigator.userAgent.match(/iPhone/i) 
+		|| navigator.userAgent.match(/iPad/i) 
+		|| navigator.userAgent.match(/iPod/i) 
+		|| navigator.userAgent.match(/BlackBerry/i) 
+		|| navigator.userAgent.match(/Windows Phone/i))
+			main.classList.add('pulled')
+
+} catch (err){
+	console.log(err)
+}

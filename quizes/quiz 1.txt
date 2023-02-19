@@ -1,12 +1,16 @@
-# bu bir sınaq sualıdır
-- istənilən cavablar
-- rahatlıqla
-- əlavə olunur
-+ doğru sual da
-- daxil
-# 2 sualdan ibarət test
-- sadəcə sınaq məqsədlidir
-- bu sualda doğru cavab yoxdur :)
-- cavabsız şəkildə suallar verilə bilər
-- istənilən sayda cavablar təyin oluna bilər
-- hamısında doğru cavabın məxfiliyi qorunur
+# Tesol inkişaf etmiş və yüksək performanslı bir test platforması və rahat şəkildə testlərin tərtibi üçün bir dildir. 
+Suallar kliklədiyiniz (və ya keçdiyiniz) anda yox, testi açdıqda tam şəkildə Tesol sintaksı tam qeydi yüklənir. Bu da sualları açdıqdan sonra internet və ya heç bir şəbəkəyə bağlılığa olan ehtiyacı aradan qaldırır. 
+Server ilə paralelliyin təmini üçün gərəkən prosedurların yüklənməsi isə istifadəçiyə təsir etmədən arxa planda aparıla bilər. 
+
+Tesol'un ən böyük avantajlarından biri isə mobildə praktik interfeysin təminidir. 
+
+Mobil telefonunuzda sualları barmağınızla sağa və ya sola sürüşdürməklə növbəti və öncəki suallara keçə bilərsiniz. 
+
+# Suallar öz dili vasitəsilə çox bəsit şəkildə kompozisiya olunur: 
+Tesol dilində sual diyez (#), cavab mənfi işarəsi (-), doğru cavab isə üstə gəl (+) işarəsi 
+ilə qeyd olunur. 
+
+(aşağıdan göz işarəsi ilə seçdiyiniz cavablarınızı yoxlaya bilərsiniz)
+
+- hər hansısa bir cavab
++ doğru cavab

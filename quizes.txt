@@ -1,5 +1,9 @@
-politologiya @ ./quizes/politologiya.txt
-quiz 1 @ ./quizes/quiz 1.txt
+<br /> TESOL <br /> <wbr /> @ ./quizes/quiz 1.txt
+
 Mülki müdafiə @ ./quizes/Mülki müdafiə.txt
 Kompüter arxitekturası @ ./quizes/Kompüter arxitekturası.txt
-politologiya' @ https://raw.githubusercontent.com/va9iff/tesol/main/quizes/politologiya.txt
+
+politologiya @ ./quizes/politologiya.txt
+politologiya (xarici mənbə) @ https://raw.githubusercontent.com/va9iff/tesol/main/quizes/politologiya.txt
+ekstrimal uzunluq testi @ ./quizes/Ekstrimal uzunluq testi.txt
+yanlış qaynaq @ https://www.suallar.com/va9iff/movzu/quizes/quiz.txt

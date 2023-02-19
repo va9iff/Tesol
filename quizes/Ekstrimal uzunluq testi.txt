@@ -1,0 +1,94 @@
+# Bu testdə həddindən artıq uzun məzmuna sahib sualların və çox sayıda cavaba qarşı Tesolun nə cür bir interfeys təqdim edə biləcəyini müşahidə etmək üçün bir nümunədir.
+
+# 20 cavaba sahib uzun sual: 
+bu nümunə sual üçün verilən tekst təkrarlanaraq uzadılacaq və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir 
+
+- 20 cavabdan sadəcə biri
+- 20 cavabdan sadəcə biri
+- 20 cavabdan sadəcə biri
+- 20 cavabdan sadəcə biri
+- 20 cavabdan sadəcə biri
+- 20 cavabdan sadəcə biri
+- 20 cavabdan sadəcə biri
+- 20 cavabdan sadəcə biri
+- 20 cavabdan sadəcə biri
+- 20 cavabdan sadəcə biri
+- 20 cavabdan sadəcə biri
+- 20 cavabdan sadəcə biri
+- 20 cavabdan sadəcə biri
+- 20 cavabdan sadəcə biri
+- 20 cavabdan sadəcə biri
+- 20 cavabdan sadəcə biri
++ 20 cavabdan sadəcə biri
+- 20 cavabdan sadəcə biri
+- 20 cavabdan sadəcə biri
+- 20 cavabdan sadəcə biri
+- 20 cavabdan sadəcə biri
+- 20 cavabdan sadəcə biri
+- 20 cavabdan sadəcə biri
+- 20 cavabdan sadəcə biri
+- 20 cavabdan sadəcə biri
+- 20 cavabdan sadəcə biri
+- 20 cavabdan sadəcə biri
+- 20 cavabdan sadəcə biri
+- 20 cavabdan sadəcə biri
+- 20 cavabdan sadəcə biri
+- 20 cavabdan sadəcə biri
+
+# 1 cavaba sahib uzun sual: 
+bu nümunə sual üçün verilən tekst təkrarlanaraq uzadılacaq və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir və bu təkrarı oxusaq belə harda qırıldığını itirəcək qədər başı sonunu tamamlayan bir tekstdir hansı ki sizi uzun sualla təmin edir 
+
+- bir cavab
+
+# 50 cavaba sahib adi bir sual: 
+
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
+- 50 sualdan sadəcə biri
