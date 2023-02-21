@@ -473,7 +473,7 @@ input {
 
 *.hidden{
 	display: none !important;
-	background-color: red;
+/*	background-color: red;*/
 }
 
 :fullscreen .fullScreen {

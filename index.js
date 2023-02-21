@@ -1,6 +1,5 @@
 let unique = ((a = 0) => () => a++)()
 const $ = new Proxy({}, { get: (_, c) => document.querySelector(`.${c}`) })
-const status = $.status
 const el = str =>{
 	const strs = str.split('.')
 	let el = document.createElement(strs.shift())
@@ -9,20 +8,20 @@ const el = str =>{
 }
 
 
-let main = $.main
+const { main, quizes, status } = $
+
 let current = 0
 let questions = []
 let lastQuestion = document.createElement('div')
 
 let quizesData = (await (await fetch("./quizes.txt")).text()).split('\n').map(couple => couple.split('@'))
 
-let quizesEl = $.quizes
 for (let [quizName, quizUrl] of quizesData){
 	if (quizName[0] == '/' && quizName[1] == '/' || !quizName.trim()) continue
 	let quiz = document.createElement("div")
 	quiz.innerHTML = quizName
 	quiz.className = ('quiz')
-	quizesEl.appendChild(quiz)
+	quizes.appendChild(quiz)
 	quiz.onclick = e=>{
 		// questionAdress = `./quizes/${quizName}.txt`
 		startFreshQuestions(quizUrl)
@@ -81,7 +80,7 @@ async function startFreshQuestions(url){
 	lastQuestion.addEventListener("click",e=>lastQuestion.classList.remove('initial'))
 	gotoNum.max = +questions.length	
 
-	$.opt1.click()
+	$.close.click()
 	status.innerText = "tamamlandı"
 	status.className = "status fetchingDone hideStatus"
 	} catch (err){}
@@ -278,7 +277,7 @@ $.more.onclick = e => {
 	$.topIcons.classList.add('moreOpened')
 	$.more.classList.add('opened')
 }
-$.opt1.onclick = e => {
+$.close.onclick = e => {
 	console.log(moreOpened)
 	e.stopPropagation() // this closes the $.more and is inside the $.more
 	// so we have to prevent from clicking the $.more again after clicked it 
