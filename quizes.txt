@@ -1,8 +1,7 @@
 <br /> TESOL - SOPHISTICATED TESTING PROJECT <br /> <wbr /> @ ./quizes/quiz 1.txt
-
+Fəlsəfə @ ./quizes/felsefe.txt
 Mülki müdafiə @ ./quizes/Mülki müdafiə.txt
 Kompüter arxitekturası @ ./quizes/Kompüter arxitekturası.txt
-
 politologiya @ ./quizes/politologiya.txt
 politologiya (xarici mənbə) @ https://raw.githubusercontent.com/va9iff/tesol/main/quizes/politologiya.txt
 Azərbaycanın tarixi @ ./quizes/Azərbaycanın tarixi.txt
