@@ -1,4 +1,5 @@
 L. Aliyeva - Tarix @ ./quizes/tarix-2024.txt
+L. Aliyeva - Mülki müdafiə @ ./quizes/mulki-mudafie-2024.txt
 <br /> TESOL - SOPHISTICATED TESTING PROJECT <br /> <wbr /> @ ./quizes/quiz 1.txt
 Fəlsəfə @ ./quizes/felsefe.txt
 Mülki müdafiə @ ./quizes/Mülki müdafiə.txt
